@@ -7,6 +7,12 @@
 <img src="./imgs/logo.svg" alt="深研派" height="100">
 </div>
 
+<div align="center">
+<p align="center">
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.5em;">171</span> 天</b>
+</p>
+</div>
+
 # 2025年度医农类保研夏令营通知合集-按截止日期排序
 
 本页面收集整理2025年度各高校医农类专业保研夏令营通知信息，按截止日期排序。
