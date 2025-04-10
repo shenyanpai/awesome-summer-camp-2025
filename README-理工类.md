@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.5em;">171</span> 天</b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.2em;">170</span> 天</b>
 </p>
 </div>
 
@@ -53,6 +53,7 @@
 |:------------:|:---------|
 | 2025-06-12 | [2025年北京大学前沿交叉学科研究院关于举办2025年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860) |
 | 2025-06-12 | [2025年北京大学生命科学联合中心（北大方面）和PTN项目（北大方面）关于联合举办“2025年全国优秀大学生夏令营”活动的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859) |
+| 2025-06-12 | [2025年北京大学前沿交叉学科研究院定量生物学中心优秀大学生夏令营招生简章](https://cqb.pku.edu.cn/info/1064/2991.htm) |
 | 2025-05-05 | [2025年北京大学物理学院“大气与海洋科学优秀大学生夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10956.htm) |
 | 2025-04-27 | [2025年北京大学统计科学中心2025年优秀大学生夏令营](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA) |
 | 2025-04-16 | [2025年北京大学生命科学学院关于举办“2025年全国优秀大学生夏令营”活动的通知（第一轮）](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html) |

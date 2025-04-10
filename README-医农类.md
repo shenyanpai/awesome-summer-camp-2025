@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.5em;">171</span> 天</b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.2em;">170</span> 天</b>
 </p>
 </div>
 
@@ -36,6 +36,12 @@
 [![文法类](https://img.shields.io/badge/文法类-orange?style=for-the-badge)](./README-文法类-截止日期.md)
 [![医农类](https://img.shields.io/badge/医农类-red?style=for-the-badge)](./README-医农类-截止日期.md)
 ## 📢 通知清单
+
+### 广州医科大学
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-15 | [2025年广州医科大学呼吸疾病全国重点实验室2025年暑期大学生夏令营！](https://mp.weixin.qq.com/s/eEnST7GQ-gdoHhguwcg1ig) |
 
 ### 中国科学院
 
