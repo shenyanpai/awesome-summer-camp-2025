@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.2em;">169</span> 天</b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.2em;">168</span> 天</b>
 </p>
 </div>
 
@@ -17,27 +17,30 @@
 
 本页面收集整理2025年度各高校经管类专业保研夏令营通知信息。
 
+<div align="center">
+<p style="font-size: 1.2em; color: #ff0000; font-weight: bold;">
+信息实时更新，全网最快最全
+</p>
+</div>
+
 ## 🔍 导航
+### 🏫 按学校导航
 
-## 按学校划分
+<p >
+📚 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README.md" target="_blank"><b><u>全部</u></b></a>&nbsp; | &nbsp;🔬 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-理工类.md" target="_blank"><b><u>理工类</u></b></a>&nbsp; | &nbsp;💰 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-经管类.md" target="_blank"><b><u>经管类</u></b></a>&nbsp; | &nbsp;📝 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-文法类.md" target="_blank"><b><u>文法类</u></b></a>&nbsp; | &nbsp;🏥 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-医农类.md" target="_blank"><b><u>医农类</u></b></a>
+</p>
 
-[![全部](https://img.shields.io/badge/全部-purple?style=for-the-badge)](./README.md)
-[![理工类](https://img.shields.io/badge/理工类-blue?style=for-the-badge)](./README-理工类.md)
-[![经管类](https://img.shields.io/badge/经管类-green?style=for-the-badge)](./README-经管类.md)
-[![文法类](https://img.shields.io/badge/文法类-orange?style=for-the-badge)](./README-文法类.md)
-[![医农类](https://img.shields.io/badge/医农类-red?style=for-the-badge)](./README-医农类.md)
+### 📅 按截止日期导航
 
+<p >
+📚 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-截止日期.md" target="_blank"><b><u>全部</u></b></a>&nbsp; | &nbsp;🔬 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-理工类-截止日期.md" target="_blank"><b><u>理工类</u></b></a>&nbsp; | &nbsp;💰 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-经管类-截止日期.md" target="_blank"><b><u>经管类</u></b></a>&nbsp; | &nbsp;📝 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-文法类-截止日期.md" target="_blank"><b><u>文法类</u></b></a>&nbsp; | &nbsp;🏥 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-医农类-截止日期.md" target="_blank"><b><u>医农类</u></b></a>
+</p>
 
-## 按截止日期划分
-
-[![全部](https://img.shields.io/badge/全部-purple?style=for-the-badge)](./README-截止日期.md)
-[![理工类](https://img.shields.io/badge/理工类-blue?style=for-the-badge)](./README-理工类-截止日期.md)
-[![经管类](https://img.shields.io/badge/经管类-green?style=for-the-badge)](./README-经管类-截止日期.md)
-[![文法类](https://img.shields.io/badge/文法类-orange?style=for-the-badge)](./README-文法类-截止日期.md)
-[![医农类](https://img.shields.io/badge/医农类-red?style=for-the-badge)](./README-医农类-截止日期.md)
 ## 📢 通知清单
 
-### 清华大学
+<div align="center">
+<h3>清华大学</h3>
+</div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
@@ -50,7 +53,9 @@
 | 2025-05-04 | [2025年清华大学经济管理学院经济管理学科博士夏令营活动通知](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm) |
 | 2025-04-29 | [2025年清华大学五道口金融学院金融学博士全国优秀大学生夏令营活动通知](https://www.pbcsf.tsinghua.edu.cn/info/1147/9567.htm) |
 
-### 北京大学
+<div align="center">
+<h3>北京大学</h3>
+</div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
@@ -62,7 +67,9 @@
 | 2025-04-22 | [2025年北京大学光华管理学院统计学专业夏令营通知](https://mp.weixin.qq.com/s/0KPD4C8hrnrTZ0D__0gi0Q) |
 | ~~2025-03-23~~ | [2025年北京大学经济学院第十四届新时代中国青年经济论坛报名开启](https://mp.weixin.qq.com/s/p7Q98fAULzo9pAn6NJ5N4w) |
 
-### 上海交通大学
+<div align="center">
+<h3>上海交通大学</h3>
+</div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
@@ -72,7 +79,9 @@
 | 2025-06-24 | [2025年上海交通大学安泰经管学院金融硕士2026级优才营正式启动上海南京合肥宣讲会同步开放报名](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw) |
 | 2025-06-16 | [2025年上海交通大学安泰经济与管理学院优才营2026年入学全面启动](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg) |
 
-### 复旦大学
+<div align="center">
+<h3>复旦大学</h3>
+</div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
@@ -82,19 +91,25 @@
 | 2025-05-10 | [2025年复旦大学经济学院2025年第七届全国优秀本科直博夏令营活动报名通知](https://econ.fudan.edu.cn/info/1307/30147.htm) |
 | 2025-05-10 | [2025年复旦大学经济学院2025年第十四届金融专硕全国优秀大学生夏令营活动通知](https://econ.fudan.edu.cn/info/1519/30167.htm) |
 
-### 上海财经大学
+<div align="center">
+<h3>上海财经大学</h3>
+</div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-05-20 | [2025年上海财经大学上海国际金融中心研究院第十一届全国高校学生“一带一路”建设征文大赛暨“同德夏令营”活动方案](https://mp.weixin.qq.com/s/CoFn7xWWVYXvawqRedbTkQ) |
 
-### 中国科学院大学
+<div align="center">
+<h3>中国科学院大学</h3>
+</div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-05-29 | [2025年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营](https://mp.weixin.qq.com/s/j7WdoIBEX0OnyMat_glzyw) |
 
-### 香港中文大学（深圳）
+<div align="center">
+<h3>香港中文大学（深圳）</h3>
+</div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
@@ -102,7 +117,9 @@
 | 2025-04-14 | [2025年香港中文大学（深圳）高等金融研究院经济学硕士项目2025夏令营-Mini营线上招生宣讲会](https://mp.weixin.qq.com/s/ikxG0P53vLI8YAjO1xEB2w) |
 | 2025-04-14 | [2025年香港中文大学（深圳）经济管理学院-深圳高等金融研究院2025夏令营Mini营开启报名](https://mp.weixin.qq.com/s/ga46gUxvE5Q4gsUPYH02NA) |
 
-### 香港大学
+<div align="center">
+<h3>香港大学</h3>
+</div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|

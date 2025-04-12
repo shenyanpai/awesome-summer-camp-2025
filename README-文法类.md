@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.2em;">169</span> 天</b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.2em;">168</span> 天</b>
 </p>
 </div>
 
@@ -17,27 +17,30 @@
 
 本页面收集整理2025年度各高校文法类专业保研夏令营通知信息。
 
+<div align="center">
+<p style="font-size: 1.2em; color: #ff0000; font-weight: bold;">
+信息实时更新，全网最快最全
+</p>
+</div>
+
 ## 🔍 导航
+### 🏫 按学校导航
 
-## 按学校划分
+<p >
+📚 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README.md" target="_blank"><b><u>全部</u></b></a>&nbsp; | &nbsp;🔬 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-理工类.md" target="_blank"><b><u>理工类</u></b></a>&nbsp; | &nbsp;💰 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-经管类.md" target="_blank"><b><u>经管类</u></b></a>&nbsp; | &nbsp;📝 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-文法类.md" target="_blank"><b><u>文法类</u></b></a>&nbsp; | &nbsp;🏥 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-医农类.md" target="_blank"><b><u>医农类</u></b></a>
+</p>
 
-[![全部](https://img.shields.io/badge/全部-purple?style=for-the-badge)](./README.md)
-[![理工类](https://img.shields.io/badge/理工类-blue?style=for-the-badge)](./README-理工类.md)
-[![经管类](https://img.shields.io/badge/经管类-green?style=for-the-badge)](./README-经管类.md)
-[![文法类](https://img.shields.io/badge/文法类-orange?style=for-the-badge)](./README-文法类.md)
-[![医农类](https://img.shields.io/badge/医农类-red?style=for-the-badge)](./README-医农类.md)
+### 📅 按截止日期导航
 
+<p >
+📚 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-截止日期.md" target="_blank"><b><u>全部</u></b></a>&nbsp; | &nbsp;🔬 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-理工类-截止日期.md" target="_blank"><b><u>理工类</u></b></a>&nbsp; | &nbsp;💰 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-经管类-截止日期.md" target="_blank"><b><u>经管类</u></b></a>&nbsp; | &nbsp;📝 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-文法类-截止日期.md" target="_blank"><b><u>文法类</u></b></a>&nbsp; | &nbsp;🏥 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-医农类-截止日期.md" target="_blank"><b><u>医农类</u></b></a>
+</p>
 
-## 按截止日期划分
-
-[![全部](https://img.shields.io/badge/全部-purple?style=for-the-badge)](./README-截止日期.md)
-[![理工类](https://img.shields.io/badge/理工类-blue?style=for-the-badge)](./README-理工类-截止日期.md)
-[![经管类](https://img.shields.io/badge/经管类-green?style=for-the-badge)](./README-经管类-截止日期.md)
-[![文法类](https://img.shields.io/badge/文法类-orange?style=for-the-badge)](./README-文法类-截止日期.md)
-[![医农类](https://img.shields.io/badge/医农类-red?style=for-the-badge)](./README-医农类-截止日期.md)
 ## 📢 通知清单
 
-### 北京大学
+<div align="center">
+<h3>北京大学</h3>
+</div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
@@ -45,7 +48,9 @@
 | 2025-05-16 | [2025年北京大学燕京学堂2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw) |
 | ~~2025-04-08~~ | [2025年北京大学国际法学院2026研招开放日报名正式启动（本科专业不限）](https://mp.weixin.qq.com/s/SiGYBFkBVCktzTABiN3tWQ) |
 
-### 华东政法大学
+<div align="center">
+<h3>华东政法大学</h3>
+</div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
