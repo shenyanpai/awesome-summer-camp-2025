@@ -62,19 +62,22 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 暂无 | [2025年北京大学国际法学院全国优秀大学生夏令营预报名](https://stl.pku.edu.cn/cn/admissions/83/shp.html) |
 | 2025-08-18 | [2025年北京大学光华管理学院2025年金融、会计（专业学位）夏令营通知](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ) |
 | 2025-06-15 | [2025年北京大学光华管理学院全国优秀大学生学术夏令营通知](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm) |
 | 2025-06-12 | [2025年北京大学前沿交叉学科研究院关于举办2025年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860) |
 | 2025-06-12 | [2025年北京大学生命科学联合中心（北大方面）和PTN项目（北大方面）关于联合举办“2025年全国优秀大学生夏令营”活动的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859) |
 | 2025-06-12 | [2025年北京大学前沿交叉学科研究院定量生物学中心优秀大学生夏令营招生简章](https://cqb.pku.edu.cn/info/1064/2991.htm) |
 | 2025-06-06 | [2025年北京大学未来技术学院关于举办“2025年全国优秀大学生夏令营”活动的通知](https://future.pku.edu.cn/xwzk/0e6a3381425845eeaf45be7ac037681b.htm) |
+| 2025-05-16 | [2025年北京大学燕京学堂2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw) |
 | 2025-05-09 | [2025年北京大学新结构经济学研究院“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/xjgjjxxly/540632.htm) |
 | 2025-05-08 | [2025年北京大学国家发展研究院2025年“全国经济学与管理学优秀大学生夏令营”活动通知](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/540549.htm) |
-| 2025-05-05 | [2025年北京大学物理学院“大气与海洋科学优秀大学生夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10956.htm) |
 | 2025-05-05 | [2025年北京大学全球健康发展研究院耶鲁2025年“数字健康”经济学夏令营](https://www.ghd.pku.edu.cn/xwzx/38bff67c5ddb45bd8c835b6a431bf422.htm) |
+| 2025-05-05 | [2025年北京大学物理学院“大气与海洋科学优秀大学生夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10956.htm) |
 | 2025-04-27 | [2025年北京大学统计科学中心2025年优秀大学生夏令营](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA) |
 | 2025-04-22 | [2025年北京大学光华管理学院统计学专业夏令营通知](https://mp.weixin.qq.com/s/0KPD4C8hrnrTZ0D__0gi0Q) |
 | 2025-04-16 | [2025年北京大学生命科学学院关于举办“2025年全国优秀大学生夏令营”活动的通知（第一轮）](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html) |
+| ~~2025-04-08~~ | [2025年北京大学国际法学院2026研招开放日报名正式启动（本科专业不限）](https://mp.weixin.qq.com/s/SiGYBFkBVCktzTABiN3tWQ) |
 | ~~2025-03-31~~ | [2025年北京大学数学科学学院数学学科2025年优秀大学生夏令营报名通知](https://www.math.pku.edu.cn/zygg/164939.htm) |
 | ~~2025-03-23~~ | [2025年北京大学经济学院第十四届新时代中国青年经济论坛报名开启](https://mp.weixin.qq.com/s/p7Q98fAULzo9pAn6NJ5N4w) |
 
@@ -144,6 +147,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-15 | [2025年广州医科大学呼吸疾病全国重点实验室2025年暑期大学生夏令营！](https://mp.weixin.qq.com/s/eEnST7GQ-gdoHhguwcg1ig) |
+
+<div align="center">
+<h3>华东政法大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-20 | [2025年华东政法大学知识产权学院2025年“与名师面对面”夏令营招生简章](https://ipschool.ecupl.edu.cn/2025/0409/c13461a219698/page.htm) |
 
 <div align="center">
 <h3>西湖大学</h3>
