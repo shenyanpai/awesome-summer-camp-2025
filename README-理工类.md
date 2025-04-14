@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.2em;">167</span> 天</b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="166" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -26,15 +26,11 @@
 ## 🔍 导航
 ### 🏫 按学校导航
 
-<p >
-📚 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README.md" target="_blank"><b><u>全部</u></b></a>&nbsp; | &nbsp;🔬 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-理工类.md" target="_blank"><b><u>理工类</u></b></a>&nbsp; | &nbsp;💰 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-经管类.md" target="_blank"><b><u>经管类</u></b></a>&nbsp; | &nbsp;📝 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-文法类.md" target="_blank"><b><u>文法类</u></b></a>&nbsp; | &nbsp;🏥 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-医农类.md" target="_blank"><b><u>医农类</u></b></a>
-</p>
+📚 [**<u>全部</u>**](./README.md) | 🔬 [**<u>理工类</u>**](./README-理工类.md) | 💰 [**<u>经管类</u>**](./README-经管类.md) | 📝 [**<u>文法类</u>**](./README-文法类.md) | 🏥 [**<u>医农类</u>**](./README-医农类.md)
 
 ### 📅 按截止日期导航
 
-<p >
-📚 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-截止日期.md" target="_blank"><b><u>全部</u></b></a>&nbsp; | &nbsp;🔬 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-理工类-截止日期.md" target="_blank"><b><u>理工类</u></b></a>&nbsp; | &nbsp;💰 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-经管类-截止日期.md" target="_blank"><b><u>经管类</u></b></a>&nbsp; | &nbsp;📝 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-文法类-截止日期.md" target="_blank"><b><u>文法类</u></b></a>&nbsp; | &nbsp;🏥 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-医农类-截止日期.md" target="_blank"><b><u>医农类</u></b></a>
-</p>
+📚 [**<u>全部</u>**](./README-截止日期.md) | 🔬 [**<u>理工类</u>**](./README-理工类-截止日期.md) | 💰 [**<u>经管类</u>**](./README-经管类-截止日期.md) | 📝 [**<u>文法类</u>**](./README-文法类-截止日期.md) | 🏥 [**<u>医农类</u>**](./README-医农类-截止日期.md)
 
 ## 📢 通知清单
 
@@ -46,6 +42,7 @@
 |:------------:|:---------|
 | 暂无 | [2025年清华大学统计与数据科学系关于2025年夏令营申请材料准备工作的通知](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q) |
 | 2025-05-12 | [2025年清华大学物理系优秀大学生夏令营活动通知](https://www.phys.tsinghua.edu.cn/info/1271/6359.htm) |
+| 2025-05-05 | [2025年清华大学交叉信息研究院全国优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/appinfo.php) |
 | 2025-04-25 | [2025年清华大学智能与网络化系统研究中心夏令营启动报名](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA) |
 | 2025-04-20 | [2025年清华大学数学科学系全国优秀大学生夏令营活动通知](https://math.tsinghua.edu.cn/info/1134/2596.htm) |
 | 2025-04-16 | [2025年清华大学统计与数据科学系全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw) |
@@ -129,6 +126,7 @@
 | 2025-06-20 | [2025年中国科学院分子细胞科学卓越创新中心2025年全国优秀大学生夏令营活动开启招募](https://mp.weixin.qq.com/s/a_pZvha1pjzy_joRUTC9Ng) |
 | 2025-06-20 | [2025年中国科学院上海营养与健康研究所2025年大学生夏令营暨2026级硕士研究生推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=489) |
 | 2025-06-15 | [2025年中国科学院生物与化学交叉研究中心暑期夏令营报名通知](https://www.ircbc.cn/list.do?articleType_id=1261) |
+| 2025-06-10 | [2025年中国科学院南海海洋研究所2025年“蓝色海洋”大学生夏令营活动通知](https://scsio.cas.cn/yjsjy/lhpy/xly/202504/t20250414_7597977.html) |
 | 2025-05-16 | [2025年中国科学院空天信息创新研究院“空天信息技术春令营”招生简章](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ) |
 | 2025-05-06 | [2025年中国科学院古脊椎动物与古人类研究所分子古生物学实验室（付巧妹研究员课题组）2025年暑期夏令营课程学员招募（第一轮）](http://www.ivpp.cas.cn/tzgg/202503/t20250321_7563068.html) |
 | 2025-04-15 | [2025年中国科学院半导体研究所推免研究生招录通知](https://sose.uestc.edu.cn/info/1069/10081.htm) |

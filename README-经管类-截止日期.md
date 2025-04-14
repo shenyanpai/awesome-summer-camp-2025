@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.2em;">167</span> 天</b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="166" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -26,15 +26,11 @@
 ## 🔍 导航
 ### 🏫 按学校导航
 
-<p >
-📚 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README.md" target="_blank"><b><u>全部</u></b></a>&nbsp; | &nbsp;🔬 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-理工类.md" target="_blank"><b><u>理工类</u></b></a>&nbsp; | &nbsp;💰 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-经管类.md" target="_blank"><b><u>经管类</u></b></a>&nbsp; | &nbsp;📝 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-文法类.md" target="_blank"><b><u>文法类</u></b></a>&nbsp; | &nbsp;🏥 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-医农类.md" target="_blank"><b><u>医农类</u></b></a>
-</p>
+📚 [**<u>全部</u>**](./README.md) | 🔬 [**<u>理工类</u>**](./README-理工类.md) | 💰 [**<u>经管类</u>**](./README-经管类.md) | 📝 [**<u>文法类</u>**](./README-文法类.md) | 🏥 [**<u>医农类</u>**](./README-医农类.md)
 
 ### 📅 按截止日期导航
 
-<p >
-📚 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-截止日期.md" target="_blank"><b><u>全部</u></b></a>&nbsp; | &nbsp;🔬 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-理工类-截止日期.md" target="_blank"><b><u>理工类</u></b></a>&nbsp; | &nbsp;💰 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-经管类-截止日期.md" target="_blank"><b><u>经管类</u></b></a>&nbsp; | &nbsp;📝 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-文法类-截止日期.md" target="_blank"><b><u>文法类</u></b></a>&nbsp; | &nbsp;🏥 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-医农类-截止日期.md" target="_blank"><b><u>医农类</u></b></a>
-</p>
+📚 [**<u>全部</u>**](./README-截止日期.md) | 🔬 [**<u>理工类</u>**](./README-理工类-截止日期.md) | 💰 [**<u>经管类</u>**](./README-经管类-截止日期.md) | 📝 [**<u>文法类</u>**](./README-文法类-截止日期.md) | 🏥 [**<u>医农类</u>**](./README-医农类-截止日期.md)
 
 ## 📢 通知清单
 
@@ -66,9 +62,9 @@
 | 2025-05-04 | 清华大学 | [2025年清华大学经济管理学院经济管理学科博士夏令营活动通知](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm) |
 | 2025-04-29 | 清华大学 | [2025年清华大学五道口金融学院金融学博士全国优秀大学生夏令营活动通知](https://www.pbcsf.tsinghua.edu.cn/info/1147/9567.htm) |
 | 2025-04-22 | 北京大学 | [2025年北京大学光华管理学院统计学专业夏令营通知](https://mp.weixin.qq.com/s/0KPD4C8hrnrTZ0D__0gi0Q) |
-| 2025-04-14 | 香港中文大学（深圳） | [2025年香港中文大学（深圳）经管学院市场学硕士2026入学夏令营-Mini营申请轮次安排](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002) |
-| 2025-04-14 | 香港中文大学（深圳） | [2025年香港中文大学（深圳）高等金融研究院经济学硕士项目2025夏令营-Mini营线上招生宣讲会](https://mp.weixin.qq.com/s/ikxG0P53vLI8YAjO1xEB2w) |
-| 2025-04-14 | 香港中文大学（深圳） | [2025年香港中文大学（深圳）经济管理学院-深圳高等金融研究院2025夏令营Mini营开启报名](https://mp.weixin.qq.com/s/ga46gUxvE5Q4gsUPYH02NA) |
+| ~~2025-04-14~~ | 香港中文大学（深圳） | [2025年香港中文大学（深圳）经管学院市场学硕士2026入学夏令营-Mini营申请轮次安排](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002) |
+| ~~2025-04-14~~ | 香港中文大学（深圳） | [2025年香港中文大学（深圳）高等金融研究院经济学硕士项目2025夏令营-Mini营线上招生宣讲会](https://mp.weixin.qq.com/s/ikxG0P53vLI8YAjO1xEB2w) |
+| ~~2025-04-14~~ | 香港中文大学（深圳） | [2025年香港中文大学（深圳）经济管理学院-深圳高等金融研究院2025夏令营Mini营开启报名](https://mp.weixin.qq.com/s/ga46gUxvE5Q4gsUPYH02NA) |
 | ~~2025-03-23~~ | 北京大学 | [2025年北京大学经济学院第十四届新时代中国青年经济论坛报名开启](https://mp.weixin.qq.com/s/p7Q98fAULzo9pAn6NJ5N4w) |
 | ~~2025-02-24~~ | 香港大学 | [2025年香港大学经管学院首届菁英夏令营招生通知](https://mp.weixin.qq.com/s/MYtVPm8noMh0Ku4AGZ5I_w) |
 

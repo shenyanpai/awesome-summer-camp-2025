@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <span style="color: #ff0000; font-size: 1.2em;">167</span> 天</b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="166" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -26,15 +26,11 @@
 ## 🔍 导航
 ### 🏫 按学校导航
 
-<p >
-📚 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README.md" target="_blank"><b><u>全部</u></b></a>&nbsp; | &nbsp;🔬 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-理工类.md" target="_blank"><b><u>理工类</u></b></a>&nbsp; | &nbsp;💰 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-经管类.md" target="_blank"><b><u>经管类</u></b></a>&nbsp; | &nbsp;📝 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-文法类.md" target="_blank"><b><u>文法类</u></b></a>&nbsp; | &nbsp;🏥 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-医农类.md" target="_blank"><b><u>医农类</u></b></a>
-</p>
+📚 [**<u>全部</u>**](./README.md) | 🔬 [**<u>理工类</u>**](./README-理工类.md) | 💰 [**<u>经管类</u>**](./README-经管类.md) | 📝 [**<u>文法类</u>**](./README-文法类.md) | 🏥 [**<u>医农类</u>**](./README-医农类.md)
 
 ### 📅 按截止日期导航
 
-<p >
-📚 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-截止日期.md" target="_blank"><b><u>全部</u></b></a>&nbsp; | &nbsp;🔬 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-理工类-截止日期.md" target="_blank"><b><u>理工类</u></b></a>&nbsp; | &nbsp;💰 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-经管类-截止日期.md" target="_blank"><b><u>经管类</u></b></a>&nbsp; | &nbsp;📝 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-文法类-截止日期.md" target="_blank"><b><u>文法类</u></b></a>&nbsp; | &nbsp;🏥 <a href="https://github.com/shenyanpai/awesome-summer-camp-2025/blob/main/./README-医农类-截止日期.md" target="_blank"><b><u>医农类</u></b></a>
-</p>
+📚 [**<u>全部</u>**](./README-截止日期.md) | 🔬 [**<u>理工类</u>**](./README-理工类-截止日期.md) | 💰 [**<u>经管类</u>**](./README-经管类-截止日期.md) | 📝 [**<u>文法类</u>**](./README-文法类-截止日期.md) | 🏥 [**<u>医农类</u>**](./README-医农类-截止日期.md)
 
 ## 📢 通知清单
 
