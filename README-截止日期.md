@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="166" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="165" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -67,9 +67,11 @@
 | 2025-06-15 | 北京大学 | [2025年北京大学光华管理学院全国优秀大学生学术夏令营通知](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm) |
 | 2025-06-15 | 广州医科大学 | [2025年广州医科大学呼吸疾病全国重点实验室2025年暑期大学生夏令营！](https://mp.weixin.qq.com/s/eEnST7GQ-gdoHhguwcg1ig) |
 | 2025-06-15 | 中国科学院 | [2025年中国科学院生物与化学交叉研究中心暑期夏令营报名通知](https://www.ircbc.cn/list.do?articleType_id=1261) |
+| 2025-06-14 | 北京大学 | [2025年北京大学环境与能源学院2025年优秀大学生夏令营的通知](https://see.pkusz.edu.cn/info/1024/1765.htm) |
 | 2025-06-12 | 北京大学 | [2025年北京大学前沿交叉学科研究院关于举办2025年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860) |
 | 2025-06-12 | 北京大学 | [2025年北京大学生命科学联合中心（北大方面）和PTN项目（北大方面）关于联合举办“2025年全国优秀大学生夏令营”活动的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859) |
 | 2025-06-12 | 北京大学 | [2025年北京大学前沿交叉学科研究院定量生物学中心优秀大学生夏令营招生简章](https://cqb.pku.edu.cn/info/1064/2991.htm) |
+| 2025-06-10 | 中国科学院 | [2025年中国科学院上海有机化学研究所2025年大学生暑期夏令营报名通知](https://sioc.cas.cn/zs/202504/t20250415_7599009.html) |
 | 2025-06-10 | 中国科学院 | [2025年中国科学院南海海洋研究所2025年“蓝色海洋”大学生夏令营活动通知](https://scsio.cas.cn/yjsjy/lhpy/xly/202504/t20250414_7597977.html) |
 | 2025-06-06 | 北京大学 | [2025年北京大学未来技术学院关于举办“2025年全国优秀大学生夏令营”活动的通知](https://future.pku.edu.cn/xwzk/0e6a3381425845eeaf45be7ac037681b.htm) |
 | 2025-06-02 | 香港科技大学（广州） | [2025年香港科技大学（广州）功能枢纽2026博士项目夏令营报名开启！](https://mp.weixin.qq.com/s/eW_HFsTNYdeFdvf2vV5UFA) |
@@ -85,6 +87,7 @@
 | 2025-05-11 | 西湖大学 | [2025年西湖大学生命科学学院生命科学国际暑期学校报名通知](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202503/t20250324_53691.shtml) |
 | 2025-05-10 | 复旦大学 | [2025年复旦大学经济学院2025年第七届全国优秀本科直博夏令营活动报名通知](https://econ.fudan.edu.cn/info/1307/30147.htm) |
 | 2025-05-10 | 复旦大学 | [2025年复旦大学经济学院2025年第十四届金融专硕全国优秀大学生夏令营活动通知](https://econ.fudan.edu.cn/info/1519/30167.htm) |
+| 2025-05-09 | 清华大学 | [2025年清华大学地球系统科学系地学学科全国优秀大学生夏令营活动通知](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm) |
 | 2025-05-09 | 清华大学 | [2025年清华大学经济管理学院全国优秀大学生夏令营活动通知 （清华大学-哥伦比亚大学商务分析双硕士学位项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm) |
 | 2025-05-09 | 北京大学 | [2025年北京大学新结构经济学研究院“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/xjgjjxxly/540632.htm) |
 | 2025-05-09 | 香港中文大学 | [2025年香港中文大学化学系招生夏令营通知](https://chem.cuhk.edu.hk/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6%E7%B3%BB%E6%8B%9B%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5-2024-2/) |
@@ -104,9 +107,9 @@
 | 2025-04-17 | 澳门大学 | [2025年澳门大学健康科学学院2025年内地优秀大学生健康科学夏令营](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA) |
 | 2025-04-16 | 清华大学 | [2025年清华大学统计与数据科学系全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw) |
 | 2025-04-16 | 北京大学 | [2025年北京大学生命科学学院关于举办“2025年全国优秀大学生夏令营”活动的通知（第一轮）](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html) |
-| 2025-04-15 | 清华大学 | [2025年清华大学求真书院全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/whDqQsUIXoGeaWYjMo-xkg) |
-| 2025-04-15 | 中国科学院 | [2025年中国科学院半导体研究所推免研究生招录通知](https://sose.uestc.edu.cn/info/1069/10081.htm) |
-| 2025-04-15 | 中国科学院 | [2025年中国科学院数学与系统科学研究院关于2026级推荐免试研究生选拔工作的通知](http://admission.amss.ac.cn/sszs/tzgg/202503/t20250328_830146.html) |
+| ~~2025-04-15~~ | 清华大学 | [2025年清华大学求真书院全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/whDqQsUIXoGeaWYjMo-xkg) |
+| ~~2025-04-15~~ | 中国科学院 | [2025年中国科学院半导体研究所推免研究生招录通知](https://sose.uestc.edu.cn/info/1069/10081.htm) |
+| ~~2025-04-15~~ | 中国科学院 | [2025年中国科学院数学与系统科学研究院关于2026级推荐免试研究生选拔工作的通知](http://admission.amss.ac.cn/sszs/tzgg/202503/t20250328_830146.html) |
 | ~~2025-04-14~~ | 香港中文大学 | [2025年香港中文大学（深圳）经管学院市场学硕士2026入学夏令营-Mini营申请轮次安排](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002) |
 | ~~2025-04-14~~ | 香港中文大学 | [2025年香港中文大学（深圳）高等金融研究院经济学硕士项目2025夏令营-Mini营线上招生宣讲会](https://mp.weixin.qq.com/s/ikxG0P53vLI8YAjO1xEB2w) |
 | ~~2025-04-14~~ | 香港中文大学 | [2025年香港中文大学（深圳）经济管理学院-深圳高等金融研究院2025夏令营Mini营开启报名](https://mp.weixin.qq.com/s/ga46gUxvE5Q4gsUPYH02NA) |
