@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="165" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="164" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -65,6 +65,7 @@
 | 2025-06-16 | 清华大学 | [2025年清华大学经济管理学院全国优秀大学生夏令营活动通知 （管理硕士项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3248.htm) |
 | 2025-06-16 | 上海交通大学 | [2025年上海交通大学安泰经济与管理学院优才营2026年入学全面启动](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg) |
 | 2025-06-15 | 北京大学 | [2025年北京大学光华管理学院全国优秀大学生学术夏令营通知](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm) |
+| 2025-06-15 | 山东大学 | [2025年山东大学前沿交叉科学青岛研究院优秀大学生暑期夏令营](https://frontier.qd.sdu.edu.cn/info/1011/8709.htm) |
 | 2025-06-15 | 广州医科大学 | [2025年广州医科大学呼吸疾病全国重点实验室2025年暑期大学生夏令营！](https://mp.weixin.qq.com/s/eEnST7GQ-gdoHhguwcg1ig) |
 | 2025-06-15 | 中国科学院 | [2025年中国科学院生物与化学交叉研究中心暑期夏令营报名通知](https://www.ircbc.cn/list.do?articleType_id=1261) |
 | 2025-06-14 | 北京大学 | [2025年北京大学环境与能源学院2025年优秀大学生夏令营的通知](https://see.pkusz.edu.cn/info/1024/1765.htm) |
@@ -76,6 +77,8 @@
 | 2025-06-06 | 北京大学 | [2025年北京大学未来技术学院关于举办“2025年全国优秀大学生夏令营”活动的通知](https://future.pku.edu.cn/xwzk/0e6a3381425845eeaf45be7ac037681b.htm) |
 | 2025-06-02 | 香港科技大学（广州） | [2025年香港科技大学（广州）功能枢纽2026博士项目夏令营报名开启！](https://mp.weixin.qq.com/s/eW_HFsTNYdeFdvf2vV5UFA) |
 | 2025-05-31 | 香港科技大学 | [2025年香港科技大学物理学院夏令营和暑期研究实习计划报名开始](https://mp.weixin.qq.com/s/MqUg8e_I9jsm8P6pM5awBA) |
+| 2025-05-31 | 怀柔实验室 | [2025年怀柔实验室2025年能源科技与前沿技术夏令营简章](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q) |
+| 2025-05-30 | 中山大学 | [2025年中山大学大气科学学院行星环境与宜居性研究实验室行星科学夏令营招生简章](https://atmos.sysu.edu.cn/pearl/summerschool2025) |
 | 2025-05-30 | 昌平实验室 | [2025年昌平实验室2025年生命科学与前沿技术夏令营简章](https://www.cpl.ac.cn/join_us/education/4028c1f195f2f0cd0195f50b80cb0017.html) |
 | 2025-05-29 | 中国科学院 | [2025年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营](https://mp.weixin.qq.com/s/j7WdoIBEX0OnyMat_glzyw) |
 | 2025-05-20 | 清华大学 | [2025年清华大学五道口金融学院金融硕士项目全国优秀大学生夏令营活动通知](https://www.pbcsf.tsinghua.edu.cn/info/1146/9566.htm) |
@@ -94,6 +97,7 @@
 | 2025-05-08 | 北京大学 | [2025年北京大学国家发展研究院2025年“全国经济学与管理学优秀大学生夏令营”活动通知](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/540549.htm) |
 | 2025-05-06 | 中国科学院 | [2025年中国科学院古脊椎动物与古人类研究所分子古生物学实验室（付巧妹研究员课题组）2025年暑期夏令营课程学员招募（第一轮）](http://www.ivpp.cas.cn/tzgg/202503/t20250321_7563068.html) |
 | 2025-05-05 | 清华大学 | [2025年清华大学交叉信息研究院全国优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/appinfo.php) |
+| 2025-05-05 | 清华大学 | [2025年清华大学能源环境经济研究所启动2026年秋季入学研究生招生工作](https://mp.weixin.qq.com/s/Z7SPgX7rNiFY4CH1-0Ch_A) |
 | 2025-05-05 | 北京大学 | [2025年北京大学物理学院“大气与海洋科学优秀大学生夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10956.htm) |
 | 2025-05-05 | 北京大学 | [2025年北京大学全球健康发展研究院耶鲁2025年“数字健康”经济学夏令营](https://www.ghd.pku.edu.cn/xwzx/38bff67c5ddb45bd8c835b6a431bf422.htm) |
 | 2025-05-05 | 南方科技大学 | [2025年南方科技大学数学系2025年优秀大学生夏令营预报名通知](https://math.sustech.edu.cn/graduate_enrollment/13260) |
@@ -105,8 +109,8 @@
 | 2025-04-22 | 香港中文大学 | [2025年香港中文大学工程学院博士生夏令营已开放申请](https://mp.weixin.qq.com/s/XfQhDYFyx8Ue1EPkCrmC6Q) |
 | 2025-04-20 | 清华大学 | [2025年清华大学数学科学系全国优秀大学生夏令营活动通知](https://math.tsinghua.edu.cn/info/1134/2596.htm) |
 | 2025-04-17 | 澳门大学 | [2025年澳门大学健康科学学院2025年内地优秀大学生健康科学夏令营](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA) |
-| 2025-04-16 | 清华大学 | [2025年清华大学统计与数据科学系全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw) |
-| 2025-04-16 | 北京大学 | [2025年北京大学生命科学学院关于举办“2025年全国优秀大学生夏令营”活动的通知（第一轮）](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html) |
+| ~~2025-04-16~~ | 清华大学 | [2025年清华大学统计与数据科学系全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw) |
+| ~~2025-04-16~~ | 北京大学 | [2025年北京大学生命科学学院关于举办“2025年全国优秀大学生夏令营”活动的通知（第一轮）](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html) |
 | ~~2025-04-15~~ | 清华大学 | [2025年清华大学求真书院全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/whDqQsUIXoGeaWYjMo-xkg) |
 | ~~2025-04-15~~ | 中国科学院 | [2025年中国科学院半导体研究所推免研究生招录通知](https://sose.uestc.edu.cn/info/1069/10081.htm) |
 | ~~2025-04-15~~ | 中国科学院 | [2025年中国科学院数学与系统科学研究院关于2026级推荐免试研究生选拔工作的通知](http://admission.amss.ac.cn/sszs/tzgg/202503/t20250328_830146.html) |

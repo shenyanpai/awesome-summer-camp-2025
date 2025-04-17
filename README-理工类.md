@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="165" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="164" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -46,7 +46,7 @@
 | 2025-05-05 | [2025年清华大学交叉信息研究院全国优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/appinfo.php) |
 | 2025-04-25 | [2025年清华大学智能与网络化系统研究中心夏令营启动报名](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA) |
 | 2025-04-20 | [2025年清华大学数学科学系全国优秀大学生夏令营活动通知](https://math.tsinghua.edu.cn/info/1134/2596.htm) |
-| 2025-04-16 | [2025年清华大学统计与数据科学系全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw) |
+| ~~2025-04-16~~ | [2025年清华大学统计与数据科学系全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw) |
 | ~~2025-04-15~~ | [2025年清华大学求真书院全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/whDqQsUIXoGeaWYjMo-xkg) |
 
 <div align="center">
@@ -62,7 +62,7 @@
 | 2025-06-06 | [2025年北京大学未来技术学院关于举办“2025年全国优秀大学生夏令营”活动的通知](https://future.pku.edu.cn/xwzk/0e6a3381425845eeaf45be7ac037681b.htm) |
 | 2025-05-05 | [2025年北京大学物理学院“大气与海洋科学优秀大学生夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10956.htm) |
 | 2025-04-27 | [2025年北京大学统计科学中心2025年优秀大学生夏令营](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA) |
-| 2025-04-16 | [2025年北京大学生命科学学院关于举办“2025年全国优秀大学生夏令营”活动的通知（第一轮）](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html) |
+| ~~2025-04-16~~ | [2025年北京大学生命科学学院关于举办“2025年全国优秀大学生夏令营”活动的通知（第一轮）](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html) |
 | ~~2025-03-31~~ | [2025年北京大学数学科学学院数学学科2025年优秀大学生夏令营报名通知](https://www.math.pku.edu.cn/zygg/164939.htm) |
 
 <div align="center">
@@ -89,6 +89,22 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2025年南京大学物理学院关于举办“2025年南京大学物理学院全国优秀大三学生夏令营”的第一轮通知](https://physics.nju.edu.cn/xwdt/tzggxlycgzhd/20250226/i308935.html) |
+
+<div align="center">
+<h3>中山大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-05-30 | [2025年中山大学大气科学学院行星环境与宜居性研究实验室行星科学夏令营招生简章](https://atmos.sysu.edu.cn/pearl/summerschool2025) |
+
+<div align="center">
+<h3>山东大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-15 | [2025年山东大学前沿交叉科学青岛研究院优秀大学生暑期夏令营](https://frontier.qd.sdu.edu.cn/info/1011/8709.htm) |
 
 <div align="center">
 <h3>南方科技大学</h3>
@@ -161,6 +177,14 @@
 |:------------:|:---------|
 | 2025-05-31 | [2025年香港科技大学物理学院夏令营和暑期研究实习计划报名开始](https://mp.weixin.qq.com/s/MqUg8e_I9jsm8P6pM5awBA) |
 | ~~2025-03-24~~ | [2025年香港科技大学工学院优秀学生夏令营接受报名](https://mp.weixin.qq.com/s/Yub1OpBQy17EJmjKrQ7BSA) |
+
+<div align="center">
+<h3>怀柔实验室</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-05-31 | [2025年怀柔实验室2025年能源科技与前沿技术夏令营简章](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q) |
 
 <div align="center">
 <h3>上海人工智能实验室</h3>
