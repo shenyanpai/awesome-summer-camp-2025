@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="163" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="162" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -33,6 +33,14 @@
 📚 [**<u>全部</u>**](./README-截止日期.md) | 🔬 [**<u>理工类</u>**](./README-理工类-截止日期.md) | 💰 [**<u>经管类</u>**](./README-经管类-截止日期.md) | 📝 [**<u>文法类</u>**](./README-文法类-截止日期.md) | 🏥 [**<u>医农类</u>**](./README-医农类-截止日期.md)
 
 ## 📢 通知清单
+
+<div align="center">
+<h3>哈尔滨医科大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-05-10 | [2025年哈尔滨医科大学公共卫生学院“尔滨之约，公卫盛宴”大学生暑期夏令营](https://mp.weixin.qq.com/s/etHnzxt6ftg46TAxHBCZtQ) |
 
 <div align="center">
 <h3>广州医科大学</h3>
