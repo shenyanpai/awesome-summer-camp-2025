@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="159" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="158" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -63,7 +63,7 @@
 | 2025-05-05 | 北京大学 | [2025年北京大学全球健康发展研究院耶鲁2025年“数字健康”经济学夏令营](https://www.ghd.pku.edu.cn/xwzx/38bff67c5ddb45bd8c835b6a431bf422.htm) |
 | 2025-05-04 | 清华大学 | [2025年清华大学经济管理学院经济管理学科博士夏令营活动通知](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm) |
 | 2025-04-29 | 清华大学 | [2025年清华大学五道口金融学院金融学博士全国优秀大学生夏令营活动通知](https://www.pbcsf.tsinghua.edu.cn/info/1147/9567.htm) |
-| 2025-04-22 | 北京大学 | [2025年北京大学光华管理学院统计学专业夏令营通知](https://mp.weixin.qq.com/s/0KPD4C8hrnrTZ0D__0gi0Q) |
+| ~~2025-04-22~~ | 北京大学 | [2025年北京大学光华管理学院统计学专业夏令营通知](https://mp.weixin.qq.com/s/0KPD4C8hrnrTZ0D__0gi0Q) |
 | ~~2025-04-14~~ | 香港中文大学（深圳） | [2025年香港中文大学（深圳）经管学院市场学硕士2026入学夏令营-Mini营申请轮次安排](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002) |
 | ~~2025-04-14~~ | 香港中文大学（深圳） | [2025年香港中文大学（深圳）高等金融研究院经济学硕士项目2025夏令营-Mini营线上招生宣讲会](https://mp.weixin.qq.com/s/ikxG0P53vLI8YAjO1xEB2w) |
 | ~~2025-04-14~~ | 香港中文大学（深圳） | [2025年香港中文大学（深圳）经济管理学院-深圳高等金融研究院2025夏令营Mini营开启报名](https://mp.weixin.qq.com/s/ga46gUxvE5Q4gsUPYH02NA) |
