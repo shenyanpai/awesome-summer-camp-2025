@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="158" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="157" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -56,6 +56,7 @@
 | 2025-07-01 | 中国科学院 | [2025年中国科学院城市环境研究所“城市环境与健康”优秀大学生夏令营通知（第一轮）](https://iue.cas.cn/zxgg/202504/t20250421_7604942.html) |
 | 2025-06-30 | 上海交通大学 | [2025年上海交通大学上海高级金融学院2026级本科直博生招生简章](https://phd.saif.sjtu.edu.cn/show-213-398.html) |
 | 2025-06-30 | 上海交通大学 | [2025年上海交通大学上海高级金融学院金融硕士项目2026级推免招生活动公告](https://mf.saif.sjtu.edu.cn/show-138-761.html?from=kdocs_link) |
+| 2025-06-30 | 南方科技大学 | [2025年南方科技大学前沿生物技术研究院2025年夏令营报名通知](https://iab.sustech.edu.cn/Announce-detail-id-52.html) |
 | 2025-06-30 | 上海纽约大学 | [2025年上海纽约大学物理学暑期学生科研体验项目](https://mp.weixin.qq.com/s/gJkw4xUfh3xqf2pQhbuWbg) |
 | 2025-06-30 | 中国科学院 | [2025年中国科学院脑科学与智能技术卓越创新中心2026年接收推荐免试硕士研究生办法](http://www.cebsit.cas.cn/zsxx/202503/t20250327_7566334.html) |
 | 2025-06-25 | 中国科学院 | [2025年中国科学院福建物质结构研究所（海西研究院）2025年大学生暑期夏令营招募通知](http://www.fjirsm.ac.cn/yjsjy/zsxx/202504/t20250417_7602139.html) |
@@ -90,6 +91,7 @@
 | 2025-06-12 | 北京大学 | [2025年北京大学前沿交叉学科研究院关于举办2025年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860) |
 | 2025-06-12 | 北京大学 | [2025年北京大学生命科学联合中心（北大方面）和PTN项目（北大方面）关于联合举办“2025年全国优秀大学生夏令营”活动的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859) |
 | 2025-06-12 | 北京大学 | [2025年北京大学前沿交叉学科研究院定量生物学中心优秀大学生夏令营招生简章](https://cqb.pku.edu.cn/info/1064/2991.htm) |
+| 2025-06-12 | 上海科技大学 | [2025年上海科技大学生命科学与技术学院2025年大学生夏令营、暑期班活动通知](https://slst.shanghaitech.edu.cn/2025/0422/c319a1110360/page.htm) |
 | 2025-06-10 | 中国科学院 | [2025年中国科学院上海有机化学研究所2025年大学生暑期夏令营报名通知](https://sioc.cas.cn/zs/202504/t20250415_7599009.html) |
 | 2025-06-10 | 中国科学院 | [2025年中国科学院南海海洋研究所2025年“蓝色海洋”大学生夏令营活动通知](https://scsio.cas.cn/yjsjy/lhpy/xly/202504/t20250414_7597977.html) |
 | 2025-06-10 | 中国科学院 | [2025年中国科学院大学（华大专项）推免夏令营开始招生](https://mp.weixin.qq.com/s/N1DJtkwwODEiosdbBKIPKg) |
@@ -142,7 +144,6 @@
 | ~~2025-04-14~~ | 香港中文大学 | [2025年香港中文大学（深圳）经管学院市场学硕士2026入学夏令营-Mini营申请轮次安排](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002) |
 | ~~2025-04-14~~ | 香港中文大学 | [2025年香港中文大学（深圳）高等金融研究院经济学硕士项目2025夏令营-Mini营线上招生宣讲会](https://mp.weixin.qq.com/s/ikxG0P53vLI8YAjO1xEB2w) |
 | ~~2025-04-14~~ | 香港中文大学 | [2025年香港中文大学（深圳）经济管理学院-深圳高等金融研究院2025夏令营Mini营开启报名](https://mp.weixin.qq.com/s/ga46gUxvE5Q4gsUPYH02NA) |
-| ~~2025-04-12~~ | 上海科技大学 | [2025年上海科技大学生命科学与技术学院2025年大学生夏令营、暑期班活动通知](https://slst.shanghaitech.edu.cn/2025/0422/c319a1110360/page.htm) |
 | ~~2025-04-08~~ | 北京大学 | [2025年北京大学国际法学院2026研招开放日报名正式启动（本科专业不限）](https://mp.weixin.qq.com/s/SiGYBFkBVCktzTABiN3tWQ) |
 | ~~2025-04-06~~ | 上海交通大学 | [2025年上海交通大学数学科学学院2026年研究生优秀生源选拔学术营报名通知](https://math.sjtu.edu.cn/Default/gonggaoshow/tag/MDAwMDAwMDAwMLGIft2HtKF2) |
 | ~~2025-03-31~~ | 北京大学 | [2025年北京大学数学科学学院数学学科2025年优秀大学生夏令营报名通知](https://www.math.pku.edu.cn/zygg/164939.htm) |

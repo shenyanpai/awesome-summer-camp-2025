@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="158" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="157" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -157,6 +157,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-30 | [2025年南方科技大学前沿生物技术研究院2025年夏令营报名通知](https://iab.sustech.edu.cn/Announce-detail-id-52.html) |
 | 2025-06-16 | [2025年南方科技大学机械与能源工程系2025年全国优秀大学生夏令营预报名通知](https://mp.weixin.qq.com/s/6tgnc8l5DFsL63xqppK8Ew) |
 | 2025-06-13 | [2025年南方科技大学统计与数据科学系2025年全国优秀大学生学术交流论坛暨夏令营预报名通知](https://stat-ds.sustech.edu.cn/notice/383.html) |
 | 2025-05-05 | [2025年南方科技大学数学系2025年优秀大学生夏令营预报名通知](https://math.sustech.edu.cn/graduate_enrollment/13260) |
@@ -175,7 +176,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| ~~2025-04-12~~ | [2025年上海科技大学生命科学与技术学院2025年大学生夏令营、暑期班活动通知](https://slst.shanghaitech.edu.cn/2025/0422/c319a1110360/page.htm) |
+| 2025-06-12 | [2025年上海科技大学生命科学与技术学院2025年大学生夏令营、暑期班活动通知](https://slst.shanghaitech.edu.cn/2025/0422/c319a1110360/page.htm) |
 
 <div align="center">
 <h3>哈尔滨医科大学</h3>
