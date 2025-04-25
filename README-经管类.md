@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="157" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="156" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -122,6 +122,13 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | ~~2025-02-24~~ | [2025年香港大学经管学院首届菁英夏令营招生通知](https://mp.weixin.qq.com/s/MYtVPm8noMh0Ku4AGZ5I_w) |
+
+<div align="center">
+<h3>伊利诺伊大学厄巴纳-香槟分校</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
 
 ## 📝 数据来源
 
