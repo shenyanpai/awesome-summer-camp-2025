@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="156" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="155" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -57,7 +57,7 @@
 | 2025-05-05 | [2025年清华大学交叉信息研究院全国优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/appinfo.php) |
 | 2025-05-04 | [2025年清华大学经济管理学院经济管理学科博士夏令营活动通知](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm) |
 | 2025-04-29 | [2025年清华大学五道口金融学院金融学博士全国优秀大学生夏令营活动通知](https://www.pbcsf.tsinghua.edu.cn/info/1147/9567.htm) |
-| 2025-04-25 | [2025年清华大学智能与网络化系统研究中心夏令营启动报名](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA) |
+| ~~2025-04-25~~ | [2025年清华大学智能与网络化系统研究中心夏令营启动报名](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA) |
 | ~~2025-04-20~~ | [2025年清华大学数学科学系全国优秀大学生夏令营活动通知](https://math.tsinghua.edu.cn/info/1134/2596.htm) |
 | ~~2025-04-16~~ | [2025年清华大学统计与数据科学系全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw) |
 | ~~2025-04-15~~ | [2025年清华大学求真书院全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/whDqQsUIXoGeaWYjMo-xkg) |
@@ -106,6 +106,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 暂无 | [2025年上海交通大学物理与天文学院物理学科2026级研究生招生夏令营预通知](https://www.physics.sjtu.edu.cn/index_notice/5475.html) |
 | 暂无 | [2025年上海交通大学物理与天文学院天文学科2026级研究生招生夏令营预通知](https://mp.weixin.qq.com/s/WlZpTUb_hCMcWqrRu2jX6Q) |
 | 暂无 | [2025年上海交通大学上海高级金融学院金融硕士2025年明星营启动](https://mp.weixin.qq.com/s/39KNjWwLKyh0J0A8opCWsQ) |
 | 2025-06-30 | [2025年上海交通大学上海高级金融学院2026级本科直博生招生简章](https://phd.saif.sjtu.edu.cn/show-213-398.html) |
@@ -237,6 +238,9 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2025年西湖大学工学院人工智能系人工智能与科学仿真发现实验室招生通知 ](https://mp.weixin.qq.com/s/SLQCiaiiMurWKkETaTRJyw) |
+| 2025-07-08 | [2025年西湖大学理学院化学系2025年夏令营公告](https://science.westlake.edu.cn/newsevents/news/202504/t20250424_55121.shtml) |
+| 2025-06-25 | [2025年西湖大学理学院物理系2025年夏令营公告](https://science.westlake.edu.cn/newsevents/news/202504/t20250424_55123.shtml) |
+| 2025-06-25 | [2025年西湖大学理学院数学2025年夏令营公告](https://science.westlake.edu.cn/newsevents/news/202504/t20250424_55122.shtml) |
 | 2025-06-09 | [2025年西湖大学生命科学学院2025年夏令营公告](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202504/t20250422_55038.shtml) |
 | 2025-05-11 | [2025年西湖大学生命科学学院生命科学国际暑期学校报名通知](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202503/t20250324_53691.shtml) |
 
@@ -253,12 +257,13 @@
 | 2025-08-01 | [2025年中国科学院上海药物研究所“新药梦”优秀大学生夏令营营员招募通知](https://simm.cas.cn/web/yjsjy/zsgz/xdly/202504/t20250424_7611069.html) |
 | 2025-07-01 | [2025年中国科学院城市环境研究所“城市环境与健康”优秀大学生夏令营通知（第一轮）](https://iue.cas.cn/zxgg/202504/t20250421_7604942.html) |
 | 2025-06-30 | [2025年中国科学院脑科学与智能技术卓越创新中心2026年接收推荐免试硕士研究生办法](http://www.cebsit.cas.cn/zsxx/202503/t20250327_7566334.html) |
-| 2025-06-25 | [2025年中国科学院遗传与发育生物学研究所2025年“筑梦科学”大学生夏令营活动报名通知](https://genetics.cas.cn/edu/zsxx/xlytms/202504/t20250424_7611154.html) |
 | 2025-06-25 | [2025年中国科学院福建物质结构研究所（海西研究院）2025年大学生暑期夏令营招募通知](http://www.fjirsm.ac.cn/yjsjy/zsxx/202504/t20250417_7602139.html) |
+| 2025-06-25 | [2025年中国科学院遗传与发育生物学研究所2025年“筑梦科学”大学生夏令营活动报名通知](https://genetics.cas.cn/edu/zsxx/xlytms/202504/t20250424_7611154.html) |
 | 2025-06-22 | [2025年中国科学院大学物理科学学院2025年“凝聚态及原子分子物理”大学生夏令营报名通知](https://physics.ucas.ac.cn/index.php/zh-CN/zsjy/2023-05-04-02-10-59/6413-2025-cmp) |
-| 2025-06-20 | [2025年中国科学院分子植物科学卓越创新中心“探索生命的多样性”暑期学校暨2026级推免生报名须知](http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202504/t20250408_7590567.html) |
+| 2025-06-20 | [2025年中国科学院上海技术物理研究所“红外筑梦”优秀大学生暑期夏令营报名通知](https://sitp.cas.cn/yjs/zsxx/ssszs/202504/t20250425_7614304.html) |
 | 2025-06-20 | [2025年中国科学院分子细胞科学卓越创新中心2025年全国优秀大学生夏令营活动开启招募](https://mp.weixin.qq.com/s/a_pZvha1pjzy_joRUTC9Ng) |
 | 2025-06-20 | [2025年中国科学院上海营养与健康研究所2025年大学生夏令营暨2026级硕士研究生推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=489) |
+| 2025-06-20 | [2025年中国科学院分子植物科学卓越创新中心“探索生命的多样性”暑期学校暨2026级推免生报名须知](http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202504/t20250408_7590567.html) |
 | 2025-06-20 | [2025年中国科学院上海光学精密机械研究所2025年“追光之旅”暑期大学生夏令营招募通知](https://siom.cas.cn/rcjy/zsxx/sszs/202504/t20250417_7603564.html) |
 | 2025-06-20 | [2025年中国科学院宁波材料技术与工程研究所2025年“梦启甬城，心动科苑”大学生暑期夏令营营员招募通知](https://ncmte.nimte.ac.cn/view-31481.html) |
 | 2025-06-20 | [2025年中国科学院上海硅酸盐研究所招生宣传手册](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw) |
@@ -337,6 +342,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2025年上海人工智能实验室2026级联培博士招生启动](https://mp.weixin.qq.com/s/3hDyeKK8R5oQm7qbwyyU3A) |
+
+<div align="center">
+<h3>北京生命科学研究所</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-20 | [2025年北京生命科学研究所2025年优秀大学生夏令营通知 （含清华大学的TIMBR项目）](http://nibs.ac.cn/yjsjyshow.php?cid=8&sid=26&zid=78&id=2847) |
 
 <div align="center">
 <h3>昌平实验室</h3>

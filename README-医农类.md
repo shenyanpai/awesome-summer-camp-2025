@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="156" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="155" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -83,6 +83,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | ~~2025-04-17~~ | [2025年澳门大学健康科学学院2025年内地优秀大学生健康科学夏令营](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA) |
+
+<div align="center">
+<h3>北京生命科学研究所</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-20 | [2025年北京生命科学研究所2025年优秀大学生夏令营通知 （含清华大学的TIMBR项目）](http://nibs.ac.cn/yjsjyshow.php?cid=8&sid=26&zid=78&id=2847) |
 
 <div align="center">
 <h3>昌平实验室</h3>
