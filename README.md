@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="146" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="145" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -57,8 +57,8 @@
 | 2025-05-11 | [2025年清华大学国际与地区研究院2025年区域国别研究青年夏令营报名通知](https://mp.weixin.qq.com/s/zHmODp6u0o0Sg_3eVaj5xQ) |
 | 2025-05-09 | [2025年清华大学地球系统科学系地学学科全国优秀大学生夏令营活动通知](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm) |
 | 2025-05-09 | [2025年清华大学经济管理学院全国优秀大学生夏令营活动通知 （清华大学-哥伦比亚大学商务分析双硕士学位项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm) |
-| 2025-05-05 | [2025年清华大学交叉信息研究院全国优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/appinfo.php) |
-| 2025-05-05 | [2025年清华大学能源环境经济研究所启动2026年秋季入学研究生招生工作](https://mp.weixin.qq.com/s/Z7SPgX7rNiFY4CH1-0Ch_A) |
+| ~~2025-05-05~~ | [2025年清华大学交叉信息研究院全国优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/appinfo.php) |
+| ~~2025-05-05~~ | [2025年清华大学能源环境经济研究所启动2026年秋季入学研究生招生工作](https://mp.weixin.qq.com/s/Z7SPgX7rNiFY4CH1-0Ch_A) |
 | ~~2025-05-04~~ | [2025年清华大学经济管理学院经济管理学科博士夏令营活动通知](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm) |
 | ~~2025-04-29~~ | [2025年清华大学五道口金融学院金融学博士全国优秀大学生夏令营活动通知](https://www.pbcsf.tsinghua.edu.cn/info/1147/9567.htm) |
 | ~~2025-04-25~~ | [2025年清华大学智能与网络化系统研究中心夏令营启动报名](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA) |
@@ -96,7 +96,7 @@
 | 2025-05-16 | [2025年北京大学燕京学堂2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw) |
 | 2025-05-09 | [2025年北京大学新结构经济学研究院“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/xjgjjxxly/540632.htm) |
 | 2025-05-08 | [2025年北京大学国家发展研究院2025年“全国经济学与管理学优秀大学生夏令营”活动通知](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/540549.htm) |
-| 2025-05-05 | [2025年北京大学物理学院“大气与海洋科学优秀大学生夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10956.htm) |
+| ~~2025-05-05~~ | [2025年北京大学物理学院“大气与海洋科学优秀大学生夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10956.htm) |
 | ~~2025-04-27~~ | [2025年北京大学统计科学中心2025年优秀大学生夏令营](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA) |
 | ~~2025-04-22~~ | [2025年北京大学光华管理学院统计学专业夏令营通知](https://mp.weixin.qq.com/s/0KPD4C8hrnrTZ0D__0gi0Q) |
 | ~~2025-04-16~~ | [2025年北京大学生命科学学院关于举办“2025年全国优秀大学生夏令营”活动的通知（第一轮）](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html) |
@@ -235,7 +235,7 @@
 | 2025-06-13 | [2025年南方科技大学统计与数据科学系2025年全国优秀大学生学术交流论坛暨夏令营预报名通知](https://stat-ds.sustech.edu.cn/notice/383.html) |
 | 2025-06-06 | [2025年南方科技大学环境学院2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/dUogytGQ_jW7UHwM52PIuQ) |
 | 2025-05-20 | [2025年南方科技大学医学院计算生物医学暑期学校预报名通知](https://mp.weixin.qq.com/s/te9aR7nkaxdOGASjluOFMw) |
-| 2025-05-05 | [2025年南方科技大学数学系2025年优秀大学生夏令营预报名通知](https://math.sustech.edu.cn/graduate_enrollment/13260) |
+| ~~2025-05-05~~ | [2025年南方科技大学数学系2025年优秀大学生夏令营预报名通知](https://math.sustech.edu.cn/graduate_enrollment/13260) |
 
 <div align="center">
 <h3>上海财经大学</h3>
@@ -261,6 +261,7 @@
 |:------------:|:---------|
 | 2025-07-01 | [2025年上海科技大学创业与管理学院2025年优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/fRlpPiOhs01ghMC49bOUeA) |
 | 2025-06-30 | [2025年上海科技大学临港实验室大学生夏令营](https://mp.weixin.qq.com/s/kA0eAz5ClUUvEDRhAKyUWQ) |
+| 2025-06-22 | [2025年上海科技大学信息科学与技术学院 2025年学术学位优秀大学生夏令营报名通知](https://sist.shanghaitech.edu.cn/2025/0504/c7339a1110662/page.htm) |
 | 2025-06-20 | [2025年上海科技大学物质科学与技术学院夏令营物质科学暑期学校开始报名](https://mp.weixin.qq.com/s/NubEkv0KpFv0jF79o_PM8Q) |
 | 2025-06-12 | [2025年上海科技大学生命科学与技术学院2025年大学生夏令营、暑期班活动通知](https://slst.shanghaitech.edu.cn/2025/0422/c319a1110360/page.htm) |
 
