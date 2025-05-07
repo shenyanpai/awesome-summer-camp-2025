@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="145" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="144" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -54,8 +54,14 @@
 | 2025-06-15 | 香港中文大学（深圳） | [2025年香港中文大学（深圳）经管学院深圳高等金融研究院全日制硕士项目优秀大学生夏令营（体验营）](https://mp.weixin.qq.com/s/60D2vLMs5mILyHSqscI3AA) |
 | 2025-06-15 | 香港中文大学（深圳） | [2025年香港中文大学（深圳）经管学院市场学优秀大学生夏令营（体验营）开启报名](https://mp.weixin.qq.com/s/3sQdC0mNH4Bnt5znDHvfIw) |
 | 2025-06-15 | 澳门大学 | [2025年澳门大学工商管理学院学术夏令营报名开启](https://mp.weixin.qq.com/s/ujgK6fzHKdbougXp03pvYg) |
+| 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之一“经济学院第十七届全国优秀大学生经济学夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55034.htm) |
+| 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之二“王亚南经济研究院第十七届全国优秀大学生经济学（学硕）夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55044.htm) |
+| 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之三“邹至庄经济研究院第三届全国优秀大学生数量经济学、数字经济夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55054.htm) |
+| 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之四“第十一届全国优秀大学生金融硕士（含人工智能金融方向）夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55064.htm) |
+| 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之五“第十一届全国优秀大学生统计学夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55084.htm) |
 | 2025-06-06 | 北京大学 | [2025年北京大学汇丰商学院全国优秀大学生经济金融论坛”的通知](https://mp.weixin.qq.com/s/bHxu77Idaj3N9GtkkW-t5Q) |
 | 2025-05-29 | 中国科学院大学 | [2025年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营](https://mp.weixin.qq.com/s/j7WdoIBEX0OnyMat_glzyw) |
+| 2025-05-25 | 浙江大学 | [2025年浙江大学管理学院IPhD2025夏令营活动通知](http://www.som.zju.edu.cn/2025/0506/c63512a3045953/page.htm) |
 | 2025-05-20 | 清华大学 | [2025年清华大学五道口金融学院金融硕士项目全国优秀大学生夏令营活动通知](https://www.pbcsf.tsinghua.edu.cn/info/1146/9566.htm) |
 | 2025-05-20 | 清华大学 | [2025年清华大学经济管理学院、深圳国际研究生院 全国优秀大学生夏令营活动通知 （金融硕士项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3249.htm) |
 | 2025-05-20 | 北京大学 | [2025年北京大学全球健康发展研究院耶鲁2025年“数字健康”经济学夏令营](https://www.ghd.pku.edu.cn/xwzx/38bff67c5ddb45bd8c835b6a431bf422.htm) |
