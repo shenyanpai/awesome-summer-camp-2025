@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="144" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="143" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -61,6 +61,14 @@
 | 2025-06-10 | [2025年上海交通大学医疗机器人研究院第七届医疗机器人国际暑期学校学员招募](https://www.gs.sjtu.edu.cn/post/detail/Z3MzMTA5) |
 
 <div align="center">
+<h3>哈尔滨工业大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-07 | [2025年哈尔滨工业大学生命科学和医学学部2025年优秀大学生暑期夏令营的通知](https://life.hit.edu.cn/2025/0507/c6157a369604/page.htm) |
+
+<div align="center">
 <h3>北京协和医学院</h3>
 </div>
 
@@ -69,6 +77,7 @@
 | 2025-06-25 | [2025年北京协和医学院放射医学研究所2025年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/0jXH3nT9df8C__1sF1n80g) |
 | 2025-06-15 | [2025年北京协和医学院医学生物学研究所 2025年第十二届优秀大学生暑期夏令营招生简章](https://www.imbcams.ac.cn/jyjx1/zsxx/content_8255) |
 | 2025-06-15 | [2025年北京协和医学院血液病医院第十五届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/p7GaHyyGt4r_khoMf84rSQ) |
+| 2025-06-10 | [2025年北京协和医学院药物研究所全国优秀大学生暑期夏令营活动通知](https://www.imm.ac.cn/tz/tzgg/7d7a63b8188e4f709bdafa863cb03a87.htm) |
 | 2025-06-06 | [2025年北京协和医学院药用植物研究所2025年全国大学生开放日暨暑期夏令营活动通知](https://www.implad.ac.cn/yzxw.aspx?CateId=32&Id=8322) |
 
 <div align="center">
@@ -80,6 +89,14 @@
 | 2025-06-30 | [2025年南方科技大学医学院“医路向南 医路精彩”夏令营（26级推免研究生选拔）通知](https://mp.weixin.qq.com/s/VCLzYZGoa82vB9UoPVpS_Q) |
 | 2025-06-18 | [2025年南方科技大学生物医学工程系2025年全国优秀大学生夏令营](https://bme.sustech.edu.cn/graduate/%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%89%a9%e5%8c%bb%e5%ad%a6%e5%b7%a5%e7%a8%8b%e7%b3%bb2025%e5%b9%b4%e5%85%a8%e5%9b%bd%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f/?9=) |
 | 2025-05-20 | [2025年南方科技大学医学院计算生物医学暑期学校预报名通知](https://mp.weixin.qq.com/s/te9aR7nkaxdOGASjluOFMw) |
+
+<div align="center">
+<h3>兰州大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-05-26 | [2025年兰州大学草地农业科技学院第九届“丝绸之路经济带”全国大学生草业科学实践技能大赛暨大学生夏令营活动的通知](https://mp.weixin.qq.com/s/oqcg70N53IJz9hczaAlALw) |
 
 <div align="center">
 <h3>首都医科大学</h3>

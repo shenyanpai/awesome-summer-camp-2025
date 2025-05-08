@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="144" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="143" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -99,6 +99,14 @@
 | 2025-05-10 | [2025年复旦大学经济学院2025年第十四届金融专硕全国优秀大学生夏令营活动通知](https://econ.fudan.edu.cn/info/1519/30167.htm) |
 
 <div align="center">
+<h3>同济大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-16 | [2025年同济大学经济与管理学院2025年优秀学生暑期学校活动通知 学术型）](https://sem.tongji.edu.cn/semch/53441.html) |
+
+<div align="center">
 <h3>厦门大学</h3>
 </div>
 
@@ -125,6 +133,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-07-01 | [2025年上海科技大学创业与管理学院2025年优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/fRlpPiOhs01ghMC49bOUeA) |
+
+<div align="center">
+<h3>上海大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-07 | [2025年上海大学悉尼工商学院2025年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/NjvxfPAodhsAlzUAFUfbMg) |
 
 <div align="center">
 <h3>中国科学院大学</h3>
