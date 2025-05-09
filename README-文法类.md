@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="143" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="142" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -84,6 +84,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-20 | [2025年华东政法大学知识产权学院2025年“与名师面对面”夏令营招生简章](https://ipschool.ecupl.edu.cn/2025/0409/c13461a219698/page.htm) |
+| 2025-05-28 | [2025年华东政法大学外语学院2025年第十届法律语言与翻译夏令营（线上）招生通知](https://wyxy.ecupl.edu.cn/2025/0508/c4236a220087/page.htm) |
 
 <div align="center">
 <h3>延边大学</h3>
@@ -107,6 +108,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-15 | [2025年中国科学院自然科学史研究所2025年“科技历史与文化”大学生夏令营报名通知](https://www.ihns.ac.cn/yjsjy/jydt/202505/t20250508_7645842.html) |
 | 2025-06-15 | [2025年中国科学院文献情报中心2025年全国优秀大学生信息资源管理夏令营活动预通知](https://mp.weixin.qq.com/s/OnE_OgTkcNa1ufc14vCr2Q) |
 
 <div align="center">

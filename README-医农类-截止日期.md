@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="143" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="142" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -36,11 +36,15 @@
 
 | 截止时间 | 学校名称 | 通知 |
 |:------------:|:---------|:---------|
+| 2025-08-20 | 天津大学 | [2025年天津大学药物科学与技术学院2026级研究生招生宣传导师团活动通知](https://spst.tju.edu.cn/chinese/xydt/tzgg/202505/t20250507_324242.htm) |
+| 2025-08-20 | 天津大学 | [2025年天津大学卫生应急学院2026级研究生招生宣传导师团活动通知](https://idm.tju.edu.cn/info/1028/2818.htm) |
 | 2025-08-01 | 中国科学院 | [2025年中国科学院上海药物研究所“新药梦”优秀大学生夏令营营员招募通知](https://simm.cas.cn/web/yjsjy/zsgz/xdly/202504/t20250424_7611069.html) |
 | 2025-06-30 | 南方科技大学 | [2025年南方科技大学医学院“医路向南 医路精彩”夏令营（26级推免研究生选拔）通知](https://mp.weixin.qq.com/s/VCLzYZGoa82vB9UoPVpS_Q) |
+| 2025-06-30 | 上海科技大学 | [2025年上海科技大学生物医学工程学院2025年大学生夏令营活动通知](https://bme.shanghaitech.edu.cn/2025/0508/c8181a1110760/page.htm) |
 | 2025-06-30 | 中国科学院 | [2025年中国科学院遗传与发育生物学研究所农业资源研究中心“未来之星”大学生夏令营报名通知](https://mp.weixin.qq.com/s/hTcAO7hhLeRHGJnQaTP6sA) |
 | 2025-06-25 | 北京协和医学院 | [2025年北京协和医学院放射医学研究所2025年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/0jXH3nT9df8C__1sF1n80g) |
 | 2025-06-25 | 中国科学院 | [2025年中国科学院上海免疫与感染研究所大学生夏令营通知](https://mp.weixin.qq.com/s/u-EnYVxabrx8kDE119pU2g) |
+| 2025-06-20 | 中国科学院 | [2025年中国科学院广州生物医药与健康研究院第十九届“走进GIBH”大学生夏令营邀你启程](https://mp.weixin.qq.com/s/ZF8XVlvhSoekaA0qyc42KA) |
 | 2025-06-20 | 中国科学院 | [2025年中国科学院分子植物科学卓越创新中心“探索生命的多样性”暑期学校暨2026级推免生报名须知](http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202504/t20250408_7590567.html) |
 | 2025-06-20 | 北京生命科学研究所 | [2025年北京生命科学研究所2025年优秀大学生夏令营通知 （含清华大学的TIMBR项目）](http://nibs.ac.cn/yjsjyshow.php?cid=8&sid=26&zid=78&id=2847) |
 | 2025-06-18 | 南方科技大学 | [2025年南方科技大学生物医学工程系2025年全国优秀大学生夏令营](https://bme.sustech.edu.cn/graduate/%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%89%a9%e5%8c%bb%e5%ad%a6%e5%b7%a5%e7%a8%8b%e7%b3%bb2025%e5%b9%b4%e5%85%a8%e5%9b%bd%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f/?9=) |
