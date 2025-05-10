@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="142" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="141" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -48,7 +48,7 @@
 | 2025-05-18 | [2025年清华大学建筑学院建筑环境与能源应用工程专业2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/N8gIw14lt07W85L4qNcFWw) |
 | 2025-05-12 | [2025年清华大学物理系优秀大学生夏令营活动通知](https://www.phys.tsinghua.edu.cn/info/1271/6359.htm) |
 | 2025-05-11 | [2025年清华大学化学系全国优秀大学生夏令营活动通知](https://www.chem.tsinghua.edu.cn/info/1090/3556.htm) |
-| 2025-05-09 | [2025年清华大学地球系统科学系地学学科全国优秀大学生夏令营活动通知](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm) |
+| ~~2025-05-09~~ | [2025年清华大学地球系统科学系地学学科全国优秀大学生夏令营活动通知](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm) |
 | ~~2025-05-05~~ | [2025年清华大学交叉信息研究院全国优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/appinfo.php) |
 | ~~2025-04-25~~ | [2025年清华大学智能与网络化系统研究中心夏令营启动报名](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA) |
 | ~~2025-04-20~~ | [2025年清华大学数学科学系全国优秀大学生夏令营活动通知](https://math.tsinghua.edu.cn/info/1134/2596.htm) |
@@ -380,7 +380,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-15 | [2025年香港中文大学工程学院系统工程与工程管理系（SEEM）将举办2025年博士生夏令营](https://mp.weixin.qq.com/s/fjdB4MObC4oSmolODrtuVg) |
-| 2025-05-09 | [2025年香港中文大学化学系招生夏令营通知](https://chem.cuhk.edu.hk/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6%E7%B3%BB%E6%8B%9B%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5-2024-2/) |
+| ~~2025-05-09~~ | [2025年香港中文大学化学系招生夏令营通知](https://chem.cuhk.edu.hk/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6%E7%B3%BB%E6%8B%9B%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5-2024-2/) |
 | ~~2025-04-22~~ | [2025年香港中文大学工程学院博士生夏令营已开放申请](https://mp.weixin.qq.com/s/XfQhDYFyx8Ue1EPkCrmC6Q) |
 
 <div align="center">

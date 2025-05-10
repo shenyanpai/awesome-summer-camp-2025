@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="142" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="141" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -274,10 +274,10 @@
 | 2025-05-10 | 复旦大学 | [2025年复旦大学经济学院2025年第七届全国优秀本科直博夏令营活动报名通知](https://econ.fudan.edu.cn/info/1307/30147.htm) |
 | 2025-05-10 | 复旦大学 | [2025年复旦大学经济学院2025年第十四届金融专硕全国优秀大学生夏令营活动通知](https://econ.fudan.edu.cn/info/1519/30167.htm) |
 | 2025-05-10 | 哈尔滨医科大学 | [2025年哈尔滨医科大学公共卫生学院“尔滨之约，公卫盛宴”大学生暑期夏令营](https://mp.weixin.qq.com/s/etHnzxt6ftg46TAxHBCZtQ) |
-| 2025-05-09 | 清华大学 | [2025年清华大学地球系统科学系地学学科全国优秀大学生夏令营活动通知](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm) |
-| 2025-05-09 | 清华大学 | [2025年清华大学经济管理学院全国优秀大学生夏令营活动通知 （清华大学-哥伦比亚大学商务分析双硕士学位项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm) |
-| 2025-05-09 | 北京大学 | [2025年北京大学新结构经济学研究院“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/xjgjjxxly/540632.htm) |
-| 2025-05-09 | 香港中文大学 | [2025年香港中文大学化学系招生夏令营通知](https://chem.cuhk.edu.hk/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6%E7%B3%BB%E6%8B%9B%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5-2024-2/) |
+| ~~2025-05-09~~ | 清华大学 | [2025年清华大学地球系统科学系地学学科全国优秀大学生夏令营活动通知](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm) |
+| ~~2025-05-09~~ | 清华大学 | [2025年清华大学经济管理学院全国优秀大学生夏令营活动通知 （清华大学-哥伦比亚大学商务分析双硕士学位项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm) |
+| ~~2025-05-09~~ | 北京大学 | [2025年北京大学新结构经济学研究院“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/xjgjjxxly/540632.htm) |
+| ~~2025-05-09~~ | 香港中文大学 | [2025年香港中文大学化学系招生夏令营通知](https://chem.cuhk.edu.hk/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6%E7%B3%BB%E6%8B%9B%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5-2024-2/) |
 | ~~2025-05-08~~ | 北京大学 | [2025年北京大学国家发展研究院2025年“全国经济学与管理学优秀大学生夏令营”活动通知](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/540549.htm) |
 | ~~2025-05-06~~ | 中国科学院 | [2025年中国科学院古脊椎动物与古人类研究所分子古生物学实验室（付巧妹研究员课题组）2025年暑期夏令营课程学员招募（第一轮）](http://www.ivpp.cas.cn/tzgg/202503/t20250321_7563068.html) |
 | ~~2025-05-05~~ | 清华大学 | [2025年清华大学交叉信息研究院全国优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/appinfo.php) |

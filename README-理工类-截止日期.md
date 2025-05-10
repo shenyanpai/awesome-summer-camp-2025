@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="142" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="141" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -196,8 +196,8 @@
 | 2025-05-12 | 清华大学 | [2025年清华大学物理系优秀大学生夏令营活动通知](https://www.phys.tsinghua.edu.cn/info/1271/6359.htm) |
 | 2025-05-11 | 清华大学 | [2025年清华大学化学系全国优秀大学生夏令营活动通知](https://www.chem.tsinghua.edu.cn/info/1090/3556.htm) |
 | 2025-05-11 | 西湖大学 | [2025年西湖大学生命科学学院生命科学国际暑期学校报名通知](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202503/t20250324_53691.shtml) |
-| 2025-05-09 | 清华大学 | [2025年清华大学地球系统科学系地学学科全国优秀大学生夏令营活动通知](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm) |
-| 2025-05-09 | 香港中文大学 | [2025年香港中文大学化学系招生夏令营通知](https://chem.cuhk.edu.hk/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6%E7%B3%BB%E6%8B%9B%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5-2024-2/) |
+| ~~2025-05-09~~ | 清华大学 | [2025年清华大学地球系统科学系地学学科全国优秀大学生夏令营活动通知](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm) |
+| ~~2025-05-09~~ | 香港中文大学 | [2025年香港中文大学化学系招生夏令营通知](https://chem.cuhk.edu.hk/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6%E7%B3%BB%E6%8B%9B%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5-2024-2/) |
 | ~~2025-05-06~~ | 中国科学院 | [2025年中国科学院古脊椎动物与古人类研究所分子古生物学实验室（付巧妹研究员课题组）2025年暑期夏令营课程学员招募（第一轮）](http://www.ivpp.cas.cn/tzgg/202503/t20250321_7563068.html) |
 | ~~2025-05-05~~ | 清华大学 | [2025年清华大学交叉信息研究院全国优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/appinfo.php) |
 | ~~2025-05-05~~ | 北京大学 | [2025年北京大学物理学院“大气与海洋科学优秀大学生夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10956.htm) |
