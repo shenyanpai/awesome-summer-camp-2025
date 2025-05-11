@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="141" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="140" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -95,8 +95,15 @@
 | 暂无 | [2025年复旦大学国际金融学院精英金融专业硕士2025年体验营及夏令营活动通知](https://mp.weixin.qq.com/s/tYBJQ5CzvzkhIoNByL6_8Q) |
 | 暂无 | [2025年复旦大学管理学院2026级专业硕士项目推免招生正式启动！](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ) |
 | 2025-07-05 | [2025年复旦大学管理学院2026级硕博连读项目推免招生 “博思营”系列活动通知](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA) |
-| 2025-05-10 | [2025年复旦大学经济学院2025年第七届全国优秀本科直博夏令营活动报名通知](https://econ.fudan.edu.cn/info/1307/30147.htm) |
-| 2025-05-10 | [2025年复旦大学经济学院2025年第十四届金融专硕全国优秀大学生夏令营活动通知](https://econ.fudan.edu.cn/info/1519/30167.htm) |
+| ~~2025-05-10~~ | [2025年复旦大学经济学院2025年第七届全国优秀本科直博夏令营活动报名通知](https://econ.fudan.edu.cn/info/1307/30147.htm) |
+| ~~2025-05-10~~ | [2025年复旦大学经济学院2025年第十四届金融专硕全国优秀大学生夏令营活动通知](https://econ.fudan.edu.cn/info/1519/30167.htm) |
+
+<div align="center">
+<h3>哈尔滨工业大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
 
 <div align="center">
 <h3>同济大学</h3>

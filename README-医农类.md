@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="141" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="140" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -50,7 +50,7 @@
 |:------------:|:---------|
 | 2025-06-03 | [2025年浙江大学基础医学院关于举办2025年优秀大学生暑期夏令营的通知](https://bms.zju.edu.cn/2025/0429/c85156a3044184/page.htm) |
 | 2025-05-21 | [2025年浙江大学脑科学与脑医学学院全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm) |
-| 2025-05-10 | [2025浙江大学良渚实验室2025年度暑期科研训练营开启招募](https://mp.weixin.qq.com/s/32PdZFb-_O7nN4SqpI40Pg) |
+| ~~2025-05-10~~ | [2025浙江大学良渚实验室2025年度暑期科研训练营开启招募](https://mp.weixin.qq.com/s/32PdZFb-_O7nN4SqpI40Pg) |
 
 <div align="center">
 <h3>上海交通大学</h3>
@@ -66,7 +66,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-07 | [2025年哈尔滨工业大学生命科学和医学学部2025年优秀大学生暑期夏令营的通知](https://life.hit.edu.cn/2025/0507/c6157a369604/page.htm) |
+| 2025-06-07 | [2025年哈尔滨工业大学生命科学和医学学部2025年优秀大学生暑期夏令营的通知](https://med.hit.edu.cn/2025/0509/c12995a369710/page.htm) |
 
 <div align="center">
 <h3>北京协和医学院</h3>
@@ -129,7 +129,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-05-10 | [2025年哈尔滨医科大学公共卫生学院“尔滨之约，公卫盛宴”大学生暑期夏令营](https://mp.weixin.qq.com/s/etHnzxt6ftg46TAxHBCZtQ) |
+| ~~2025-05-10~~ | [2025年哈尔滨医科大学公共卫生学院“尔滨之约，公卫盛宴”大学生暑期夏令营](https://mp.weixin.qq.com/s/etHnzxt6ftg46TAxHBCZtQ) |
 
 <div align="center">
 <h3>广州医科大学</h3>

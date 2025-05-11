@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="141" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="140" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -39,6 +39,7 @@
 | 暂无 | 北京大学 | [2025年北京大学国际法学院全国优秀大学生夏令营预报名](https://stl.pku.edu.cn/cn/admissions/83/shp.html) |
 | 暂无 | 深圳大学 | [2025年深圳大学人文学院2025年暑期学校招生预通知](https://wxy.szu.edu.cn/info/1083/2583.htm) |
 | 2025-06-20 | 华东政法大学 | [2025年华东政法大学知识产权学院2025年“与名师面对面”夏令营招生简章](https://ipschool.ecupl.edu.cn/2025/0409/c13461a219698/page.htm) |
+| 2025-06-20 | 贵州财经大学 | [2025年贵州财经大学马克思主义学院2025年学术夏令营活动报名通知](https://mp.weixin.qq.com/s/Qwb67Goz143nvH8ZQhswIQ) |
 | 2025-06-20 | 延边大学 | [2025年延边大学法学院2025年“践行涉外法治 ，筑梦边疆”优秀大学生主题夏令营报名通知](https://mp.weixin.qq.com/s/a1j89mjVwl9O8KD3aaqfKg) |
 | 2025-06-16 | 暨南大学 | [2025年暨南大学国际关系学院/华侨华人研究院第十届“东南亚、华侨华人与区域国际关系”夏令营招生启事](https://mp.weixin.qq.com/s/GplnfS2CyPEDufqZHgC96w) |
 | 2025-06-15 | 西南科技大学 | [2025年西南科技大学文学与艺术学院2025年学术夏令营招募公告](https://mp.weixin.qq.com/s/UG5fvHMWj67mMFLpBdJRvw) |

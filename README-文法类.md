@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="141" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="140" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -101,6 +101,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-15 | [2025年西南科技大学文学与艺术学院2025年学术夏令营招募公告](https://mp.weixin.qq.com/s/UG5fvHMWj67mMFLpBdJRvw) |
+
+<div align="center">
+<h3>贵州财经大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-20 | [2025年贵州财经大学马克思主义学院2025年学术夏令营活动报名通知](https://mp.weixin.qq.com/s/Qwb67Goz143nvH8ZQhswIQ) |
 
 <div align="center">
 <h3>中国科学院</h3>
