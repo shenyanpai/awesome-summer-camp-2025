@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="139" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="138" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -74,7 +74,6 @@
 | ~~2025-05-09~~ | 清华大学 | [2025年清华大学经济管理学院全国优秀大学生夏令营活动通知 （清华大学-哥伦比亚大学商务分析双硕士学位项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm) |
 | ~~2025-05-09~~ | 北京大学 | [2025年北京大学新结构经济学研究院“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/xjgjjxxly/540632.htm) |
 | ~~2025-05-08~~ | 北京大学 | [2025年北京大学国家发展研究院2025年“全国经济学与管理学优秀大学生夏令营”活动通知](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/540549.htm) |
-| ~~2025-05-05~~ | 清华大学 | [2025年清华大学能源环境经济研究所启动2026年秋季入学研究生招生工作](https://mp.weixin.qq.com/s/Z7SPgX7rNiFY4CH1-0Ch_A) |
 | ~~2025-05-04~~ | 清华大学 | [2025年清华大学经济管理学院经济管理学科博士夏令营活动通知](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm) |
 | ~~2025-04-29~~ | 清华大学 | [2025年清华大学五道口金融学院金融学博士全国优秀大学生夏令营活动通知](https://www.pbcsf.tsinghua.edu.cn/info/1147/9567.htm) |
 | ~~2025-04-22~~ | 北京大学 | [2025年北京大学光华管理学院统计学专业夏令营通知](https://mp.weixin.qq.com/s/0KPD4C8hrnrTZ0D__0gi0Q) |
