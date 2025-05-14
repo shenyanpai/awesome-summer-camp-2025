@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="137" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="136" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -61,6 +61,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-10 | [2025年浙江大学公共管理学院2025年继续举办大学生公共管理创新论坛暨“启真”夏令营活动](http://www.spa.zju.edu.cn/spachinese/74541/list.htm) |
+| 2025-06-08 | [2025年浙江大学外国语学院2025年优秀大学生夏令营招生简章](http://www.sis.zju.edu.cn/sischinese/2025/0514/c23219a3049294/page.htm) |
 
 <div align="center">
 <h3>哈尔滨工业大学</h3>
@@ -68,6 +69,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-07 | [2025年哈尔滨工业大学马克思主义学院关于举办全国优秀大学生学术夏令营的通知](https://marx.hit.edu.cn/2025/0513/c10001a369798/page.htm) |
 | 2025-06-07 | [2025年哈尔滨工业大学人文社科学部暑期夏令营的通知](https://rwxy.hit.edu.cn/2025/0430/c6936a367948/page.htm) |
 | 2025-06-07 | [2025年哈尔滨工业大学（深圳）马克思主义学院2025年全国优秀大学生学术夏令营的通知](http://mks.hitsz.edu.cn/info/1013/2341.htm) |
 
