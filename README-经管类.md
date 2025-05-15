@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="136" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="135" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -103,6 +103,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-07 | [2025年哈尔滨工业大学（深圳）未来学部经济管理学院全国优秀大学生学术夏令营通知](http://sem.hitsz.edu.cn/info/1233/2981.htm) |
 
 <div align="center">
 <h3>同济大学</h3>
@@ -155,6 +156,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-07 | [2025年上海大学悉尼工商学院2025年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/NjvxfPAodhsAlzUAFUfbMg) |
+
+<div align="center">
+<h3>湖南工商大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-20 | [2025年湖南工商大学经济与贸易学院 2025年全国优秀大学生夏令营活动](https://mp.weixin.qq.com/s/JBIvm6kctG3Ur6lJ9a7DQQ) |
 
 <div align="center">
 <h3>中国科学院大学</h3>
