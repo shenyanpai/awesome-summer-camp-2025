@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="135" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="134" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -78,6 +78,7 @@
 | 2025-06-25 | [2025年北京协和医学院放射医学研究所2025年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/0jXH3nT9df8C__1sF1n80g) |
 | 2025-06-15 | [2025年北京协和医学院医学生物学研究所 2025年第十二届优秀大学生暑期夏令营招生简章](https://www.imbcams.ac.cn/jyjx1/zsxx/content_8255) |
 | 2025-06-15 | [2025年北京协和医学院血液病医院第十五届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/p7GaHyyGt4r_khoMf84rSQ) |
+| 2025-06-10 | [2025年北京协和医学院病原生物学研究所2025年全国优秀大学生暑期夏令营活动通知](https://www.ipbcams.ac.cn/zxxx/2946.html) |
 | 2025-06-10 | [2025年北京协和医学院药物研究所全国优秀大学生暑期夏令营活动通知](https://www.imm.ac.cn/tz/tzgg/7d7a63b8188e4f709bdafa863cb03a87.htm) |
 | 2025-06-06 | [2025年北京协和医学院药用植物研究所2025年全国大学生开放日暨暑期夏令营活动通知](https://www.implad.ac.cn/yzxw.aspx?CateId=32&Id=8322) |
 

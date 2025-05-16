@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="135" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="134" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -52,6 +52,8 @@
 | 2025-06-16 | 清华大学 | [2025年清华大学经济管理学院全国优秀大学生夏令营活动通知 （管理硕士项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3248.htm) |
 | 2025-06-16 | 北京大学 | [2025年北京大学全球健康发展研究院耶鲁2025年“数字健康”经济学夏令营](https://www.ghd.pku.edu.cn/xwzx/a799636b56164a6db596368fbc79b7ea.htm) |
 | 2025-06-16 | 上海交通大学 | [2025年上海交通大学安泰经济与管理学院优才营2026年入学全面启动](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg) |
+| 2025-06-16 | 同济大学 | [2025年同济大学经济与管理学院工程管理硕士（MEM） 优秀学生暑期学校活动通知](https://mp.weixin.qq.com/s/KqSgt3mS-3fhtkdPEYRk9w) |
+| 2025-06-16 | 同济大学 | [2025年同济大学经济与管理学院2025年优秀学生暑期学校活动通知（专业学位 会计硕士）](https://mpacc.tongji.edu.cn/info/1015/1843.htm) |
 | 2025-06-16 | 同济大学 | [2025年同济大学经济与管理学院2025年优秀学生暑期学校活动通知 学术型）](https://sem.tongji.edu.cn/semch/53441.html) |
 | 2025-06-15 | 北京大学 | [2025年北京大学光华管理学院2025“全国优秀大学生夏令营”（社会学方向）](https://mp.weixin.qq.com/s/VdWtvp7RFtFgSvIsqWao1Q) |
 | 2025-06-15 | 北京大学 | [2025年北京大学光华管理学院全国优秀大学生学术夏令营通知](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm) |

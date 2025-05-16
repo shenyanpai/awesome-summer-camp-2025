@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="135" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="134" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -51,7 +51,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2025年北京大学国际法学院全国优秀大学生夏令营预报名](https://stl.pku.edu.cn/cn/admissions/83/shp.html) |
-| 2025-05-16 | [2025年北京大学燕京学堂2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw) |
+| ~~2025-05-16~~ | [2025年北京大学燕京学堂2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw) |
 | ~~2025-04-08~~ | [2025年北京大学国际法学院2026研招开放日报名正式启动（本科专业不限）](https://mp.weixin.qq.com/s/SiGYBFkBVCktzTABiN3tWQ) |
 
 <div align="center">
@@ -62,6 +62,14 @@
 |:------------:|:---------|
 | 2025-06-10 | [2025年浙江大学公共管理学院2025年继续举办大学生公共管理创新论坛暨“启真”夏令营活动](http://www.spa.zju.edu.cn/spachinese/74541/list.htm) |
 | 2025-06-08 | [2025年浙江大学外国语学院2025年优秀大学生夏令营招生简章](http://www.sis.zju.edu.cn/sischinese/2025/0514/c23219a3049294/page.htm) |
+
+<div align="center">
+<h3>中山大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-05-26 | [2025年中山大学中国语言文学系2025年“优秀大学生夏令营” 暨粤港澳大湾区中文书院活动公告](https://mp.weixin.qq.com/s/254xmOl0gQMQQ2_41ejYrg) |
 
 <div align="center">
 <h3>哈尔滨工业大学</h3>
@@ -88,6 +96,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-22 | [2025年暨南大学公共管理学院/应急管理学院2025年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/aLVMucNxoxGCETGGyyTwOA) |
 | 2025-06-16 | [2025年暨南大学国际关系学院/华侨华人研究院第十届“东南亚、华侨华人与区域国际关系”夏令营招生启事](https://mp.weixin.qq.com/s/GplnfS2CyPEDufqZHgC96w) |
 
 <div align="center">
@@ -104,8 +113,10 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-22 | [2025年华东政法大学马克思主义学院第七届“马克思主义与中国”优秀大学生研习营招生公告](https://mp.weixin.qq.com/s/x77C--n-WOAbMOv7gDtE5A) |
 | 2025-06-20 | [2025年华东政法大学知识产权学院2025年“与名师面对面”夏令营招生简章](https://ipschool.ecupl.edu.cn/2025/0409/c13461a219698/page.htm) |
 | 2025-06-18 | [2025年华东政法大学社会发展学院第九届优秀大学生夏令营招生公告](https://mp.weixin.qq.com/s/BksEY1NXqqW9nHEUw3Ngpg) |
+| 2025-06-15 | [2025年华东政法大学政府管理学院第十四届“海派集英”政治学与公共管理学术夏令营暨“基层中国”暑期学校招生公告](https://mp.weixin.qq.com/s/-IWzUKcHE8tjVMFr_YZX1Q) |
 | 2025-05-28 | [2025年华东政法大学外语学院2025年第十届法律语言与翻译夏令营（线上）招生通知](https://wyxy.ecupl.edu.cn/2025/0508/c4236a220087/page.htm) |
 
 <div align="center">
@@ -115,6 +126,22 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-20 | [2025年延边大学法学院2025年“践行涉外法治 ，筑梦边疆”优秀大学生主题夏令营报名通知](https://mp.weixin.qq.com/s/a1j89mjVwl9O8KD3aaqfKg) |
+
+<div align="center">
+<h3>湖南农业大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-17 | [2025年湖南农业大学公共管理与法学学院2025年“公璞英才”全国优秀大学生（含直博生）夏令营活动通知](https://mp.weixin.qq.com/s/NYLJVOWoyU4D9iaKojCfgw) |
+
+<div align="center">
+<h3>上海海事大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-15 | [2025年上海海事大学法学院2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/nJOPGl94x90WaY5JhBSO3A) |
 
 <div align="center">
 <h3>西南科技大学</h3>

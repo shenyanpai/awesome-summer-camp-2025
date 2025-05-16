@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="135" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="134" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -111,6 +111,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-16 | [2025年同济大学经济与管理学院工程管理硕士（MEM） 优秀学生暑期学校活动通知](https://mp.weixin.qq.com/s/KqSgt3mS-3fhtkdPEYRk9w) |
+| 2025-06-16 | [2025年同济大学经济与管理学院2025年优秀学生暑期学校活动通知（专业学位 会计硕士）](https://mpacc.tongji.edu.cn/info/1015/1843.htm) |
 | 2025-06-16 | [2025年同济大学经济与管理学院2025年优秀学生暑期学校活动通知 学术型）](https://sem.tongji.edu.cn/semch/53441.html) |
 
 <div align="center">
