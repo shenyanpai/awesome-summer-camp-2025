@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="134" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="133" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -181,6 +181,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | ~~2025-04-17~~ | [2025年澳门大学健康科学学院2025年内地优秀大学生健康科学夏令营](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA) |
+
+<div align="center">
+<h3>中国农业科学院</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-25 | [2025年中国农业科学院兰州兽医研究所2025年优秀大学生暑期夏令营招募通知](https://lvri.caas.cn/xxzx/tzgg/4a1b8ae8deb042dab4c4cd535633dbbd.htm) |
 
 <div align="center">
 <h3>北京生命科学研究所</h3>

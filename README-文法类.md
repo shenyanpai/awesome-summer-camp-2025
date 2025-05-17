@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="134" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="133" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -160,6 +160,14 @@
 | 2025-06-30 | [2025年内蒙古师范大学科学技术史研究院 “科技与文明”2025夏令营招生通知](https://ihst.imnu.edu.cn/info/1022/2917.htm) |
 
 <div align="center">
+<h3>北京第二外国语学院</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-15 | [2025年北京第二外国语学院日语学院国际日本研究中心优秀大学生夏令营招生简章（一号通知）](https://mp.weixin.qq.com/s/4P5lRG9kYWfy7P6w3A956A) |
+
+<div align="center">
 <h3>贵州财经大学</h3>
 </div>
 
@@ -173,6 +181,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-20 | [2025年中国科学院公共政策与管理学院全国优秀大学生夏令营报名通知](https://sppm.ucas.ac.cn/index.php/zh-CN/zsgl/zsxx/3173-2024-32) |
 | 2025-06-15 | [2025年中国科学院自然科学史研究所2025年“科技历史与文化”大学生夏令营报名通知](https://www.ihns.ac.cn/yjsjy/jydt/202505/t20250508_7645842.html) |
 | 2025-06-15 | [2025年中国科学院文献情报中心2025年全国优秀大学生信息资源管理夏令营活动预通知](https://mp.weixin.qq.com/s/OnE_OgTkcNa1ufc14vCr2Q) |
 
