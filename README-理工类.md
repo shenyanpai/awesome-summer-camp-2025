@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="133" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="132" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -49,7 +49,7 @@
 | 2025-05-30 | [2025年清华大学建筑学院建筑环境与能源应用工程专业优秀大学生夏令营活动](https://mp.weixin.qq.com/s/BnLNQe4YoqBGQcZNT-7XiQ) |
 | 2025-05-22 | [2025年清华大学航空发动机研究院2025年优秀大学生夏令营通知](https://mp.weixin.qq.com/s/jC1YPTcfhGwyPqY8AlxM-g) |
 | 2025-05-19 | [2025年清华大学天文系 “2025年天文学优秀大学生夏令营”](https://mp.weixin.qq.com/s/7_Mwtx3zmB926fmJDeeirA) |
-| 2025-05-18 | [2025年清华大学建筑学院建筑环境与能源应用工程专业2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/N8gIw14lt07W85L4qNcFWw) |
+| ~~2025-05-18~~ | [2025年清华大学建筑学院建筑环境与能源应用工程专业2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/N8gIw14lt07W85L4qNcFWw) |
 | ~~2025-05-15~~ | [2025年清华大学人工智能学院大学生学术交流日](https://collegeai.tsinghua.edu.cn/admission/appinfo-ai.php) |
 | ~~2025-05-12~~ | [2025年清华大学物理系优秀大学生夏令营活动通知](https://www.phys.tsinghua.edu.cn/info/1271/6359.htm) |
 | ~~2025-05-11~~ | [2025年清华大学化学系全国优秀大学生夏令营活动通知](https://www.chem.tsinghua.edu.cn/info/1090/3556.htm) |
@@ -149,7 +149,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-05-30 | [2025年中山大学大气科学学院行星环境与宜居性研究实验室行星科学夏令营招生简章](https://atmos.sysu.edu.cn/pearl/summerschool2025) |
-| 2025-05-18 | [2025年中山大学测绘科学与技术学院“2025年全国优秀大学生夏令营”报名通知](https://mp.weixin.qq.com/s/lBAL1EQL93J73Z7_CxoO9Q) |
+| ~~2025-05-18~~ | [2025年中山大学测绘科学与技术学院“2025年全国优秀大学生夏令营”报名通知](https://mp.weixin.qq.com/s/lBAL1EQL93J73Z7_CxoO9Q) |
 
 <div align="center">
 <h3>哈尔滨工业大学</h3>
@@ -192,6 +192,7 @@
 | 2025-06-15 | [2025年同济大学测绘与地理信息学院优秀学生暑期学校活动通知](https://celiang.tongji.edu.cn/info/1205/4404.htm) |
 | 2025-06-13 | [2025年同济大学电子与信息工程学院2025年优秀学生暑期学校活动通知](https://see.tongji.edu.cn/info/1173/13908.htm) |
 | 2025-06-13 | [2025年同济大学生命科学与技术学院2025年优秀学生暑期学校 活动通知](https://life.tongji.edu.cn/5a/ba/c12614a350906/page.htm) |
+| 2025-06-12 | [2025年同济大学航空航天与力学学院优秀学生暑期学校活动通知](https://aero-mech.tongji.edu.cn/60/31/c22245a352305/page.htm) |
 | 2025-06-12 | [2025年同济大学航空航天与力学学院优秀学生暑期学校活动通知](https://aero-mech.tongji.edu.cn/5b/d4/c22245a351188/page.htm) |
 | 2025-06-06 | [2025年同济大学国家卓越工程师学院2025年优秀学生暑期学校活动通知](https://yz.tongji.edu.cn/info/1010/3921.htm) |
 | 2025-06-05 | [2025年同济大学机械与能源工程学院优秀学生暑期夏令营活动的通知](https://mefaculty.tongji.edu.cn/info/1023/5101.htm) |
@@ -252,8 +253,10 @@
 | 2025-06-15 | [2025年南方科技大学材料科学与工程系2025年全国优秀大学生夏令营报名通知](https://mse.sustech.edu.cn/zh/News/Details/943) |
 | 2025-06-15 | [2025年南方科技大学物理系2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/pQf0BoqweH3Eb476Gn0f8w) |
 | 2025-06-15 | [2025年南方科技大学电子与电气工程系2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/LNwsGVIsycF1jUv2GpKV9Q) |
+| 2025-06-13 | [2025年南方科技大学创新创业学院2025年全国优秀大学生夏令营通知](http://ie-school.sustech.edu.cn/page/content?id=666) |
 | 2025-06-13 | [2025年南方科技大学统计与数据科学系2025年全国优秀大学生学术交流论坛暨夏令营预报名通知](https://stat-ds.sustech.edu.cn/notice/383.html) |
 | 2025-06-09 | [2025年南方科技大学国家卓越工程师学院2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/0q1ehbKmIFlTWaGspkzpmQ) |
+| 2025-06-08 | [2025年南方科技大学生命科学学院2025年全国优秀大学生夏令营报名通知](https://bio.sustech.edu.cn/notice/detail/2458.html?lang=zh-cn) |
 | 2025-06-06 | [2025年南方科技大学环境学院2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/dUogytGQ_jW7UHwM52PIuQ) |
 | ~~2025-05-05~~ | [2025年南方科技大学数学系2025年优秀大学生夏令营预报名通知](https://math.sustech.edu.cn/graduate_enrollment/13260) |
 

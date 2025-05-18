@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="133" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="132" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -235,6 +235,7 @@
 | 2025-06-14 | 北京大学 | [2025年北京大学环境与能源学院2025年优秀大学生夏令营的通知](https://see.pkusz.edu.cn/info/1024/1765.htm) |
 | 2025-06-13 | 同济大学 | [2025年同济大学电子与信息工程学院2025年优秀学生暑期学校活动通知](https://see.tongji.edu.cn/info/1173/13908.htm) |
 | 2025-06-13 | 同济大学 | [2025年同济大学生命科学与技术学院2025年优秀学生暑期学校 活动通知](https://life.tongji.edu.cn/5a/ba/c12614a350906/page.htm) |
+| 2025-06-13 | 南方科技大学 | [2025年南方科技大学创新创业学院2025年全国优秀大学生夏令营通知](http://ie-school.sustech.edu.cn/page/content?id=666) |
 | 2025-06-13 | 南方科技大学 | [2025年南方科技大学统计与数据科学系2025年全国优秀大学生学术交流论坛暨夏令营预报名通知](https://stat-ds.sustech.edu.cn/notice/383.html) |
 | 2025-06-13 | 苏州大学 | [2025年苏州大学能源学院2025暑期夏令营通知](https://mp.weixin.qq.com/s/UwYbfelcNqKrQHNL2zk-tg) |
 | 2025-06-13 | 广东工业大学 | [2025年广东工业大学信息工程学院关于举办2025年优秀大学生​暑期夏令营活动的通知](https://xxgcxy.gdut.edu.cn/info/1210/8485.htm) |
@@ -245,6 +246,7 @@
 | 2025-06-12 | 北京大学 | [2025年北京大学前沿交叉学科研究院定量生物学中心优秀大学生夏令营招生简章](https://cqb.pku.edu.cn/info/1064/2991.htm) |
 | 2025-06-12 | 北京大学 | [2025年北京大学现代农学院2025年全国优秀大学生夏令营活动通知](https://www.saas.pku.edu.cn/xwzx/tzgg/430b2423aeb84b97882e39e94e780859.htm) |
 | 2025-06-12 | 中山大学 | [2025年中山大学岭南学院第十五届（2025全国优秀大学生夏令营招生简章](https://lingnan.sysu.edu.cn/postgraduateprogram/article/494) |
+| 2025-06-12 | 同济大学 | [2025年同济大学航空航天与力学学院优秀学生暑期学校活动通知](https://aero-mech.tongji.edu.cn/60/31/c22245a352305/page.htm) |
 | 2025-06-12 | 同济大学 | [2025年同济大学航空航天与力学学院优秀学生暑期学校活动通知](https://aero-mech.tongji.edu.cn/5b/d4/c22245a351188/page.htm) |
 | 2025-06-12 | 上海科技大学 | [2025年上海科技大学生命科学与技术学院2025年大学生夏令营、暑期班活动通知](https://slst.shanghaitech.edu.cn/2025/0422/c319a1110360/page.htm) |
 | 2025-06-10 | 浙江大学 | [2025年浙江大学公共管理学院2025年继续举办大学生公共管理创新论坛暨“启真”夏令营活动](http://www.spa.zju.edu.cn/spachinese/74541/list.htm) |
@@ -270,6 +272,7 @@
 | 2025-06-09 | 中国科学院 | [2025年中国科学院大学杭州高等研究院物理与光电工程学院 2025年大学生暑期夏令营（线下）报名通知](http://hias.ucas.ac.cn/wlgd/info/1020/1581.htm) |
 | 2025-06-08 | 浙江大学 | [2025年浙江大学外国语学院2025年优秀大学生夏令营招生简章](http://www.sis.zju.edu.cn/sischinese/2025/0514/c23219a3049294/page.htm) |
 | 2025-06-08 | 同济大学 | [2025年同济大学法学院优秀学生暑期学校活动通知](https://law.tongji.edu.cn/info/1113/8221.htm) |
+| 2025-06-08 | 南方科技大学 | [2025年南方科技大学生命科学学院2025年全国优秀大学生夏令营报名通知](https://bio.sustech.edu.cn/notice/detail/2458.html?lang=zh-cn) |
 | 2025-06-07 | 哈尔滨工业大学 | [2025年哈尔滨工业大学能源科学与工程学院2025年夏令营的通知](https://power.hit.edu.cn/2025/0515/c5714a369993/page.htm) |
 | 2025-06-07 | 哈尔滨工业大学 | [2025年哈尔滨工业大学环境学院2025年夏令营第二轮通知](https://mp.weixin.qq.com/s/Of_A9TaZ8Lngiet5WYDJkg) |
 | 2025-06-07 | 哈尔滨工业大学 | [2025年哈尔滨工业大学电气工程及自动化学院暑期夏令营的通知](https://hitee.hit.edu.cn/2025/0510/c17101a369720/page.htm) |
@@ -355,8 +358,8 @@
 | 2025-05-20 | 南京信息工程大学 | [2025年南京信息工程大学化学与材料学院“优秀大学生暑期夏令营”的通知](https://schem.nuist.edu.cn/2025/0508/c6243a286827/page.htm) |
 | 2025-05-19 | 清华大学 | [2025年清华大学天文系 “2025年天文学优秀大学生夏令营”](https://mp.weixin.qq.com/s/7_Mwtx3zmB926fmJDeeirA) |
 | 2025-05-19 | 中国科学院 | [2025年中国科学院计算技术研究所2025年计算机科学研究能力培养“春闱计划”招募通知](https://www.ict.ac.cn/xwgg/tzgg/202505/t20250507_7645217.html) |
-| 2025-05-18 | 清华大学 | [2025年清华大学建筑学院建筑环境与能源应用工程专业2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/N8gIw14lt07W85L4qNcFWw) |
-| 2025-05-18 | 中山大学 | [2025年中山大学测绘科学与技术学院“2025年全国优秀大学生夏令营”报名通知](https://mp.weixin.qq.com/s/lBAL1EQL93J73Z7_CxoO9Q) |
+| ~~2025-05-18~~ | 清华大学 | [2025年清华大学建筑学院建筑环境与能源应用工程专业2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/N8gIw14lt07W85L4qNcFWw) |
+| ~~2025-05-18~~ | 中山大学 | [2025年中山大学测绘科学与技术学院“2025年全国优秀大学生夏令营”报名通知](https://mp.weixin.qq.com/s/lBAL1EQL93J73Z7_CxoO9Q) |
 | ~~2025-05-16~~ | 北京大学 | [2025年北京大学燕京学堂2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw) |
 | ~~2025-05-16~~ | 浙江大学 | [2025年浙江大学数学科学学院2025年全国优秀大学生夏令营报名通知](http://www.math.zju.edu.cn/2025/0430/c38123a3044822/page.htm) |
 | ~~2025-05-16~~ | 中国科学院 | [2025年中国科学院空天信息创新研究院“空天信息技术春令营”招生简章](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ) |
