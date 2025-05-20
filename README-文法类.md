@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="132" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="131" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -141,6 +141,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-15 | [2025年上海海事大学马克思主义学院2025年全国优秀大学生夏令营](https://yz.shmtu.edu.cn/2025/0519/c8927a243911/page.htm) |
 | 2025-06-15 | [2025年上海海事大学法学院2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/nJOPGl94x90WaY5JhBSO3A) |
 
 <div align="center">

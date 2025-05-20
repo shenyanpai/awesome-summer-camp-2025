@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="132" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="131" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -48,6 +48,7 @@
 | 2025-06-30 | 上海交通大学 | [2025年上海交通大学上海高级金融学院金融硕士项目2026级推免招生活动公告](https://mf.saif.sjtu.edu.cn/show-138-761.html?from=kdocs_link) |
 | 2025-06-24 | 上海交通大学 | [2025年上海交通大学安泰经管学院金融硕士2026级优才营正式启动上海南京合肥宣讲会同步开放报名](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw) |
 | 2025-06-20 | 湖南工商大学 | [2025年湖南工商大学经济与贸易学院 2025年全国优秀大学生夏令营活动](https://mp.weixin.qq.com/s/JBIvm6kctG3Ur6lJ9a7DQQ) |
+| 2025-06-20 | 上海海事大学 | [2025年上海海事大学经济管理学院2025年全国优秀大学生夏令营活动通知](https://yz.shmtu.edu.cn/2025/0519/c8927a243936/page.htm) |
 | 2025-06-16 | 清华大学 | [2025年清华大学经济管理学院全日制硕士项目夏令营准时开启](https://mp.weixin.qq.com/s/xVAxT1534QcDoSBPOSMJQw) |
 | 2025-06-16 | 清华大学 | [2025年清华大学经济管理学院全国优秀大学生夏令营活动通知 （管理硕士项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3248.htm) |
 | 2025-06-16 | 北京大学 | [2025年北京大学全球健康发展研究院耶鲁2025年“数字健康”经济学夏令营](https://www.ghd.pku.edu.cn/xwzx/a799636b56164a6db596368fbc79b7ea.htm) |
@@ -62,6 +63,7 @@
 | 2025-06-15 | 香港中文大学（深圳） | [2025年香港中文大学（深圳）经管学院市场学优秀大学生夏令营（体验营）开启报名](https://mp.weixin.qq.com/s/3sQdC0mNH4Bnt5znDHvfIw) |
 | 2025-06-15 | 澳门大学 | [2025年澳门大学工商管理学院学术夏令营报名开启](https://mp.weixin.qq.com/s/ujgK6fzHKdbougXp03pvYg) |
 | 2025-06-12 | 中山大学 | [2025年中山大学岭南学院第十五届（2025全国优秀大学生夏令营招生简章](https://lingnan.sysu.edu.cn/postgraduateprogram/article/494) |
+| 2025-06-10 | 中山大学 | [2025年中山大学国际金融学院2025年优秀大学生暑期夏令营活动通知](https://isbf.sysu.edu.cn/zh-hans/article/2367) |
 | 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之一“经济学院第十七届全国优秀大学生经济学夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55034.htm) |
 | 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之二“王亚南经济研究院第十七届全国优秀大学生经济学（学硕）夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55044.htm) |
 | 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之三“邹至庄经济研究院第三届全国优秀大学生数量经济学、数字经济夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55054.htm) |
