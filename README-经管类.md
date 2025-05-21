@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="130" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="129" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -162,6 +162,14 @@
 | 2025-05-24 | [2025年东北师范大学经济与管理学院2025年全国优秀大学生夏令营的通知](https://bs.nenu.edu.cn/info/1383/5453.htm) |
 
 <div align="center">
+<h3>暨南大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-16 | [2025年暨南大学经济与社会研究院2025年全国优秀大学生经济学夏令营招生简章](https://mp.weixin.qq.com/s/ahRhf-ERF-2o6s-Jr-dQSA) |
+
+<div align="center">
 <h3>上海大学</h3>
 </div>
 
@@ -200,6 +208,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-07-05 | [2025年香港中文大学（深圳）经管学院2025线上博士夏令营报名开启](https://sme.cuhk.edu.cn/article/3125) |
 | 2025-06-15 | [2025年香港中文大学（深圳）经管学院深圳高等金融研究院全日制硕士项目优秀大学生夏令营（体验营）](https://mp.weixin.qq.com/s/60D2vLMs5mILyHSqscI3AA) |
 | 2025-06-15 | [2025年香港中文大学（深圳）经管学院市场学优秀大学生夏令营（体验营）开启报名](https://mp.weixin.qq.com/s/3sQdC0mNH4Bnt5znDHvfIw) |
 | ~~2025-04-14~~ | [2025年香港中文大学（深圳）经管学院市场学硕士2026入学夏令营-Mini营申请轮次安排](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002) |

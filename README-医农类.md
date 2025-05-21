@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="130" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="129" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -50,7 +50,7 @@
 |:------------:|:---------|
 | 2025-06-16 | [2025年浙江大学药学院暑期优秀大学生夏令营报名通知](http://www.cps.zju.edu.cn/2025/0519/c58897a3052513/page.htm) |
 | 2025-06-03 | [2025年浙江大学基础医学院关于举办2025年优秀大学生暑期夏令营的通知](https://bms.zju.edu.cn/2025/0429/c85156a3044184/page.htm) |
-| 2025-05-21 | [2025年浙江大学脑科学与脑医学学院全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm) |
+| ~~2025-05-21~~ | [2025年浙江大学脑科学与脑医学学院全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm) |
 | ~~2025-05-10~~ | [2025浙江大学良渚实验室2025年度暑期科研训练营开启招募](https://mp.weixin.qq.com/s/32PdZFb-_O7nN4SqpI40Pg) |
 
 <div align="center">
@@ -90,6 +90,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-30 | [2025年同济大学口腔医学院2025年优秀大学生暑期夏令营通知](https://dent.tongji.edu.cn/info/1191/11769.htm) |
+| 2025-06-25 | [2025年同济大学医学院2025年优秀学生暑期学校活动通知](https://med.tongji.edu.cn/info/1460/13429.htm) |
 
 <div align="center">
 <h3>天津大学</h3>
@@ -158,6 +159,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-15 | [2025年广州医科大学呼吸疾病全国重点实验室2025年暑期大学生夏令营！](https://mp.weixin.qq.com/s/eEnST7GQ-gdoHhguwcg1ig) |
+
+<div align="center">
+<h3>上海体育大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-12 | [2025年上海体育大学运动健康学院2025年优秀本科生暑期夏令营招生通知](https://mp.weixin.qq.com/s/Jw8x6G2tyE-VasannApc8Q) |
 
 <div align="center">
 <h3>中国科学院</h3>

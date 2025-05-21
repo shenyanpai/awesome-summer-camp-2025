@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="130" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="129" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -87,8 +87,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-25 | [2025年同济大学法学院优秀学生暑期学校活动通知](https://law.tongji.edu.cn/info/1113/8221.htm) |
 | 2025-06-20 | [2025年同济大学政治与国际关系学院优秀学生暑期学校活动通知](https://spsir.tongji.edu.cn/5b/dd/c18897a351197/page.htm) |
-| 2025-06-08 | [2025年同济大学法学院优秀学生暑期学校活动通知](https://law.tongji.edu.cn/info/1113/8221.htm) |
+| 2025-06-13 | [2025年同济大学上海国际知识产权学院优秀学生暑期学校活动通知——面向2026级研究生](https://sicip.tongji.edu.cn/info/1099/3725.htm) |
 
 <div align="center">
 <h3>华中农业大学</h3>
