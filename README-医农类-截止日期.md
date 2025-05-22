@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="129" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="128" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -51,6 +51,7 @@
 | 2025-06-25 | 中国农业科学院 | [2025年中国农业科学院兰州兽医研究所2025年优秀大学生暑期夏令营招募通知](https://lvri.caas.cn/xxzx/tzgg/4a1b8ae8deb042dab4c4cd535633dbbd.htm) |
 | 2025-06-23 | 上海大学 | [2025年上海大学生命科学学院“生命之树常青 科学之光璀璨”2025年全国优秀大学生夏令营活动通知](https://bio.shu.edu.cn/info/1145/73468.htm) |
 | 2025-06-22 | 中国科学院 | [2025年中国科学院植物研究所2025年“探索植物科学”夏令营 报名](http://www.ib.cas.cn/2019gb/xialingying/) |
+| 2025-06-20 | 中国科学院 | [2025年中国科学院亚热带农业生态研究所“体验农业生态之旅”2025年暑期夏令营活动通知（第一轮）](https://isa.cas.cn/yjsb/kjrh/xly/202505/t20250521_7789049.html) |
 | 2025-06-20 | 中国科学院 | [2025年中国科学院广州生物医药与健康研究院第十九届“走进GIBH”大学生夏令营邀你启程](https://mp.weixin.qq.com/s/ZF8XVlvhSoekaA0qyc42KA) |
 | 2025-06-20 | 中国科学院 | [2025年中国科学院分子植物科学卓越创新中心“探索生命的多样性”暑期学校暨2026级推免生报名须知](http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202504/t20250408_7590567.html) |
 | 2025-06-20 | 北京生命科学研究所 | [2025年北京生命科学研究所2025年优秀大学生夏令营通知 （含清华大学的TIMBR项目）](http://nibs.ac.cn/yjsjyshow.php?cid=8&sid=26&zid=78&id=2847) |
