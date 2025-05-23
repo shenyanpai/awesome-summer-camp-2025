@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="128" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="127" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -175,9 +175,11 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-08-01 | [2025年中国科学院上海药物研究所“新药梦”优秀大学生夏令营营员招募通知](https://simm.cas.cn/web/yjsjy/zsgz/xdly/202504/t20250424_7611069.html) |
+| 2025-06-30 | [2025年中国科学院昆明动物研究所2025年大学生夏令营报名公告](http://www.kiz.cas.cn/yjsjy/zsgz/sszs/202505/t20250523_7790629.html) |
 | 2025-06-30 | [2025年中国科学院遗传与发育生物学研究所农业资源研究中心“未来之星”大学生夏令营报名通知](https://mp.weixin.qq.com/s/hTcAO7hhLeRHGJnQaTP6sA) |
 | 2025-06-27 | [2025年中国科学院昆明植物所2025年“药学暨植物王国”大学生夏令营举办通知](http://www.kib.cas.cn/yjsjy/zs/xly/202505/t20250513_7650756.html) |
 | 2025-06-25 | [2025年中国科学院上海免疫与感染研究所大学生夏令营通知](https://mp.weixin.qq.com/s/u-EnYVxabrx8kDE119pU2g) |
+| 2025-06-25 | [2025年中国科学院大学杭州高等研究院药物科学与技术学院全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/qkGzA_K7c25eGHcS7AgaZg) |
 | 2025-06-22 | [2025年中国科学院植物研究所2025年“探索植物科学”夏令营 报名](http://www.ib.cas.cn/2019gb/xialingying/) |
 | 2025-06-20 | [2025年中国科学院亚热带农业生态研究所“体验农业生态之旅”2025年暑期夏令营活动通知（第一轮）](https://isa.cas.cn/yjsb/kjrh/xly/202505/t20250521_7789049.html) |
 | 2025-06-20 | [2025年中国科学院广州生物医药与健康研究院第十九届“走进GIBH”大学生夏令营邀你启程](https://mp.weixin.qq.com/s/ZF8XVlvhSoekaA0qyc42KA) |

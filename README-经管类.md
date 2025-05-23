@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="128" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="127" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -177,6 +177,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-07 | [2025年上海大学悉尼工商学院2025年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/NjvxfPAodhsAlzUAFUfbMg) |
+
+<div align="center">
+<h3>广东外语外贸大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-08 | [2025年广东外语外贸大学经济贸易学院2025年优秀大学生暑期夏令营招生简章](https://jingmao.gdufs.edu.cn/info/1695/13630.htm) |
 
 <div align="center">
 <h3>上海海事大学</h3>

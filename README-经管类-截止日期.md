@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="128" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="127" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -71,6 +71,7 @@
 | 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之三“邹至庄经济研究院第三届全国优秀大学生数量经济学、数字经济夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55054.htm) |
 | 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之四“第十一届全国优秀大学生金融硕士（含人工智能金融方向）夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55064.htm) |
 | 2025-06-10 | 厦门大学 | [2025年厦门大学经济学院经济学科2025年暑期夏令营之五“第十一届全国优秀大学生统计学夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55084.htm) |
+| 2025-06-08 | 广东外语外贸大学 | [2025年广东外语外贸大学经济贸易学院2025年优秀大学生暑期夏令营招生简章](https://jingmao.gdufs.edu.cn/info/1695/13630.htm) |
 | 2025-06-07 | 哈尔滨工业大学 | [2025年哈尔滨工业大学（深圳）未来学部经济管理学院全国优秀大学生学术夏令营通知](http://sem.hitsz.edu.cn/info/1233/2981.htm) |
 | 2025-06-07 | 上海大学 | [2025年上海大学悉尼工商学院2025年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/NjvxfPAodhsAlzUAFUfbMg) |
 | 2025-06-06 | 北京大学 | [2025年北京大学汇丰商学院全国优秀大学生经济金融论坛”的通知](https://mp.weixin.qq.com/s/bHxu77Idaj3N9GtkkW-t5Q) |
