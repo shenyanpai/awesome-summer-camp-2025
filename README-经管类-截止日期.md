@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="127" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -78,7 +78,7 @@
 | 2025-05-29 | 中国科学院大学 | [2025年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营](https://mp.weixin.qq.com/s/j7WdoIBEX0OnyMat_glzyw) |
 | 2025-05-25 | 浙江大学 | [2025年浙江大学数据科学研究中心关于IPhD2025夏令营（管理学方向）招生通知](http://cds.zju.edu.cn/a/zsxx/3662.html) |
 | 2025-05-25 | 浙江大学 | [2025年浙江大学管理学院IPhD2025夏令营活动通知](http://www.som.zju.edu.cn/2025/0506/c63512a3045953/page.htm) |
-| 2025-05-24 | 东北师范大学 | [2025年东北师范大学经济与管理学院2025年全国优秀大学生夏令营的通知](https://bs.nenu.edu.cn/info/1383/5453.htm) |
+| ~~2025-05-24~~ | 东北师范大学 | [2025年东北师范大学经济与管理学院2025年全国优秀大学生夏令营的通知](https://bs.nenu.edu.cn/info/1383/5453.htm) |
 | ~~2025-05-20~~ | 清华大学 | [2025年清华大学五道口金融学院金融硕士项目全国优秀大学生夏令营活动通知](https://www.pbcsf.tsinghua.edu.cn/info/1146/9566.htm) |
 | ~~2025-05-20~~ | 清华大学 | [2025年清华大学经济管理学院、深圳国际研究生院 全国优秀大学生夏令营活动通知 （金融硕士项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3249.htm) |
 | ~~2025-05-20~~ | 上海财经大学 | [2025年上海财经大学上海国际金融中心研究院第十一届全国高校学生“一带一路”建设征文大赛暨“同德夏令营”活动方案](https://mp.weixin.qq.com/s/CoFn7xWWVYXvawqRedbTkQ) |

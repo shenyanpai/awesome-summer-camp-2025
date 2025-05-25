@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="127" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -70,6 +70,7 @@
 | 2025-06-10 | 上海交通大学 | [2025年上海交通大学医疗机器人研究院第七届医疗机器人国际暑期学校学员招募](https://www.gs.sjtu.edu.cn/post/detail/Z3MzMTA5) |
 | 2025-06-10 | 北京协和医学院 | [2025年北京协和医学院病原生物学研究所2025年全国优秀大学生暑期夏令营活动通知](https://www.ipbcams.ac.cn/zxxx/2946.html) |
 | 2025-06-10 | 北京协和医学院 | [2025年北京协和医学院药物研究所全国优秀大学生暑期夏令营活动通知](https://www.imm.ac.cn/tz/tzgg/7d7a63b8188e4f709bdafa863cb03a87.htm) |
+| 2025-06-09 | 中山大学 | [2025年中山大学中山眼科中心2025年优秀大学生夏令营活动](https://mp.weixin.qq.com/s/8bh9krC8L_BRXPhBzHk1zg) |
 | 2025-06-07 | 哈尔滨工业大学 | [2025年哈尔滨工业大学生命科学和医学学部2025年优秀大学生暑期夏令营的通知](https://med.hit.edu.cn/2025/0509/c12995a369710/page.htm) |
 | 2025-06-07 | 哈尔滨工业大学 | [2025年哈尔滨工业大学（深圳）前沿学部医工学院全国优秀大学生学术夏令营的通知](http://bme.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2952) |
 | 2025-06-06 | 北京协和医学院 | [2025年北京协和医学院药用植物研究所2025年全国大学生开放日暨暑期夏令营活动通知](https://www.implad.ac.cn/yzxw.aspx?CateId=32&Id=8322) |

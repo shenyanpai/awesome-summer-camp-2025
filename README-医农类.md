@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="127" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -60,6 +60,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-10 | [2025年上海交通大学医疗机器人研究院第七届医疗机器人国际暑期学校学员招募](https://www.gs.sjtu.edu.cn/post/detail/Z3MzMTA5) |
+
+<div align="center">
+<h3>中山大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-09 | [2025年中山大学中山眼科中心2025年优秀大学生夏令营活动](https://mp.weixin.qq.com/s/8bh9krC8L_BRXPhBzHk1zg) |
 
 <div align="center">
 <h3>哈尔滨工业大学</h3>

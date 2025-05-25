@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="127" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -72,6 +72,7 @@
 | 2025-06-07 | 哈尔滨工业大学 | [2025年哈尔滨工业大学人文社科学部暑期夏令营的通知](https://rwxy.hit.edu.cn/2025/0430/c6936a367948/page.htm) |
 | 2025-06-07 | 哈尔滨工业大学 | [2025年哈尔滨工业大学（深圳）马克思主义学院2025年全国优秀大学生学术夏令营的通知](http://mks.hitsz.edu.cn/info/1013/2341.htm) |
 | 2025-06-06 | 清华大学 | [2025年清华大学社会科学学院2025年优秀大学生夏令营报名通知](https://www.sss.tsinghua.edu.cn/info/1026/8026.htm) |
+| 2025-06-05 | 兰州大学 | [2025年兰州大学法学院2025年全国优秀大学生夏令营活动通知](https://laws.lzu.edu.cn/lzupage/2025/05/23/N20250523163834.html) |
 | 2025-06-04 | 浙江大学 | [2025年浙江大学文学院2025年全国优秀大学生云夏令营活动简章](http://www.lit.zju.edu.cn/2025/0521/c64565a3053771/page.htm) |
 | 2025-06-04 | 北京师范大学 | [2025年北京师范大学马克思主义学院关于举办2025年全国优秀大学生夏令营的通知](https://marx.bnu.edu.cn/xstd/tzgg/eefb0dd5bcdb45a0ad954e90c8874e8b.html) |
 | 2025-05-28 | 华东政法大学 | [2025年华东政法大学外语学院2025年第十届法律语言与翻译夏令营（线上）招生通知](https://wyxy.ecupl.edu.cn/2025/0508/c4236a220087/page.htm) |

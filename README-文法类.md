@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="127" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -101,6 +101,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-04 | [2025年北京师范大学马克思主义学院关于举办2025年全国优秀大学生夏令营的通知](https://marx.bnu.edu.cn/xstd/tzgg/eefb0dd5bcdb45a0ad954e90c8874e8b.html) |
+
+<div align="center">
+<h3>兰州大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-05 | [2025年兰州大学法学院2025年全国优秀大学生夏令营活动通知](https://laws.lzu.edu.cn/lzupage/2025/05/23/N20250523163834.html) |
 
 <div align="center">
 <h3>东北师范大学</h3>

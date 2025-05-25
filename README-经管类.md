@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="127" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -160,7 +160,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-05-24 | [2025年东北师范大学经济与管理学院2025年全国优秀大学生夏令营的通知](https://bs.nenu.edu.cn/info/1383/5453.htm) |
+| ~~2025-05-24~~ | [2025年东北师范大学经济与管理学院2025年全国优秀大学生夏令营的通知](https://bs.nenu.edu.cn/info/1383/5453.htm) |
 
 <div align="center">
 <h3>暨南大学</h3>
