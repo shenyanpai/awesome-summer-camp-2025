@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="124" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -85,6 +85,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-25 | [2025年北京协和医学院放射医学研究所2025年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/0jXH3nT9df8C__1sF1n80g) |
+| 2025-06-20 | [2025年北京协和医学院输血研究所2025年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/WHANGbAMn-luEcbCJhdIAQ) |
 | 2025-06-15 | [2025年北京协和医学院医学生物学研究所 2025年第十二届优秀大学生暑期夏令营招生简章](https://www.imbcams.ac.cn/jyjx1/zsxx/content_8255) |
 | 2025-06-15 | [2025年北京协和医学院血液病医院第十五届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/p7GaHyyGt4r_khoMf84rSQ) |
 | 2025-06-10 | [2025年北京协和医学院病原生物学研究所2025年全国优秀大学生暑期夏令营活动通知](https://www.ipbcams.ac.cn/zxxx/2946.html) |
@@ -126,7 +127,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-05-26 | [2025年兰州大学草地农业科技学院第九届“丝绸之路经济带”全国大学生草业科学实践技能大赛暨大学生夏令营活动的通知](https://mp.weixin.qq.com/s/oqcg70N53IJz9hczaAlALw) |
+| ~~2025-05-26~~ | [2025年兰州大学草地农业科技学院第九届“丝绸之路经济带”全国大学生草业科学实践技能大赛暨大学生夏令营活动的通知](https://mp.weixin.qq.com/s/oqcg70N53IJz9hczaAlALw) |
 
 <div align="center">
 <h3>首都医科大学</h3>

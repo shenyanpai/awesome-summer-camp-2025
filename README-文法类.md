@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="124" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -65,6 +65,14 @@
 | 2025-06-04 | [2025年浙江大学文学院2025年全国优秀大学生云夏令营活动简章](http://www.lit.zju.edu.cn/2025/0521/c64565a3053771/page.htm) |
 
 <div align="center">
+<h3>西安交通大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-16 | [2025年西安交通大学外国语学院2025年第九届全国优秀大学生夏令营通知](https://sfs.xjtu.edu.cn/info/1243/8102.htm) |
+
+<div align="center">
 <h3>中山大学</h3>
 </div>
 
@@ -72,7 +80,7 @@
 |:------------:|:---------|
 | 2025-06-15 | [2025年中山大学哲学系（珠海）全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/rvWa_gcQtT-HPBJIQxmYSw) |
 | 2025-06-10 | [2025年中山大学哲学系2025年优秀大学生夏令营招生简章](https://philosophy.sysu.edu.cn/article/5864) |
-| 2025-05-26 | [2025年中山大学中国语言文学系2025年“优秀大学生夏令营” 暨粤港澳大湾区中文书院活动公告](https://mp.weixin.qq.com/s/254xmOl0gQMQQ2_41ejYrg) |
+| ~~2025-05-26~~ | [2025年中山大学中国语言文学系2025年“优秀大学生夏令营” 暨粤港澳大湾区中文书院活动公告](https://mp.weixin.qq.com/s/254xmOl0gQMQQ2_41ejYrg) |
 
 <div align="center">
 <h3>哈尔滨工业大学</h3>
@@ -116,6 +124,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-20 | [2025年东北师范大学政法学院2025年政治学和公共管理学科学术夏令营的通知](https://zf.nenu.edu.cn/info/1063/6748.htm) |
+| 2025-06-20 | [2025年东北师范大学政法学院2025年法学专业“当代中国法治建设”主题夏令营的通知](https://zf.nenu.edu.cn/info/1063/6758.htm) |
 | 2025-06-15 | [2025年东北师范大学外国语学院2025年优秀大学生暑期夏令营招生简章](https://wy.nenu.edu.cn/info/1101/7716.htm) |
 
 <div align="center">
@@ -162,6 +172,15 @@
 | 2025-06-18 | [2025年华东政法大学社会发展学院第九届优秀大学生夏令营招生公告](https://mp.weixin.qq.com/s/BksEY1NXqqW9nHEUw3Ngpg) |
 | 2025-06-15 | [2025年华东政法大学政府管理学院第十四届“海派集英”政治学与公共管理学术夏令营暨“基层中国”暑期学校招生公告](https://mp.weixin.qq.com/s/-IWzUKcHE8tjVMFr_YZX1Q) |
 | 2025-05-28 | [2025年华东政法大学外语学院2025年第十届法律语言与翻译夏令营（线上）招生通知](https://wyxy.ecupl.edu.cn/2025/0508/c4236a220087/page.htm) |
+
+<div align="center">
+<h3>广东外语外贸大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-09 | [2025年广东外语外贸大学国际治理创新学院2025年优秀大学生暑期夏令营招生简章](https://mp.weixin.qq.com/s/0RBsAu23WC0fQC5HfCk-Mg) |
+| 2025-06-09 | [2025年广东外语外贸大学中国语言文化学院2025年优秀大学生暑期夏令营招生简章](https://zwxy.gdufs.edu.cn/info/1168/9542.htm) |
 
 <div align="center">
 <h3>延边大学</h3>

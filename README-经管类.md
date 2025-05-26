@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="124" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -71,8 +71,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-05-25 | [2025年浙江大学数据科学研究中心关于IPhD2025夏令营（管理学方向）招生通知](http://cds.zju.edu.cn/a/zsxx/3662.html) |
-| 2025-05-25 | [2025年浙江大学管理学院IPhD2025夏令营活动通知](http://www.som.zju.edu.cn/2025/0506/c63512a3045953/page.htm) |
+| ~~2025-05-25~~ | [2025年浙江大学数据科学研究中心关于IPhD2025夏令营（管理学方向）招生通知](http://cds.zju.edu.cn/a/zsxx/3662.html) |
+| ~~2025-05-25~~ | [2025年浙江大学管理学院IPhD2025夏令营活动通知](http://www.som.zju.edu.cn/2025/0506/c63512a3045953/page.htm) |
 
 <div align="center">
 <h3>上海交通大学</h3>

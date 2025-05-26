@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="124" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -79,9 +79,9 @@
 | 2025-06-01 | [2025年北京大学环境科学与工程学院PKU-LSE项目环境管理专业（环境政策、技术与健康方向）优秀大学生夏令营的通知](https://cese.pku.edu.cn/tzgg/167805.htm) |
 | 2025-06-01 | [2025年北京大学城市规划与设计学院关于举办 “2025年全国优秀大学生夏令营”的通知](https://urban.pkusz.edu.cn/info/1008/3634.htm) |
 | 2025-05-29 | [2025年北京大学环境科学与工程学院优秀大学生夏令营活动通知](https://cese.pku.edu.cn/tzgg/167792.htm) |
-| 2025-05-26 | [2025年北京大学物理学院“物理学、天文学、核科学与技术优秀大学生暑期夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10989.htm) |
-| 2025-05-26 | [2025年北京大学物理学院现代光学研究所2025年优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/PLiWaQWCs78A8ym_g4KxhQ) |
-| 2025-05-26 | [2025年北京大学量子材料科学中心优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/gKDFcYosNQ83yZ2HH7reeQ) |
+| ~~2025-05-26~~ | [2025年北京大学物理学院“物理学、天文学、核科学与技术优秀大学生暑期夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10989.htm) |
+| ~~2025-05-26~~ | [2025年北京大学物理学院现代光学研究所2025年优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/PLiWaQWCs78A8ym_g4KxhQ) |
+| ~~2025-05-26~~ | [2025年北京大学量子材料科学中心优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/gKDFcYosNQ83yZ2HH7reeQ) |
 | ~~2025-05-05~~ | [2025年北京大学物理学院“大气与海洋科学优秀大学生夏令营”报名通知](https://www.phy.pku.edu.cn/info/1018/10956.htm) |
 | ~~2025-04-27~~ | [2025年北京大学统计科学中心2025年优秀大学生夏令营](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA) |
 | ~~2025-04-16~~ | [2025年北京大学生命科学学院关于举办“2025年全国优秀大学生夏令营”活动的通知（第一轮）](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html) |
@@ -97,6 +97,7 @@
 | 暂无 | [2025年浙江大学良渚实验室2025年度优秀大学生夏令营邀你报名](https://mp.weixin.qq.com/s/7TVxhRpdx0_vjOiGZBzs8g) |
 | 2025-06-20 | [2025年浙江大学生物医学工程与仪器科学学院2025年优秀大学生夏令营活动通知](http://www.cbeis.zju.edu.cn/2025/0524/c63837a3054767/page.htm) |
 | 2025-06-19 | [2025年浙江大学化学工程与生物工程学院2025年优秀大学生暑期夏令营活动通知](http://che.zju.edu.cn/checn/2025/0525/c15798a3054834/page.htm) |
+| 2025-06-18 | [2025年浙江大学生命科学研究院关于举办2025年学术夏令营的通知](http://lsi.zju.edu.cn/2025/0521/c25130a3053556/page.htm) |
 | 2025-06-16 | [2025年浙江大学集成电路学院2025年全国优秀大学生暑期学术夏令营活动通知](https://ic.zju.edu.cn/2025/0522/c54013a3054130/page.htm) |
 | 2025-06-15 | [2025年浙江大学机械工程学院2025年全国优秀大学生暑期学术夏令营活动通知](https://mp.weixin.qq.com/s/wjd-yX5V6mC-NrRBabLIjQ) |
 | 2025-06-15 | [2025年浙江大学海洋学院第十三届优秀大学生夏令营报名通知](http://oc.zju.edu.cn/2025/0523/c52420a3054699/page.htm) |
@@ -152,11 +153,20 @@
 | 2025-06-20 | [2025年华中科技大学国家脉冲强磁场科学中心2025年物理、材料方向优秀大学生夏令营报名通知（第一轮）](https://mp.weixin.qq.com/s/-ARfqGK8ivHIMr38epVxbg) |
 
 <div align="center">
+<h3>西安交通大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-20 | [2025年西安交通大学人居环境与建筑工程学院2025年全国优秀大学生夏令营通知](https://hsce.xjtu.edu.cn/info/1014/13404.htm) |
+
+<div align="center">
 <h3>中山大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-16 | [2025年中山大学数学学院（珠海）全国优秀大学生夏令营报名通知](https://mathzh.sysu.edu.cn/zh-hans/article/2275) |
 | 2025-06-16 | [2025年中山大学物理与天文学院2025年天文学全国优秀大学生夏令营活动通知](https://spa.sysu.edu.cn/zh-hans/article/2604) |
 | 2025-06-15 | [2025年中山大学网络空间安全学院2025年优秀大学生夏令营活动报名通知](https://scst.sysu.edu.cn/news/news02/1419108.htm) |
 | 2025-06-05 | [2025年中山大学软件工程学院2025年全国优秀大学生夏令营报名通知](https://sse.sysu.edu.cn/article/908) |
@@ -278,6 +288,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-30 | [2025年南方科技大学前沿生物技术研究院2025年夏令营报名通知](https://iab.sustech.edu.cn/Announce-detail-id-52.html) |
+| 2025-06-18 | [2025年南方科技大学地球与空间科学系2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/hyaOGcpuNaVubTLwEHJ0vA) |
 | 2025-06-16 | [2025年南方科技大学创新创意设计学院2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/07H7Aun7ic0qpdDm8auIyA) |
 | 2025-06-16 | [2025年南方科技大学化学系2025年全国优秀大学生 夏令营报名通知](https://mp.weixin.qq.com/s/4dsRpZc-LUXriHdPSV_Rhg) |
 | 2025-06-16 | [2025年南方科技大学机械与能源工程系2025年全国优秀大学生夏令营预报名通知](https://mp.weixin.qq.com/s/6jYKOv1LYdIXbmnUWte_dg) |
@@ -373,6 +384,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-27 | [2025年广东工业大学材料与能源学院2025年优秀大学生研学夏令营活动的通知](https://mp.weixin.qq.com/s/waeAI73D8_U1KnTm9ETJhg) |
 | 2025-06-13 | [2025年广东工业大学信息工程学院关于举办2025年优秀大学生​暑期夏令营活动的通知](https://xxgcxy.gdut.edu.cn/info/1210/8485.htm) |
 
 <div align="center">
@@ -398,6 +410,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-15 | [2025年河南工业大学复杂性科学研究院关于举办“2025年全国优秀大学生暑期夏令营”活动的通知](https://cs.haut.edu.cn/info/1421/7844.htm) |
+
+<div align="center">
+<h3>西华大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-22 | [2025年西华大学食品与生物工程学院关于举办2025年全国优秀大学生暑期夏令营活动的通知](https://bioeng.xhu.edu.cn/75/7d/c2017a226685/pagem.htm) |
 
 <div align="center">
 <h3>西湖大学</h3>
@@ -527,7 +547,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-02 | [2025年香港科技大学（广州）功能枢纽2026博士项目夏令营报名开启！](https://mp.weixin.qq.com/s/eW_HFsTNYdeFdvf2vV5UFA) |
-| 2025-05-26 | [2025年香港科技大学（广州）智能制造学域2025年度硕博项目夏令营报名现已开放](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA) |
+| ~~2025-05-26~~ | [2025年香港科技大学（广州）智能制造学域2025年度硕博项目夏令营报名现已开放](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA) |
 
 <div align="center">
 <h3>香港中文大学（深圳）</h3>
@@ -536,7 +556,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-07-20 | [2025年香港中文大学（深圳）数据科学学院硕士项目2025年AI探索未来｜科技新星优先录取营开放申请](https://sds.cuhk.edu.cn/article/2110) |
-| 2025-05-25 | [2025年香港中文大学（深圳）理工学院2025年科研夏令营招募](https://mp.weixin.qq.com/s/pj4IUeYLoekg_QLBdOUXTQ) |
+| ~~2025-05-25~~ | [2025年香港中文大学（深圳）理工学院2025年科研夏令营招募](https://mp.weixin.qq.com/s/pj4IUeYLoekg_QLBdOUXTQ) |
 
 <div align="center">
 <h3>香港中文大学</h3>
