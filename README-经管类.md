@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="124" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="123" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -169,6 +169,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-16 | [2025年暨南大学经济与社会研究院2025年全国优秀大学生经济学夏令营招生简章](https://mp.weixin.qq.com/s/ahRhf-ERF-2o6s-Jr-dQSA) |
+| 2025-06-15 | [2025年暨南大学经济学院2025年优秀大学生暑期学术夏令营活动的公告](https://ec.jnu.edu.cn/2025/0526/c24919a836927/page.htm) |
 
 <div align="center">
 <h3>上海大学</h3>
@@ -184,6 +185,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-09 | [2025年广东外语外贸大学会计学院2025年优秀大学生暑期夏令营招生简章](https://kjxy.gdufs.edu.cn/info/1107/7260.htm) |
+| 2025-06-09 | [2025年广东外语外贸大学广东国际战略研究院2025年优秀大学生暑期夏令营活动介绍](https://giis.gdufs.edu.cn/info/1607/16167.htm) |
+| 2025-06-09 | [2025年广东外语外贸大学金融学院2025年优秀大学生暑期夏令营招生简章](https://jrxy.gdufs.edu.cn/info/1061/7605.htm) |
 | 2025-06-08 | [2025年广东外语外贸大学经济贸易学院2025年优秀大学生暑期夏令营招生简章](https://jingmao.gdufs.edu.cn/info/1695/13630.htm) |
 
 <div align="center">
