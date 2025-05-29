@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="123" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="121" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -99,6 +99,15 @@
 | ~~2025-05-10~~ | [2025年复旦大学经济学院2025年第十四届金融专硕全国优秀大学生夏令营活动通知](https://econ.fudan.edu.cn/info/1519/30167.htm) |
 
 <div align="center">
+<h3>西安交通大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-25 | [2025年西安交通大学金禾经济研究中心2025年（第六届）优秀大学生夏令营通知](https://jinhe.xjtu.edu.cn/info/1045/2402.htm) |
+| 2025-06-15 | [2025年西安交通大学经济与金融学院2025年（第九届）优秀大学生夏令营通知](https://sef.xjtu.edu.cn/info/1423/32247.htm) |
+
+<div align="center">
 <h3>中山大学</h3>
 </div>
 
@@ -144,6 +153,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-15 | [2025年上海财经大学会计学院关于举办“第十六届全国优秀大学生夏令营”的通知](https://mp.weixin.qq.com/s/opiknqrRQkM9uJX0S-Xm1g) |
 | ~~2025-05-20~~ | [2025年上海财经大学上海国际金融中心研究院第十一届全国高校学生“一带一路”建设征文大赛暨“同德夏令营”活动方案](https://mp.weixin.qq.com/s/CoFn7xWWVYXvawqRedbTkQ) |
 
 <div align="center">
@@ -161,6 +171,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | ~~2025-05-24~~ | [2025年东北师范大学经济与管理学院2025年全国优秀大学生夏令营的通知](https://bs.nenu.edu.cn/info/1383/5453.htm) |
+
+<div align="center">
+<h3>华中农业大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-16 | [2025年华中农业大学经济管理学院2025年全国优秀大学生暑期夏令营活动的通知](https://mp.weixin.qq.com/s/DgoxeznFDenFEAShtvdncw) |
 
 <div align="center">
 <h3>暨南大学</h3>
@@ -207,13 +225,21 @@
 | 2025-06-20 | [2025年湖南工商大学经济与贸易学院 2025年全国优秀大学生夏令营活动](https://mp.weixin.qq.com/s/JBIvm6kctG3Ur6lJ9a7DQQ) |
 
 <div align="center">
+<h3>贵州财经大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-15 | [2025年贵州财经大学应用经济学院2025年暑期学术夏令营活动招募通知](https://dsjyj.gufe.edu.cn/info/1260/5165.htm) |
+
+<div align="center">
 <h3>中国科学院大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2025年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营学科宣讲会](https://mp.weixin.qq.com/s/12LEpNgY-Uy-W80JENeD7Q) |
-| 2025-05-29 | [2025年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营](https://mp.weixin.qq.com/s/j7WdoIBEX0OnyMat_glzyw) |
+| ~~2025-05-29~~ | [2025年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营](https://mp.weixin.qq.com/s/j7WdoIBEX0OnyMat_glzyw) |
 
 <div align="center">
 <h3>香港中文大学（深圳）</h3>
