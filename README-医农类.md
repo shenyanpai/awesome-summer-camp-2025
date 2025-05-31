@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="120" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="119" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -99,8 +99,10 @@
 |:------------:|:---------|
 | 2025-06-25 | [2025年北京协和医学院放射医学研究所2025年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/0jXH3nT9df8C__1sF1n80g) |
 | 2025-06-20 | [2025年北京协和医学院输血研究所2025年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/WHANGbAMn-luEcbCJhdIAQ) |
+| 2025-06-15 | [2025年北京协和医学院北京医院国家老年医学中心全国优秀大学生夏令营报名通知](https://www.bjhmoh.cn/wap/content.php?id=29078&cat_id=65) |
 | 2025-06-15 | [2025年北京协和医学院医学生物学研究所 2025年第十二届优秀大学生暑期夏令营招生简章](https://www.imbcams.ac.cn/jyjx1/zsxx/content_8255) |
 | 2025-06-15 | [2025年北京协和医学院血液病医院第十五届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/p7GaHyyGt4r_khoMf84rSQ) |
+| 2025-06-12 | [2025年北京协和医学院医药生物技术研究所（药生所）将于2025年7月份举办全国优秀大学生暑期夏令营活动，本次活动旨在帮助大学生医药生物技术研究所2025年全国优秀大学生暑期招生夏令营报名通知](https://www.imb.com.cn/jyjx/zsxx/4610249e981f461d8e6cdff4dc805504.htm) |
 | 2025-06-10 | [2025年北京协和医学院病原生物学研究所2025年全国优秀大学生暑期夏令营活动通知](https://www.ipbcams.ac.cn/zxxx/2946.html) |
 | 2025-06-10 | [2025年北京协和医学院药物研究所全国优秀大学生暑期夏令营活动通知](https://www.imm.ac.cn/tz/tzgg/7d7a63b8188e4f709bdafa863cb03a87.htm) |
 | 2025-06-06 | [2025年北京协和医学院药用植物研究所2025年全国大学生开放日暨暑期夏令营活动通知](https://www.implad.ac.cn/yzxw.aspx?CateId=32&Id=8322) |

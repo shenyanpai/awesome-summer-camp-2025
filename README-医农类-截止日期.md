@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="120" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="119" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -74,6 +74,7 @@
 | 2025-06-16 | 中山大学 | [2025年中山大学中山医学院2025年优秀大学生夏令营活动报名通知](https://zssom.sysu.edu.cn/article/11443) |
 | 2025-06-16 | 华中农业大学 | [2025年华中农业大学植物科学技术学院2025年全国优秀大学生夏令营招生公告](https://cpst.hzau.edu.cn/info/1059/21290.htm) |
 | 2025-06-16 | 青岛大学 | [2025年青岛大学药学院关于举办“2025年暑期优秀大学生夏令营”的通知](https://mp.weixin.qq.com/s/0zeYnEV3p6NoT5BrrFrNRw) |
+| 2025-06-15 | 北京协和医学院 | [2025年北京协和医学院北京医院国家老年医学中心全国优秀大学生夏令营报名通知](https://www.bjhmoh.cn/wap/content.php?id=29078&cat_id=65) |
 | 2025-06-15 | 北京协和医学院 | [2025年北京协和医学院医学生物学研究所 2025年第十二届优秀大学生暑期夏令营招生简章](https://www.imbcams.ac.cn/jyjx1/zsxx/content_8255) |
 | 2025-06-15 | 北京协和医学院 | [2025年北京协和医学院血液病医院第十五届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/p7GaHyyGt4r_khoMf84rSQ) |
 | 2025-06-15 | 华中农业大学 | [2025年华中农业大学动物科学技术学院动物医学院第八届夏令营招生简章](https://my.hzau.edu.cn/info/1065/18033.htm) |
@@ -81,6 +82,7 @@
 | 2025-06-15 | 中国科学院 | [2025年中国科学院天津工业生物技术研究所“新生物学与生物经济”2025年大学生夏令营招生简章](https://mp.weixin.qq.com/s/8QPr2qEnv4N0FhU4lb0iNg) |
 | 2025-06-15 | 中国科学院 | [2025年中国科学院大学杭州高等研究院分子医学院 2025年全国优秀大学生暑期夏令营报名通知](http://hias.ucas.ac.cn/fzyxy/info/1065/1782.htm) |
 | 2025-06-12 | 北京大学 | [2025年北京大学现代农学院2025年全国优秀大学生夏令营活动通知](https://www.saas.pku.edu.cn/xwzx/tzgg/430b2423aeb84b97882e39e94e780859.htm) |
+| 2025-06-12 | 北京协和医学院 | [2025年北京协和医学院医药生物技术研究所（药生所）将于2025年7月份举办全国优秀大学生暑期夏令营活动，本次活动旨在帮助大学生医药生物技术研究所2025年全国优秀大学生暑期招生夏令营报名通知](https://www.imb.com.cn/jyjx/zsxx/4610249e981f461d8e6cdff4dc805504.htm) |
 | 2025-06-12 | 上海体育大学 | [2025年上海体育大学运动健康学院2025年优秀本科生暑期夏令营招生通知](https://mp.weixin.qq.com/s/Jw8x6G2tyE-VasannApc8Q) |
 | 2025-06-10 | 上海交通大学 | [2025年上海交通大学医疗机器人研究院第七届医疗机器人国际暑期学校学员招募](https://www.gs.sjtu.edu.cn/post/detail/Z3MzMTA5) |
 | 2025-06-10 | 北京协和医学院 | [2025年北京协和医学院病原生物学研究所2025年全国优秀大学生暑期夏令营活动通知](https://www.ipbcams.ac.cn/zxxx/2946.html) |

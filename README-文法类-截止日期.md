@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="120" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="119" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -91,6 +91,7 @@
 | 2025-06-10 | 中山大学 | [2025年中山大学哲学系2025年优秀大学生夏令营招生简章](https://philosophy.sysu.edu.cn/article/5864) |
 | 2025-06-10 | 北京师范大学 | [2025年北京师范大学哲学学院2025年全国优秀大学生夏令营活动通知](https://phil.bnu.edu.cn/tzgg/10ee25bebf524e96a2afcfe1621bd94b.html) |
 | 2025-06-10 | 香港中文大学（深圳） | [2025年香港中文大学（深圳）人文社科学院夏令营—FUN译营即将开放申请](https://mp.weixin.qq.com/s/iC-ny8BKslyHH8wVvsiepQ) |
+| 2025-06-09 | 广东外语外贸大学 | [2025年广东外语外贸大学新闻与传播学院 2025年全媒体与国际传播优秀大学生夏令营招生简章](https://mjc.gdufs.edu.cn/info/1031/3207.htm) |
 | 2025-06-09 | 广东外语外贸大学 | [2025年广东外语外贸大学国际治理创新学院2025年优秀大学生暑期夏令营招生简章](https://mp.weixin.qq.com/s/0RBsAu23WC0fQC5HfCk-Mg) |
 | 2025-06-09 | 广东外语外贸大学 | [2025年广东外语外贸大学中国语言文化学院2025年优秀大学生暑期夏令营招生简章](https://zwxy.gdufs.edu.cn/info/1168/9542.htm) |
 | 2025-06-08 | 浙江大学 | [2025年浙江大学外国语学院2025年优秀大学生夏令营招生简章](http://www.sis.zju.edu.cn/sischinese/2025/0514/c23219a3049294/page.htm) |

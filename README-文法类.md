@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="120" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="119" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -219,6 +219,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-09 | [2025年广东外语外贸大学新闻与传播学院 2025年全媒体与国际传播优秀大学生夏令营招生简章](https://mjc.gdufs.edu.cn/info/1031/3207.htm) |
 | 2025-06-09 | [2025年广东外语外贸大学国际治理创新学院2025年优秀大学生暑期夏令营招生简章](https://mp.weixin.qq.com/s/0RBsAu23WC0fQC5HfCk-Mg) |
 | 2025-06-09 | [2025年广东外语外贸大学中国语言文化学院2025年优秀大学生暑期夏令营招生简章](https://zwxy.gdufs.edu.cn/info/1168/9542.htm) |
 
