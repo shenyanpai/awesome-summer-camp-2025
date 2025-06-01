@@ -40,9 +40,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 暂无 | [2025年清华大学经济管理学院全日制硕士项目2026级夏令营即将开启](https://mp.weixin.qq.com/s/nvkgDLnxHcyJvhiZJxOA4w) |
 | 2025-06-16 | [2025年清华大学经济管理学院全日制硕士项目夏令营准时开启](https://mp.weixin.qq.com/s/xVAxT1534QcDoSBPOSMJQw) |
 | 2025-06-16 | [2025年清华大学经济管理学院全国优秀大学生夏令营活动通知 （管理硕士项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3248.htm) |
+| 暂无 | [2025年清华大学经济管理学院全日制硕士项目2026级夏令营即将开启](https://mp.weixin.qq.com/s/nvkgDLnxHcyJvhiZJxOA4w) |
 | ~~2025-05-20~~ | [2025年清华大学五道口金融学院金融硕士项目全国优秀大学生夏令营活动通知](https://www.pbcsf.tsinghua.edu.cn/info/1146/9566.htm) |
 | ~~2025-05-20~~ | [2025年清华大学经济管理学院、深圳国际研究生院 全国优秀大学生夏令营活动通知 （金融硕士项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3249.htm) |
 | ~~2025-05-09~~ | [2025年清华大学经济管理学院全国优秀大学生夏令营活动通知 （清华大学-哥伦比亚大学商务分析双硕士学位项目）](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm) |
@@ -55,11 +55,11 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-08-18 | [2025年北京大学光华管理学院2025年金融、会计（专业学位）夏令营通知](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ) |
-| 2025-06-16 | [2025年北京大学全球健康发展研究院耶鲁2025年“数字健康”经济学夏令营](https://www.ghd.pku.edu.cn/xwzx/a799636b56164a6db596368fbc79b7ea.htm) |
+| 2025-06-06 | [2025年北京大学汇丰商学院全国优秀大学生经济金融论坛”的通知](https://mp.weixin.qq.com/s/bHxu77Idaj3N9GtkkW-t5Q) |
 | 2025-06-15 | [2025年北京大学光华管理学院2025“全国优秀大学生夏令营”（社会学方向）](https://mp.weixin.qq.com/s/VdWtvp7RFtFgSvIsqWao1Q) |
 | 2025-06-15 | [2025年北京大学光华管理学院全国优秀大学生学术夏令营通知](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm) |
-| 2025-06-06 | [2025年北京大学汇丰商学院全国优秀大学生经济金融论坛”的通知](https://mp.weixin.qq.com/s/bHxu77Idaj3N9GtkkW-t5Q) |
+| 2025-06-16 | [2025年北京大学全球健康发展研究院耶鲁2025年“数字健康”经济学夏令营](https://www.ghd.pku.edu.cn/xwzx/a799636b56164a6db596368fbc79b7ea.htm) |
+| 2025-08-18 | [2025年北京大学光华管理学院2025年金融、会计（专业学位）夏令营通知](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ) |
 | ~~2025-05-09~~ | [2025年北京大学新结构经济学研究院“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/xjgjjxxly/540632.htm) |
 | ~~2025-05-08~~ | [2025年北京大学国家发展研究院2025年“全国经济学与管理学优秀大学生夏令营”活动通知](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/540549.htm) |
 | ~~2025-04-22~~ | [2025年北京大学光华管理学院统计学专业夏令营通知](https://mp.weixin.qq.com/s/0KPD4C8hrnrTZ0D__0gi0Q) |
@@ -80,11 +80,11 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 暂无 | [2025年上海交通大学上海高级金融学院金融硕士2025年明星营启动](https://mp.weixin.qq.com/s/39KNjWwLKyh0J0A8opCWsQ) |
+| 2025-06-16 | [2025年上海交通大学安泰经济与管理学院优才营2026年入学全面启动](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg) |
+| 2025-06-24 | [2025年上海交通大学安泰经管学院金融硕士2026级优才营正式启动上海南京合肥宣讲会同步开放报名](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw) |
 | 2025-06-30 | [2025年上海交通大学上海高级金融学院2026级本科直博生招生简章](https://phd.saif.sjtu.edu.cn/show-213-398.html) |
 | 2025-06-30 | [2025年上海交通大学上海高级金融学院金融硕士项目2026级推免招生活动公告](https://mf.saif.sjtu.edu.cn/show-138-761.html?from=kdocs_link) |
-| 2025-06-24 | [2025年上海交通大学安泰经管学院金融硕士2026级优才营正式启动上海南京合肥宣讲会同步开放报名](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw) |
-| 2025-06-16 | [2025年上海交通大学安泰经济与管理学院优才营2026年入学全面启动](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg) |
+| 暂无 | [2025年上海交通大学上海高级金融学院金融硕士2025年明星营启动](https://mp.weixin.qq.com/s/39KNjWwLKyh0J0A8opCWsQ) |
 
 <div align="center">
 <h3>复旦大学</h3>
@@ -92,9 +92,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-07-05 | [2025年复旦大学管理学院2026级硕博连读项目推免招生 “博思营”系列活动通知](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA) |
 | 暂无 | [2025年复旦大学国际金融学院精英金融专业硕士2025年体验营及夏令营活动通知](https://mp.weixin.qq.com/s/tYBJQ5CzvzkhIoNByL6_8Q) |
 | 暂无 | [2025年复旦大学管理学院2026级专业硕士项目推免招生正式启动！](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ) |
-| 2025-07-05 | [2025年复旦大学管理学院2026级硕博连读项目推免招生 “博思营”系列活动通知](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA) |
 | ~~2025-05-10~~ | [2025年复旦大学经济学院2025年第七届全国优秀本科直博夏令营活动报名通知](https://econ.fudan.edu.cn/info/1307/30147.htm) |
 | ~~2025-05-10~~ | [2025年复旦大学经济学院2025年第十四届金融专硕全国优秀大学生夏令营活动通知](https://econ.fudan.edu.cn/info/1519/30167.htm) |
 
@@ -104,9 +104,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-15 | [2025年西安交通大学经济与金融学院2025年（第九届）优秀大学生夏令营通知](https://sef.xjtu.edu.cn/info/1423/32247.htm) |
 | 2025-06-25 | [2025年西安交通大学管理学院2025年（第十五届）全国优秀大学生夏令营通知](https://som.xjtu.edu.cn/info/1123/12764.htm) |
 | 2025-06-25 | [2025年西安交通大学金禾经济研究中心2025年（第六届）优秀大学生夏令营通知](https://jinhe.xjtu.edu.cn/info/1045/2402.htm) |
-| 2025-06-15 | [2025年西安交通大学经济与金融学院2025年（第九届）优秀大学生夏令营通知](https://sef.xjtu.edu.cn/info/1423/32247.htm) |
 
 <div align="center">
 <h3>中山大学</h3>
@@ -114,8 +114,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-12 | [2025年中山大学岭南学院第十五届（2025全国优秀大学生夏令营招生简章](https://lingnan.sysu.edu.cn/postgraduateprogram/article/494) |
 | 2025-06-10 | [2025年中山大学国际金融学院2025年优秀大学生暑期夏令营活动通知](https://isbf.sysu.edu.cn/zh-hans/article/2367) |
+| 2025-06-12 | [2025年中山大学岭南学院第十五届（2025全国优秀大学生夏令营招生简章](https://lingnan.sysu.edu.cn/postgraduateprogram/article/494) |
 
 <div align="center">
 <h3>哈尔滨工业大学</h3>
@@ -154,13 +154,13 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-30 | [2025年上海财经大学信息管理与工程学院“直接攻博暨硕博连读选拔夏令营”的通知](https://sime.sufe.edu.cn/af/f2/c10226a241650/page.htm) |
-| 2025-06-25 | [2025年上海财经大学金融学院关于举办 2025年第十五届“上财金融夏令营”活动的通知](https://mp.weixin.qq.com/s/6Ui9VrAeRecOw9E4bNnMyQ) |
-| 2025-06-22 | [2025年上海财经大学经济学院关于举办第二十届“海纳百川，经世济国” 全国优秀大学生经济学夏令营的通知](https://econ.sufe.edu.cn/af/e1/c6936a241633/page.htm?Ucx7U9PTU3zV=1748674145361) |
+| 2025-06-15 | [2025年上海财经大学会计学院关于举办“第十六届全国优秀大学生夏令营”的通知](https://mp.weixin.qq.com/s/opiknqrRQkM9uJX0S-Xm1g) |
 | 2025-06-20 | [2025年上海财经大学首席经济学家中心2025年度夏令营招生简章](https://mp.weixin.qq.com/s/-HZc72C0CvbffhK_6_JhEw) |
 | 2025-06-20 | [2025年上海财经大学商学院国际组织人才培养项目介绍](https://mp.weixin.qq.com/s/Sb7sS6wZubKMOvKsofs_iA) |
 | 2025-06-20 | [2025年上海财经大学商学院关于举办2025年 第九届“上财商学院夏令营”活动的通知](https://mp.weixin.qq.com/s/P4h-4Sez9il-Bxo8tb5JCw) |
-| 2025-06-15 | [2025年上海财经大学会计学院关于举办“第十六届全国优秀大学生夏令营”的通知](https://mp.weixin.qq.com/s/opiknqrRQkM9uJX0S-Xm1g) |
+| 2025-06-22 | [2025年上海财经大学经济学院关于举办第二十届“海纳百川，经世济国” 全国优秀大学生经济学夏令营的通知](https://econ.sufe.edu.cn/af/e1/c6936a241633/page.htm?Ucx7U9PTU3zV=1748674145361) |
+| 2025-06-25 | [2025年上海财经大学金融学院关于举办 2025年第十五届“上财金融夏令营”活动的通知](https://mp.weixin.qq.com/s/6Ui9VrAeRecOw9E4bNnMyQ) |
+| 2025-06-30 | [2025年上海财经大学信息管理与工程学院“直接攻博暨硕博连读选拔夏令营”的通知](https://sime.sufe.edu.cn/af/f2/c10226a241650/page.htm) |
 | ~~2025-05-20~~ | [2025年上海财经大学上海国际金融中心研究院第十一届全国高校学生“一带一路”建设征文大赛暨“同德夏令营”活动方案](https://mp.weixin.qq.com/s/CoFn7xWWVYXvawqRedbTkQ) |
 
 <div align="center">
@@ -193,8 +193,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-16 | [2025年暨南大学经济与社会研究院2025年全国优秀大学生经济学夏令营招生简章](https://mp.weixin.qq.com/s/ahRhf-ERF-2o6s-Jr-dQSA) |
 | 2025-06-15 | [2025年暨南大学经济学院2025年优秀大学生暑期学术夏令营活动的公告](https://ec.jnu.edu.cn/2025/0526/c24919a836927/page.htm) |
+| 2025-06-16 | [2025年暨南大学经济与社会研究院2025年全国优秀大学生经济学夏令营招生简章](https://mp.weixin.qq.com/s/ahRhf-ERF-2o6s-Jr-dQSA) |
 
 <div align="center">
 <h3>上海大学</h3>
@@ -226,11 +226,11 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-16 | [2025年广东外语外贸大学商学院2025年优秀大学生暑期夏令营招生简章](https://bs.gdufs.edu.cn/info/1126/5192.htm) |
+| 2025-06-08 | [2025年广东外语外贸大学经济贸易学院2025年优秀大学生暑期夏令营招生简章](https://jingmao.gdufs.edu.cn/info/1695/13630.htm) |
 | 2025-06-09 | [2025年广东外语外贸大学会计学院2025年优秀大学生暑期夏令营招生简章](https://kjxy.gdufs.edu.cn/info/1107/7260.htm) |
 | 2025-06-09 | [2025年广东外语外贸大学广东国际战略研究院2025年优秀大学生暑期夏令营活动介绍](https://giis.gdufs.edu.cn/info/1607/16167.htm) |
 | 2025-06-09 | [2025年广东外语外贸大学金融学院2025年优秀大学生暑期夏令营招生简章](https://jrxy.gdufs.edu.cn/info/1061/7605.htm) |
-| 2025-06-08 | [2025年广东外语外贸大学经济贸易学院2025年优秀大学生暑期夏令营招生简章](https://jingmao.gdufs.edu.cn/info/1695/13630.htm) |
+| 2025-06-16 | [2025年广东外语外贸大学商学院2025年优秀大学生暑期夏令营招生简章](https://bs.gdufs.edu.cn/info/1126/5192.htm) |
 
 <div align="center">
 <h3>上海海事大学</h3>
@@ -271,9 +271,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-05 | [2025年香港中文大学（深圳）经管学院2025线上博士夏令营报名开启](https://sme.cuhk.edu.cn/article/3125) |
 | 2025-06-15 | [2025年香港中文大学（深圳）经管学院深圳高等金融研究院全日制硕士项目优秀大学生夏令营（体验营）](https://mp.weixin.qq.com/s/60D2vLMs5mILyHSqscI3AA) |
 | 2025-06-15 | [2025年香港中文大学（深圳）经管学院市场学优秀大学生夏令营（体验营）开启报名](https://mp.weixin.qq.com/s/3sQdC0mNH4Bnt5znDHvfIw) |
+| 2025-07-05 | [2025年香港中文大学（深圳）经管学院2025线上博士夏令营报名开启](https://sme.cuhk.edu.cn/article/3125) |
 | ~~2025-04-14~~ | [2025年香港中文大学（深圳）经管学院市场学硕士2026入学夏令营-Mini营申请轮次安排](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002) |
 | ~~2025-04-14~~ | [2025年香港中文大学（深圳）高等金融研究院经济学硕士项目2025夏令营-Mini营线上招生宣讲会](https://mp.weixin.qq.com/s/ikxG0P53vLI8YAjO1xEB2w) |
 | ~~2025-04-14~~ | [2025年香港中文大学（深圳）经济管理学院-深圳高等金融研究院2025夏令营Mini营开启报名](https://mp.weixin.qq.com/s/ga46gUxvE5Q4gsUPYH02NA) |
