@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="119" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="118" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -125,6 +125,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-16 | [2025年北京师范大学国家安全与应急管理学院2025年全国优秀大学生夏令营招生简章](https://nsem.bnu.edu.cn/tzgg/ecf171c06787491da6bfdeac81d5bc7c.htm) |
+| 2025-06-15 | [2025年北京师范大学文理学院2025年优秀大学生夏令营招生简章](https://fas.bnu.edu.cn/xwdt/tzgg/cf10654007224bf083a1f961611ab37c.htm) |
 | 2025-06-15 | [2025年北京师范大学政府管理学院2025年优秀大学生夏令营](http://www.sg.bnu.edu.cn/tzgg1/f730c84386894c129d14785dd1b542a0.htm) |
 | 2025-06-15 | [2025年北京师范大学外国语言文学学院2025年优秀大学生夏令营](http://www.sfll.bnu.edu.cn/xwgg/tzgg/039e52229a624ed698e9f2389d8c6839.htm) |
 | 2025-06-10 | [2025年北京师范大学哲学学院2025年全国优秀大学生夏令营活动通知](https://phil.bnu.edu.cn/tzgg/10ee25bebf524e96a2afcfe1621bd94b.html) |

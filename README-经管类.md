@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="119" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="118" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -154,6 +154,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-30 | [2025年上海财经大学信息管理与工程学院“直接攻博暨硕博连读选拔夏令营”的通知](https://sime.sufe.edu.cn/af/f2/c10226a241650/page.htm) |
 | 2025-06-25 | [2025年上海财经大学金融学院关于举办 2025年第十五届“上财金融夏令营”活动的通知](https://mp.weixin.qq.com/s/6Ui9VrAeRecOw9E4bNnMyQ) |
 | 2025-06-22 | [2025年上海财经大学经济学院关于举办第二十届“海纳百川，经世济国” 全国优秀大学生经济学夏令营的通知](https://econ.sufe.edu.cn/af/e1/c6936a241633/page.htm?Ucx7U9PTU3zV=1748674145361) |
 | 2025-06-20 | [2025年上海财经大学首席经济学家中心2025年度夏令营招生简章](https://mp.weixin.qq.com/s/-HZc72C0CvbffhK_6_JhEw) |
@@ -210,6 +211,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-25 | [2025年上海理工大学管理学院专业学位教育中心 MPAcc/MF/MIB/MT 2025年全国优秀大学生夏令营报名启动](https://mp.weixin.qq.com/s/5AuK01I9ayqaUAcjDMgAaw) |
+
+<div align="center">
+<h3>江西财经大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-20 | [2025年江西财经大学数字经济学院2025年优秀大学生夏令营简章](https://mp.weixin.qq.com/s/KgUwZekH9-0l7HfKhcixvA) |
 
 <div align="center">
 <h3>广东外语外贸大学</h3>
