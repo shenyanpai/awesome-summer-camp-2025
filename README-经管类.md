@@ -9,7 +9,14 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="118" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="117" style="height: 1em; vertical-align: middle;"> 天 </b>
+</p>
+</div>
+
+<div align="center">
+<p align="center">
+<b style="font-size: 1.2em; color: #026eea;">🌐 保研通知网：<a href="https://www.baoyantongzhi.com" target="_blank" style="color: #026eea;">https://www.baoyantongzhi.com</a></b><br>
+<span style="background-color: #026eea; color: white; font-size: 0.9em; font-weight: bold; font-style: italic; padding: 4px 8px; border-radius: 4px; margin-top: 5px; display: inline-block;">最实用、最全面、最活跃的保研信息同步服务平台</span>
 </p>
 </div>
 
