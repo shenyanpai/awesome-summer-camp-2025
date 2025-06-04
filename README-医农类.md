@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="116" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="115" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -89,6 +89,8 @@
 | 2025-06-09 | [2025年中山大学中山眼科中心2025年优秀大学生夏令营活动](https://mp.weixin.qq.com/s/8bh9krC8L_BRXPhBzHk1zg) |
 | 2025-06-16 | [2025年中山大学护理学院2025年全国优秀大学生夏令营报名通知](https://nursing.sysu.edu.cn/article/3162) |
 | 2025-06-16 | [2025年中山大学中山医学院2025年优秀大学生夏令营活动报名通知](https://zssom.sysu.edu.cn/article/11443) |
+| 2025-06-22 | [2025年中山大学药学院（深圳）2025年优秀大学生夏令营通知](https://yxysz.sysu.edu.cn/zh-hans/article/1570) |
+| 2025-06-30 | [2025年中山大学药学院2025年全国优秀大学生夏令营活动报名通知](https://sps.sysu.edu.cn/article/12264) |
 
 <div align="center">
 <h3>哈尔滨工业大学</h3>
@@ -255,6 +257,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | ~~2025-04-17~~ | [2025年澳门大学健康科学学院2025年内地优秀大学生健康科学夏令营](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA) |
+
+<div align="center">
+<h3>中国疾病预防控制中心</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-27 | [2025年中国疾病预防控制中心职业卫生与中毒控制所2025年大学生夏令营活动通知](https://niohp.chinacdc.cn/sndt/202506/t20250603_307241.htm) |
 
 <div align="center">
 <h3>中国农业科学院</h3>

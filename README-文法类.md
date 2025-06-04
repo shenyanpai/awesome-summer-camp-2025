@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="116" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="115" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -67,12 +67,12 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-04 | [2025年浙江大学文学院2025年全国优秀大学生云夏令营活动简章](http://www.lit.zju.edu.cn/2025/0521/c64565a3053771/page.htm) |
 | 2025-06-08 | [2025年浙江大学外国语学院2025年优秀大学生夏令营招生简章](http://www.sis.zju.edu.cn/sischinese/2025/0514/c23219a3049294/page.htm) |
 | 2025-06-10 | [2025年浙江大学传媒与国际文化学院2025 年优秀大学生夏令营活动通知](http://www.cmic.zju.edu.cn/2025/0527/c35565a3055494/page.htm) |
 | 2025-06-10 | [2025年浙江大学公共管理学院2025年继续举办大学生公共管理创新论坛暨“启真”夏令营活动](http://www.spa.zju.edu.cn/spachinese/74541/list.htm) |
 | 2025-06-15 | [2025年浙江大学社会学系2025年大学生“群学肄言” 夏令营活动通知](http://sociology.zju.edu.cn/index.php/News/details.html?id=849&sid=2) |
 | 2025-06-15 | [2025年浙江大学哲学学院2025年优秀大学生夏令营通知](http://www.philosophy.zju.edu.cn/2025/0528/c64613a3056205/page.htm) |
+| ~~2025-06-04~~ | [2025年浙江大学文学院2025年全国优秀大学生云夏令营活动简章](http://www.lit.zju.edu.cn/2025/0521/c64565a3053771/page.htm) |
 
 <div align="center">
 <h3>上海交通大学</h3>
@@ -83,7 +83,16 @@
 | 2025-06-18 | [2025年上海交通大学凯原法学院第十五届“卓越法律人夏令营”招生简章](https://ga.sjtu.edu.cn/zsgl/xlygl/yxhdbfcxnr.aspx) |
 | 2025-06-20 | [2025年上海交通大学设计学院2026年研究生“优才夏令营”方案](https://ga.sjtu.edu.cn/zsgl/xlygl/yxhdbfcxnr.aspx) |
 | 2025-06-23 | [2025年上海交通大学人文学院2026年研究生优才夏令营活动通知](https://shss.sjtu.edu.cn/Web/Show/10991) |
+| 2025-06-25 | [2025年上海交通大学南加州大学文化创意产业学院2026 ICCI ELITE CAMP 暑期菁英拓训营报名通知](https://icci.sjtu.edu.cn/announcement/view/1929) |
 | 2025-06-25 | [2025年上海交通大学外国语学院2026年研究生优才夏令营活动通知](https://sfl.sjtu.edu.cn/Data/View/9418) |
+
+<div align="center">
+<h3>武汉大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-14 | [2025年武汉大学社会学院2025年优秀大学生夏令营活动通知](https://shxx.whu.edu.cn/info/1061/73442.htm) |
 
 <div align="center">
 <h3>西安交通大学</h3>
@@ -107,6 +116,7 @@
 | 2025-06-10 | [2025年中山大学马克思主义学院2025年全国优秀大学生夏令营招生启事](https:// https://mkszyxy.sysu.edu.cn/syxxgg/xxgg/1419147.htm) |
 | 2025-06-10 | [2025年中山大学哲学系2025年优秀大学生夏令营招生简章](https://philosophy.sysu.edu.cn/article/5864) |
 | 2025-06-15 | [2025年中山大学哲学系（珠海）全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/rvWa_gcQtT-HPBJIQxmYSw) |
+| 2025-06-22 | [2025年中山大学信息管理学院2025年优秀大学生夏令营报名通知](https://ischool.sysu.edu.cn/zh-hans/article/759) |
 | ~~2025-05-26~~ | [2025年中山大学中国语言文学系2025年“优秀大学生夏令营” 暨粤港澳大湾区中文书院活动公告](https://mp.weixin.qq.com/s/254xmOl0gQMQQ2_41ejYrg) |
 
 <div align="center">
@@ -135,13 +145,13 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-04 | [2025年北京师范大学马克思主义学院关于举办2025年全国优秀大学生夏令营的通知](https://marx.bnu.edu.cn/xstd/tzgg/eefb0dd5bcdb45a0ad954e90c8874e8b.html) |
 | 2025-06-10 | [2025年北京师范大学哲学学院2025年全国优秀大学生夏令营活动通知](https://phil.bnu.edu.cn/tzgg/10ee25bebf524e96a2afcfe1621bd94b.html) |
 | 2025-06-15 | [2025年北京师范大学文学院2025年优秀大学生暑期夏令营活动通知](https://wxy.bnu.edu.cn/tzggsy/2725499e268543dca2b0ad58239d1a9b.html) |
 | 2025-06-15 | [2025年北京师范大学文理学院2025年优秀大学生夏令营招生简章](https://fas.bnu.edu.cn/xwdt/tzgg/cf10654007224bf083a1f961611ab37c.htm) |
 | 2025-06-15 | [2025年北京师范大学政府管理学院2025年优秀大学生夏令营](http://www.sg.bnu.edu.cn/tzgg1/f730c84386894c129d14785dd1b542a0.htm) |
 | 2025-06-15 | [2025年北京师范大学外国语言文学学院2025年优秀大学生夏令营](http://www.sfll.bnu.edu.cn/xwgg/tzgg/039e52229a624ed698e9f2389d8c6839.htm) |
 | 2025-06-16 | [2025年北京师范大学国家安全与应急管理学院2025年全国优秀大学生夏令营招生简章](https://nsem.bnu.edu.cn/tzgg/ecf171c06787491da6bfdeac81d5bc7c.htm) |
+| ~~2025-06-04~~ | [2025年北京师范大学马克思主义学院关于举办2025年全国优秀大学生夏令营的通知](https://marx.bnu.edu.cn/xstd/tzgg/eefb0dd5bcdb45a0ad954e90c8874e8b.html) |
 
 <div align="center">
 <h3>厦门大学</h3>
@@ -221,6 +231,14 @@
 |:------------:|:---------|
 | 暂无 | [2025年深圳大学外国语学院2025年“深湾智语・拓域砺新”暑期学校招生预通知](https://sfl.szu.edu.cn/info/1121/5650.htm) |
 | 暂无 | [2025年深圳大学人文学院2025年暑期学校招生预通知](https://wxy.szu.edu.cn/info/1083/2583.htm) |
+
+<div align="center">
+<h3>宁波大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-22 | [2025年宁波大学外国语学院2025年全国优秀大学生外语学术夏令营活动报名指南](https://ffl.nbu.edu.cn/info/1093/12539.htm) |
 
 <div align="center">
 <h3>上海外国语大学</h3>
