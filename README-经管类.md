@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="115" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="114" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -65,6 +65,7 @@
 | 2025-06-06 | [2025年北京大学汇丰商学院全国优秀大学生经济金融论坛”的通知](https://mp.weixin.qq.com/s/bHxu77Idaj3N9GtkkW-t5Q) |
 | 2025-06-15 | [2025年北京大学光华管理学院2025“全国优秀大学生夏令营”（社会学方向）](https://mp.weixin.qq.com/s/VdWtvp7RFtFgSvIsqWao1Q) |
 | 2025-06-15 | [2025年北京大学光华管理学院全国优秀大学生学术夏令营通知](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm) |
+| 2025-06-16 | [2025年北京大学经济学院关于举办“2025年优秀大学生夏令营”活动的通知](https://econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/389994.htm) |
 | 2025-06-16 | [2025年北京大学全球健康发展研究院耶鲁2025年“数字健康”经济学夏令营](https://www.ghd.pku.edu.cn/xwzx/a799636b56164a6db596368fbc79b7ea.htm) |
 | 2025-08-18 | [2025年北京大学光华管理学院2025年金融、会计（专业学位）夏令营通知](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ) |
 | ~~2025-05-09~~ | [2025年北京大学新结构经济学研究院“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/xjgjjxxly/540632.htm) |
@@ -233,6 +234,18 @@
 | 2025-06-07 | [2025年上海大学悉尼工商学院2025年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/NjvxfPAodhsAlzUAFUfbMg) |
 
 <div align="center">
+<h3>上海外国语大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-19 | [2025年上海外国语大学国际金融贸易学院国际商务硕士2025年全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/-rfckkGvlwVJiYgHVl97Wg) |
+| 2025-06-19 | [2025年上海外国语大学国际工商管理学院2025年优秀大学生夏令营项目发布](https://mp.weixin.qq.com/s/t1fgST6PUPc-IKUo2Vgzjw) |
+| 2025-06-19 | [2025年上海外国语大学国际金融贸易学院应用经济学学术型硕士研究生2025年全国优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/02/f1/c17817a197361/page.htm) |
+| 2025-06-19 | [2025年上海外国语大学国际金融贸易学院金融硕士 2025年全国优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/02/f3/c17817a197363/page.htm) |
+| 2025-06-19 | [2025年上海外国语大学国际金融贸易学院数字经济硕士2025年全国优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/02/f4/c17817a197364/page.htm) |
+
+<div align="center">
 <h3>上海理工大学</h3>
 </div>
 
@@ -282,6 +295,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-20 | [2025年湖南工商大学会计学院2025年全国优秀大学生夏令营活动方案](https://mp.weixin.qq.com/s/B1K3V_iEo8qcqXThPNwWDQ) |
 | 2025-06-20 | [2025年湖南工商大学经济与贸易学院 2025年全国优秀大学生夏令营活动](https://mp.weixin.qq.com/s/JBIvm6kctG3Ur6lJ9a7DQQ) |
 
 <div align="center">
@@ -298,7 +312,6 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 暂无 | [2025年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营学科宣讲会](https://mp.weixin.qq.com/s/12LEpNgY-Uy-W80JENeD7Q) |
 | ~~2025-05-29~~ | [2025年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营](https://mp.weixin.qq.com/s/j7WdoIBEX0OnyMat_glzyw) |
 
 <div align="center">

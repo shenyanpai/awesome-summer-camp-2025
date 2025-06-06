@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="115" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="114" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -151,6 +151,7 @@
 | 2025-06-15 | [2025年北京师范大学政府管理学院2025年优秀大学生夏令营](http://www.sg.bnu.edu.cn/tzgg1/f730c84386894c129d14785dd1b542a0.htm) |
 | 2025-06-15 | [2025年北京师范大学外国语言文学学院2025年优秀大学生夏令营](http://www.sfll.bnu.edu.cn/xwgg/tzgg/039e52229a624ed698e9f2389d8c6839.htm) |
 | 2025-06-16 | [2025年北京师范大学国家安全与应急管理学院2025年全国优秀大学生夏令营招生简章](https://nsem.bnu.edu.cn/tzgg/ecf171c06787491da6bfdeac81d5bc7c.htm) |
+| 2025-06-18 | [2025年北京师范大学国际中文教育学院2025年优秀大学生暑期夏令营活动通知](https://hywh.bnu.edu.cn/tzgg2/0558bbecfb9c404b9ea57608e8d71be7.html) |
 | ~~2025-06-04~~ | [2025年北京师范大学马克思主义学院关于举办2025年全国优秀大学生夏令营的通知](https://marx.bnu.edu.cn/xstd/tzgg/eefb0dd5bcdb45a0ad954e90c8874e8b.html) |
 
 <div align="center">
@@ -162,12 +163,21 @@
 | 2025-06-13 | [2025年厦门大学外文学院2025年全国外语专业优秀大学生夏令营活动报名指南](https://cflc.xmu.edu.cn/info/1249/31424.htm) |
 
 <div align="center">
+<h3>上海财经大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-25 | [2025年上海财经大学法学院关于举办2025年“财经法律前沿问题” 夏令营的通知](https://mp.weixin.qq.com/s/_XAaIQPx71wUtTrtkpDrOw) |
+| 2025-06-25 | [2025年上海财经大学公共管理学院关于举办2025年 “上财公管夏令营”的通知](https://mp.weixin.qq.com/s/pSzOovSZxZjSkB-eD6GXVA) |
+
+<div align="center">
 <h3>兰州大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-05 | [2025年兰州大学法学院2025年全国优秀大学生夏令营活动通知](https://laws.lzu.edu.cn/lzupage/2025/05/23/N20250523163834.html) |
+| ~~2025-06-05~~ | [2025年兰州大学法学院2025年全国优秀大学生夏令营活动通知](https://laws.lzu.edu.cn/lzupage/2025/05/23/N20250523163834.html) |
 
 <div align="center">
 <h3>东北师范大学</h3>
@@ -246,6 +256,17 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-19 | [2025年上海外国语大学高级翻译学院2025年优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/KKBnx3KICgyBRZJwCZkwwg) |
+| 2025-06-19 | [2025年上海外国语大学马克思主义学院2025年优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/02/f5/c17817a197365/page.htm) |
+| 2025-06-19 | [2025年上海外国语大学德语系2025年暑期优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/03/33/c17817a197427/page.htm) |
+| 2025-06-19 | [2025年上海外国语大学日本文化经济学院日语语言文学专业2025年优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/03/34/c17817a197428/page.htm) |
+| 2025-06-19 | [2025年上海外国语大学西方语系欧洲语言文学专业2025年优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/03/35/c17817a197429/page.htm) |
+| 2025-06-19 | [2025年上海外国语大学东方语学院阿拉伯语语言文学2025年优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/03/36/c17817a197430/page.htm) |
+| 2025-06-19 | [2025年上海外国语大学东方语学院亚非语言文学2025年优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/03/3c/c17817a197436/page.htm) |
+| 2025-06-19 | [2025年上海外国语大学语言科学研究院2025年优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/03/43/c17817a197443/page.htm) |
+| 2025-06-19 | [2025年上海外国语大学上海全球治理与区域国别研究院区域国别学2025年优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/33JZbPTDOaKox1cYmti69g) |
+| 2025-06-19 | [2025年上海外国语大学英语学院英语语言文学专业2025年优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/02/f7/c17817a197367/page.htm) |
+| 2025-06-19 | [2025年上海外国语大学中文学院/国际文化交流学院2025年全国优秀大学生夏令营招生简章](http://www.scse.shisu.edu.cn/02/db/c12105a197339/page.htm) |
 | 2025-06-19 | [2025年上海外国语大学新闻传播学院2025年全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/2riUYJrWXntRIdp_Na2ppQ) |
 
 <div align="center">
@@ -326,6 +347,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-15 | [2025年北京第二外国语学院日语学院日语语言文学专业2025年优秀大学生夏令营招生简章（二号通知）](https://mp.weixin.qq.com/s/ohjH0wlgH_kmb2IhaOU9-g) |
 | 2025-06-15 | [2025年北京第二外国语学院日语学院国际日本研究中心优秀大学生夏令营招生简章（一号通知）](https://mp.weixin.qq.com/s/4P5lRG9kYWfy7P6w3A956A) |
 
 <div align="center">

@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="115" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="114" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -55,8 +55,11 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-16 | [2025年浙江大学医学院口腔医学院2025年全国优秀大学生夏令营活动通知](https://www.zjuss.cn/24-5272) |
 | 2025-06-16 | [2025年浙江大学药学院暑期优秀大学生夏令营报名通知](http://www.cps.zju.edu.cn/2025/0519/c58897a3052513/page.htm) |
 | 2025-06-19 | [2025年浙江大学转化医学研究院直博夏令营报名通知](https://mp.weixin.qq.com/s/5y8XaCEGN3FuaNrp7OGNsA) |
+| 2025-06-20 | [2025年浙江大学医学院妇产科学院关于举办2025年临床医学优秀大学生夏令营通知](https://www.womanschool.cn/index/article/details/id/489/pid/15/zid/0.html) |
+| 2025-06-22 | [2025年浙江大学医学院护理系关于举办“2025 年全国优秀大学生夏令营”的通知](http://www.cmm.zju.edu.cn/_upload/article/files/3f/65/aed67435473fbe804418dbd38b2d/2049188a-4d72-43b9-b5e1-3bc06a9fd0d8.pdf) |
 | 暂无 | [2025年浙江大学医学院关于举办2025年优秀大学生夏令营的通知](http://www.cmm.zju.edu.cn/2025/0529/c38716a3056627/page.htm) |
 | ~~2025-06-03~~ | [2025年浙江大学基础医学院关于举办2025年优秀大学生暑期夏令营的通知](https://bms.zju.edu.cn/2025/0429/c85156a3044184/page.htm) |
 | ~~2025-05-21~~ | [2025年浙江大学脑科学与脑医学学院全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm) |
@@ -93,6 +96,14 @@
 | 2025-06-30 | [2025年中山大学药学院2025年全国优秀大学生夏令营活动报名通知](https://sps.sysu.edu.cn/article/12264) |
 
 <div align="center">
+<h3>四川大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-19 | [2025年四川大学华西临床医学院关于举办2025年全国优秀大学生暑期夏令营的通知](https://yjs.cd120.com/contents/410/6181.html) |
+
+<div align="center">
 <h3>哈尔滨工业大学</h3>
 </div>
 
@@ -114,6 +125,7 @@
 | 2025-06-15 | [2025年北京协和医学院北京医院国家老年医学中心全国优秀大学生夏令营报名通知](https://www.bjhmoh.cn/wap/content.php?id=29078&cat_id=65) |
 | 2025-06-15 | [2025年北京协和医学院医学生物学研究所 2025年第十二届优秀大学生暑期夏令营招生简章](https://www.imbcams.ac.cn/jyjx1/zsxx/content_8255) |
 | 2025-06-15 | [2025年北京协和医学院血液病医院第十五届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/p7GaHyyGt4r_khoMf84rSQ) |
+| 2025-06-18 | [2025年北京协和医学院基础学院暑期夏令营通知](https://mp.weixin.qq.com/s/dir8tD5OgHsu2Kbk6fDQyA) |
 | 2025-06-20 | [2025年北京协和医学院输血研究所2025年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/WHANGbAMn-luEcbCJhdIAQ) |
 | 2025-06-25 | [2025年北京协和医学院放射医学研究所2025年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/0jXH3nT9df8C__1sF1n80g) |
 
