@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="113" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="112" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -57,6 +57,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-22 | [2025年北京大学国际法学院全国优秀大学生夏令营（本科专业不限）](https://mp.weixin.qq.com/s/-XjlSw_OBF_j14yDmBWTUg) |
 | 暂无 | [2025年北京大学国际法学院全国优秀大学生夏令营预报名](https://stl.pku.edu.cn/cn/admissions/83/shp.html) |
 | ~~2025-05-16~~ | [2025年北京大学燕京学堂2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw) |
 
@@ -84,6 +85,15 @@
 | 2025-06-23 | [2025年上海交通大学人文学院2026年研究生优才夏令营活动通知](https://shss.sjtu.edu.cn/Web/Show/10991) |
 | 2025-06-25 | [2025年上海交通大学南加州大学文化创意产业学院2026 ICCI ELITE CAMP 暑期菁英拓训营报名通知](https://icci.sjtu.edu.cn/announcement/view/1929) |
 | 2025-06-25 | [2025年上海交通大学外国语学院2026年研究生优才夏令营活动通知](https://sfl.sjtu.edu.cn/Data/View/9418) |
+| 2025-06-30 | [2025年上海交通大学马克思主义学院2026级研究生优才夏令营活动通知](https://ma.sjtu.edu.cn/info/1293/14736.htm) |
+
+<div align="center">
+<h3>华中科技大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-22 | [2025年华中科技大学哲学学院“全国优秀大学生夏令营”活动通知](http://phil.hust.edu.cn/info/1050/4969.htm) |
 
 <div align="center">
 <h3>武汉大学</h3>
@@ -115,6 +125,7 @@
 | 2025-06-10 | [2025年中山大学马克思主义学院2025年全国优秀大学生夏令营招生启事](https:// https://mkszyxy.sysu.edu.cn/syxxgg/xxgg/1419147.htm) |
 | 2025-06-10 | [2025年中山大学哲学系2025年优秀大学生夏令营招生简章](https://philosophy.sysu.edu.cn/article/5864) |
 | 2025-06-15 | [2025年中山大学哲学系（珠海）全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/rvWa_gcQtT-HPBJIQxmYSw) |
+| 2025-06-20 | [2025年中山大学外国语学院2025年优秀大学生夏令营（线上）活动公告](https://fls.sysu.edu.cn/article/4290) |
 | 2025-06-22 | [2025年中山大学信息管理学院2025年优秀大学生夏令营报名通知](https://ischool.sysu.edu.cn/zh-hans/article/759) |
 | ~~2025-05-26~~ | [2025年中山大学中国语言文学系2025年“优秀大学生夏令营” 暨粤港澳大湾区中文书院活动公告](https://mp.weixin.qq.com/s/254xmOl0gQMQQ2_41ejYrg) |
 
@@ -124,9 +135,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-07 | [2025年哈尔滨工业大学马克思主义学院关于举办全国优秀大学生学术夏令营的通知](https://marx.hit.edu.cn/2025/0513/c10001a369798/page.htm) |
-| 2025-06-07 | [2025年哈尔滨工业大学人文社科学部暑期夏令营的通知](https://rwxy.hit.edu.cn/2025/0430/c6936a367948/page.htm) |
-| 2025-06-07 | [2025年哈尔滨工业大学（深圳）马克思主义学院2025年全国优秀大学生学术夏令营的通知](http://mks.hitsz.edu.cn/info/1013/2341.htm) |
+| ~~2025-06-07~~ | [2025年哈尔滨工业大学马克思主义学院关于举办全国优秀大学生学术夏令营的通知](https://marx.hit.edu.cn/2025/0513/c10001a369798/page.htm) |
+| ~~2025-06-07~~ | [2025年哈尔滨工业大学人文社科学部暑期夏令营的通知](https://rwxy.hit.edu.cn/2025/0430/c6936a367948/page.htm) |
+| ~~2025-06-07~~ | [2025年哈尔滨工业大学（深圳）马克思主义学院2025年全国优秀大学生学术夏令营的通知](http://mks.hitsz.edu.cn/info/1013/2341.htm) |
 
 <div align="center">
 <h3>同济大学</h3>
