@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="114" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="113" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,7 +47,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-06 | [2025年清华大学社会科学学院2025年优秀大学生夏令营报名通知](https://www.sss.tsinghua.edu.cn/info/1026/8026.htm) |
+| ~~2025-06-06~~ | [2025年清华大学社会科学学院2025年优秀大学生夏令营报名通知](https://www.sss.tsinghua.edu.cn/info/1026/8026.htm) |
 | ~~2025-05-23~~ | [2025年清华大学新闻与传播学院关于举办2025年“面向未来的新闻传播”夏令营的通知](https://www.tsjc.tsinghua.edu.cn/info/1027/2778.htm) |
 | ~~2025-05-11~~ | [2025年清华大学国际与地区研究院2025年区域国别研究青年夏令营报名通知](https://mp.weixin.qq.com/s/zHmODp6u0o0Sg_3eVaj5xQ) |
 
@@ -59,7 +59,6 @@
 |:------------:|:---------|
 | 暂无 | [2025年北京大学国际法学院全国优秀大学生夏令营预报名](https://stl.pku.edu.cn/cn/admissions/83/shp.html) |
 | ~~2025-05-16~~ | [2025年北京大学燕京学堂2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw) |
-| ~~2025-04-08~~ | [2025年北京大学国际法学院2026研招开放日报名正式启动（本科专业不限）](https://mp.weixin.qq.com/s/SiGYBFkBVCktzTABiN3tWQ) |
 
 <div align="center">
 <h3>浙江大学</h3>
@@ -161,6 +160,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-13 | [2025年厦门大学外文学院2025年全国外语专业优秀大学生夏令营活动报名指南](https://cflc.xmu.edu.cn/info/1249/31424.htm) |
+
+<div align="center">
+<h3>吉林大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-20 | [2025年吉林大学法学院2025年“法治理论与当代中国”主题校园学术活动开放日招募通知](https://law.jlu.edu.cn/info/1046/24563.htm) |
 
 <div align="center">
 <h3>上海财经大学</h3>
@@ -268,6 +275,14 @@
 | 2025-06-19 | [2025年上海外国语大学英语学院英语语言文学专业2025年优秀大学生夏令营招生简章](https://yz.shisu.edu.cn/02/f7/c17817a197367/page.htm) |
 | 2025-06-19 | [2025年上海外国语大学中文学院/国际文化交流学院2025年全国优秀大学生夏令营招生简章](http://www.scse.shisu.edu.cn/02/db/c12105a197339/page.htm) |
 | 2025-06-19 | [2025年上海外国语大学新闻传播学院2025年全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/2riUYJrWXntRIdp_Na2ppQ) |
+
+<div align="center">
+<h3>上海师范大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-30 | [2025年上海师范大学马克思主义学院第七届“新时代红色传人”夏令营暨2025年上师大马院暑期优秀大学生夏令营招生启事](https://marx.shnu.edu.cn/ad/e4/c2465a830948/page.htm) |
 
 <div align="center">
 <h3>江西财经大学</h3>
