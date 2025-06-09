@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="112" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="111" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -104,6 +104,7 @@
 | 2025-06-15 | [2025年中山大学公共卫生学院2025年全国优秀大学生夏令营报名通知](https://sph.sysu.edu.cn/article/2851) |
 | 2025-06-16 | [2025年中山大学护理学院2025年全国优秀大学生夏令营报名通知](https://nursing.sysu.edu.cn/article/3162) |
 | 2025-06-16 | [2025年中山大学中山医学院2025年优秀大学生夏令营活动报名通知](https://zssom.sysu.edu.cn/article/11443) |
+| 2025-06-19 | [2025年中山大学公共卫生学院（深圳）2025年全国优秀大学生夏令营报名通知](https://phs.sysu.edu.cn/zh-hans/article/1183) |
 | 2025-06-22 | [2025年中山大学药学院（深圳）2025年优秀大学生夏令营通知](https://yxysz.sysu.edu.cn/zh-hans/article/1570) |
 | 2025-06-23 | [2025年中山大学医学院2025年优秀大学生夏令营报名通知](https://szmed.sysu.edu.cn/zh-hans/article/3377) |
 | 2025-06-30 | [2025年中山大学药学院2025年全国优秀大学生夏令营活动报名通知](https://sps.sysu.edu.cn/article/12264) |
@@ -168,6 +169,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-30 | [2025年中国农业大学动物医学院第十一届云端夏令营的通知](https://cvm.cau.edu.cn/art/2025/6/6/art_41942_1071388.html) |
+
+<div align="center">
+<h3>华东师范大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-16 | [2025年华东师范大学医学与健康研究院基础医学第三届全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/P8nDALrlRYQbJSvsgxADgg) |
 
 <div align="center">
 <h3>南方科技大学</h3>
@@ -316,6 +325,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-27 | [2025年中国疾病预防控制中心职业卫生与中毒控制所2025年大学生夏令营活动通知](https://niohp.chinacdc.cn/sndt/202506/t20250603_307241.htm) |
+| 2025-07-06 | [2025年中国疾病预防控制中心慢性非传染性疾病预防控制中心关于举办2025年全国优秀大学生暑期夏令营活动的通知](https://mp.weixin.qq.com/s/gvxQhSJ2QC3QQtqfvLkx1w) |
 
 <div align="center">
 <h3>中国农业科学院</h3>

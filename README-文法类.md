@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="112" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="111" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -67,11 +67,11 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-08 | [2025年浙江大学外国语学院2025年优秀大学生夏令营招生简章](http://www.sis.zju.edu.cn/sischinese/2025/0514/c23219a3049294/page.htm) |
 | 2025-06-10 | [2025年浙江大学传媒与国际文化学院2025 年优秀大学生夏令营活动通知](http://www.cmic.zju.edu.cn/2025/0527/c35565a3055494/page.htm) |
 | 2025-06-10 | [2025年浙江大学公共管理学院2025年继续举办大学生公共管理创新论坛暨“启真”夏令营活动](http://www.spa.zju.edu.cn/spachinese/74541/list.htm) |
 | 2025-06-15 | [2025年浙江大学社会学系2025年大学生“群学肄言” 夏令营活动通知](http://sociology.zju.edu.cn/index.php/News/details.html?id=849&sid=2) |
 | 2025-06-15 | [2025年浙江大学哲学学院2025年优秀大学生夏令营通知](http://www.philosophy.zju.edu.cn/2025/0528/c64613a3056205/page.htm) |
+| ~~2025-06-08~~ | [2025年浙江大学外国语学院2025年优秀大学生夏令营招生简章](http://www.sis.zju.edu.cn/sischinese/2025/0514/c23219a3049294/page.htm) |
 | ~~2025-06-04~~ | [2025年浙江大学文学院2025年全国优秀大学生云夏令营活动简章](http://www.lit.zju.edu.cn/2025/0521/c64565a3053771/page.htm) |
 
 <div align="center">
@@ -86,6 +86,16 @@
 | 2025-06-25 | [2025年上海交通大学南加州大学文化创意产业学院2026 ICCI ELITE CAMP 暑期菁英拓训营报名通知](https://icci.sjtu.edu.cn/announcement/view/1929) |
 | 2025-06-25 | [2025年上海交通大学外国语学院2026年研究生优才夏令营活动通知](https://sfl.sjtu.edu.cn/Data/View/9418) |
 | 2025-06-30 | [2025年上海交通大学马克思主义学院2026级研究生优才夏令营活动通知](https://ma.sjtu.edu.cn/info/1293/14736.htm) |
+
+<div align="center">
+<h3>复旦大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-22 | [2025年复旦大学历史地理研究中心2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/xbAlNRD_3dDDRM2x-K_GkA) |
+| 2025-06-25 | [2025年复旦大学文献信息中心2025年图书情报专业硕士全国优秀大学生夏令营活动通知](https://library.fudan.edu.cn/zyss/3c/8c/c42196a736396/page.htm) |
+| 2025-06-25 | [2025年复旦大学文物与博物馆学系2025年全国优秀大学生夏令营报名通知](https://www.chm.fudan.edu.cn/3c/79/c11431a736377/page.htm) |
 
 <div align="center">
 <h3>华中科技大学</h3>
@@ -127,7 +137,16 @@
 | 2025-06-15 | [2025年中山大学哲学系（珠海）全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/rvWa_gcQtT-HPBJIQxmYSw) |
 | 2025-06-20 | [2025年中山大学外国语学院2025年优秀大学生夏令营（线上）活动公告](https://fls.sysu.edu.cn/article/4290) |
 | 2025-06-22 | [2025年中山大学信息管理学院2025年优秀大学生夏令营报名通知](https://ischool.sysu.edu.cn/zh-hans/article/759) |
+| 2025-06-23 | [2025年中山大学政治与公共事务管理学院关于举办2025年全国优秀大学生“南方问道” 夏令营活动的通知](https://mp.weixin.qq.com/s/wuu2PWODx-DrqRNnwZzHRw) |
 | ~~2025-05-26~~ | [2025年中山大学中国语言文学系2025年“优秀大学生夏令营” 暨粤港澳大湾区中文书院活动公告](https://mp.weixin.qq.com/s/254xmOl0gQMQQ2_41ejYrg) |
+
+<div align="center">
+<h3>北京航空航天大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-24 | [2025年北京航空航天大学人文社会科学学院（公共管理学院）高等教育研究所“国优计划”及相关学科专业2025年暑期学校通知](http://www.hss.buaa.edu.cn/info/1103/7635.htm) |
 
 <div align="center">
 <h3>哈尔滨工业大学</h3>
@@ -179,6 +198,16 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-20 | [2025年吉林大学法学院2025年“法治理论与当代中国”主题校园学术活动开放日招募通知](https://law.jlu.edu.cn/info/1046/24563.htm) |
+
+<div align="center">
+<h3>华东师范大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-13 | [2025年华东师范大学社会发展学院2025年“优秀大学生夏令营”通知](https://mp.weixin.qq.com/s/NSz5TZukTJYDjADmCulIJA) |
+| 2025-06-15 | [2025年华东师范大学国际汉语文化学院2025年优秀大学生夏令营活动招生公告](https://mp.weixin.qq.com/s/D-zHV6-ouQGNt55lYkaCWg) |
+| 2025-06-18 | [2025年华东师范大学外语学院举办2025年“优秀大学生夏令营”活动的通知](https://mp.weixin.qq.com/s/8VxQfvTkB_5rvL6ey_HzqQ) |
 
 <div align="center">
 <h3>上海财经大学</h3>
@@ -234,6 +263,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-15 | [2025年华中师范大学历史文化学院2025年优秀大学生夏令营公告](https://history.ccnu.edu.cn/info/1009/18131.htm) |
+| 2025-06-20 | [2025年华中师范大学国家文化产业研究中心2025年优秀大学生夏令营公告](https://nrcci.ccnu.edu.cn/info/1029/6789.htm) |
 
 <div align="center">
 <h3>西北大学</h3>
@@ -365,6 +395,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-30 | [2025年内蒙古师范大学科学技术史研究院 “科技与文明”2025夏令营招生通知（第二轮）](https://ihst.imnu.edu.cn/info/1022/2977.htm) |
 | 2025-06-30 | [2025年内蒙古师范大学科学技术史研究院 “科技与文明”2025夏令营招生通知](https://ihst.imnu.edu.cn/info/1022/2917.htm) |
 
 <div align="center">
@@ -384,6 +415,14 @@
 |:------------:|:---------|
 | 2025-06-16 | [2025年贵州财经大学外语学院2025年学术夏令营活动报名通知](https://wyxy.gufe.edu.cn/info/1019/5541.htm) |
 | 2025-06-20 | [2025年贵州财经大学马克思主义学院2025年学术夏令营活动报名通知](https://mp.weixin.qq.com/s/Qwb67Goz143nvH8ZQhswIQ) |
+
+<div align="center">
+<h3>中国科学院大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-22 | [2025年中国科学院大学外语系“语言之光，翻译之桥，文学之梦”夏令营通知](https://foreign.ucas.edu.cn/tzgg/187c6ae88c554bc393bbae2417a5d026.htm) |
 
 <div align="center">
 <h3>中国科学院</h3>

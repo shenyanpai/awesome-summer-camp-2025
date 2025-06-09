@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="112" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="111" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -114,6 +114,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-16 | [2025年华中科技大学管理学院2025年“全国优秀大学生暑期夏令营”学术型招募启事](https://cm.hust.edu.cn/info/2137/35305.htmhttps://cm.hust.edu.cn/info/2137/35305.htm) |
 | 2025-06-22 | [2025年华中科技大学管理学院2025年“全国优秀大学生 暑期夏令营”（会计硕士）招募启事](https://mp.weixin.qq.com/s/eH4d-icEX3Fdlzj-GlsYsA) |
 
 <div align="center">
@@ -157,12 +158,20 @@
 | 2025-06-16 | [2025年同济大学经济与管理学院2025年优秀学生暑期学校活动通知 学术型）](https://sem.tongji.edu.cn/semch/53441.html) |
 
 <div align="center">
+<h3>北京师范大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-13 | [2025年北京师范大学湾区国际商学院2025年优秀大学生夏令营报名通知](https://bibs.bnu.edu.cn/news/notice/1c9d4ccfebcc4dd48fcf51f59ac3eb84.htm) |
+
+<div align="center">
 <h3>南开大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-08 | [2025年南开大学旅游与服务学院旅游/会展管理夏令营一号通知](https://tas.nankai.edu.cn/info/1071/6294.htm) |
+| ~~2025-06-08~~ | [2025年南开大学旅游与服务学院旅游/会展管理夏令营一号通知](https://tas.nankai.edu.cn/info/1071/6294.htm) |
 
 <div align="center">
 <h3>厦门大学</h3>
@@ -183,6 +192,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-17 | [2025年华东师范大学经济与管理学院金融硕士（专业学位）“2025优秀大学生夏令营”活动通知](https://mp.weixin.qq.com/s/N83sMZHIPCFBYpoHWI6VtQ) |
+
+<div align="center">
+<h3>南方科技大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-20 | [2025年南方科技大学商学院2025年全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/trsb2V5M7WRaM6FdoeNnsg) |
 
 <div align="center">
 <h3>上海财经大学</h3>
@@ -269,6 +286,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-06-25 | [2025年上海理工大学管理学院专业学位教育中心 MPAcc/MF/MIB/MT 2025年全国优秀大学生夏令营报名启动](https://mp.weixin.qq.com/s/5AuK01I9ayqaUAcjDMgAaw) |
+| 2025-06-30 | [2025年上海理工大学管理学院2025年全国优秀大学生夏令营招生通知](https://mp.weixin.qq.com/s/R3PgejCh8vfxoYW8Mn3g_w) |
 
 <div align="center">
 <h3>江西财经大学</h3>
@@ -294,11 +312,11 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-08 | [2025年广东外语外贸大学经济贸易学院2025年优秀大学生暑期夏令营招生简章](https://jingmao.gdufs.edu.cn/info/1695/13630.htm) |
 | 2025-06-09 | [2025年广东外语外贸大学会计学院2025年优秀大学生暑期夏令营招生简章](https://kjxy.gdufs.edu.cn/info/1107/7260.htm) |
 | 2025-06-09 | [2025年广东外语外贸大学广东国际战略研究院2025年优秀大学生暑期夏令营活动介绍](https://giis.gdufs.edu.cn/info/1607/16167.htm) |
 | 2025-06-09 | [2025年广东外语外贸大学金融学院2025年优秀大学生暑期夏令营招生简章](https://jrxy.gdufs.edu.cn/info/1061/7605.htm) |
 | 2025-06-16 | [2025年广东外语外贸大学商学院2025年优秀大学生暑期夏令营招生简章](https://bs.gdufs.edu.cn/info/1126/5192.htm) |
+| ~~2025-06-08~~ | [2025年广东外语外贸大学经济贸易学院2025年优秀大学生暑期夏令营招生简章](https://jingmao.gdufs.edu.cn/info/1695/13630.htm) |
 
 <div align="center">
 <h3>上海海事大学</h3>
