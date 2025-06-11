@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="109" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="108" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -184,6 +184,7 @@
 | 2025-06-15 | [2025年北京师范大学外国语言文学学院2025年优秀大学生夏令营](http://www.sfll.bnu.edu.cn/xwgg/tzgg/039e52229a624ed698e9f2389d8c6839.htm) |
 | 2025-06-16 | [2025年北京师范大学国家安全与应急管理学院2025年全国优秀大学生夏令营招生简章](https://nsem.bnu.edu.cn/tzgg/ecf171c06787491da6bfdeac81d5bc7c.htm) |
 | 2025-06-18 | [2025年北京师范大学国际中文教育学院2025年优秀大学生暑期夏令营活动通知](https://hywh.bnu.edu.cn/tzgg2/0558bbecfb9c404b9ea57608e8d71be7.html) |
+| 2025-06-25 | [2025年北京师范大学社会学院2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/QJSbKDXCz-nngRu6BGK8bA) |
 | ~~2025-06-10~~ | [2025年北京师范大学哲学学院2025年全国优秀大学生夏令营活动通知](https://phil.bnu.edu.cn/tzgg/10ee25bebf524e96a2afcfe1621bd94b.html) |
 | ~~2025-06-04~~ | [2025年北京师范大学马克思主义学院关于举办2025年全国优秀大学生夏令营的通知](https://marx.bnu.edu.cn/xstd/tzgg/eefb0dd5bcdb45a0ad954e90c8874e8b.html) |
 
@@ -201,6 +202,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-18 | [2025年吉林大学哲学社会学院2025年“美道慎行”哲学校园学术活动开放日活动通知](https://zsy.jlu.edu.cn/info/1094/12984.htm) |
 | 2025-06-20 | [2025年吉林大学法学院2025年“法治理论与当代中国”主题校园学术活动开放日招募通知](https://law.jlu.edu.cn/info/1046/24563.htm) |
 
 <div align="center">
@@ -327,7 +329,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-24 | [2025年上海理工大学外语学院全国优秀大学生夏令营招生简章](https://waiyu.usst.edu.cn/2025/0611/c5572a343094/page.htm) |
 | 2025-06-25 | [2025年上海理工大学管理学院公共管理学2025年全国优秀大学生夏令营招生通知](https://bs.usst.edu.cn/2025/0609/c10537a342911/page.htm) |
+| 2025-06-30 | [2025年上海理工大学出版学院新闻传播学专业（学硕）、新闻与传播专业（专硕）云端夏令营招生通知](https://ccad.usst.edu.cn/2025/0611/c11900a343084/page.htm) |
 
 <div align="center">
 <h3>上海师范大学</h3>
