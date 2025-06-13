@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="108" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="107" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -134,8 +134,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-12 | [2025年中山大学岭南学院第十五届（2025全国优秀大学生夏令营招生简章](https://lingnan.sysu.edu.cn/postgraduateprogram/article/494) |
 | 2025-06-16 | [2025年中山大学管理学院2025年全国优秀大学生夏令营（学术学位分营）通知](https://bus.sysu.edu.cn/article/11745) |
+| ~~2025-06-12~~ | [2025年中山大学岭南学院第十五届（2025全国优秀大学生夏令营招生简章](https://lingnan.sysu.edu.cn/postgraduateprogram/article/494) |
 | ~~2025-06-10~~ | [2025年中山大学国际金融学院2025年优秀大学生暑期夏令营活动通知](https://isbf.sysu.edu.cn/zh-hans/article/2367) |
 
 <div align="center">
@@ -259,6 +259,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-06-26 | [2025年上海大学经济学院2026届暑期夏令营暨优秀本科生学术论坛](https://soe.shu.edu.cn/info/1192/42364.htm) |
 | ~~2025-06-07~~ | [2025年上海大学悉尼工商学院2025年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/NjvxfPAodhsAlzUAFUfbMg) |
 
 <div align="center">
@@ -302,6 +303,7 @@
 | 2025-06-20 | [2025年江西财经大学金融学院2025年度优秀大学生夏令营招生简章](http://finance.jxufe.edu.cn/news-show-5411.html) |
 | 2025-06-20 | [2025年江西财经大学数字经济学院2025年优秀大学生夏令营简章](https://mp.weixin.qq.com/s/KgUwZekH9-0l7HfKhcixvA) |
 | 2025-06-25 | [2025年江西财经大学工商管理学院关于举办“2025年全国优秀大学生暑期夏令营”活动的通知](https://mp.weixin.qq.com/s/IKHCrEE4Jo1RpS7pmz8zWg) |
+| 2025-06-26 | [2025年江西财经大学会计学院举办 “2025年全国优秀大学生夏令营”的通知](https://kjxy.jxufe.edu.cn/news-show-9166.html) |
 
 <div align="center">
 <h3>华东政法大学</h3>
