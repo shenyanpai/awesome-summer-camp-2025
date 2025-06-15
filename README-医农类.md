@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="106" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="104" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -142,13 +142,13 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-15 | [2025年中山大学公共卫生学院2025年全国优秀大学生夏令营报名通知](https://sph.sysu.edu.cn/article/2851) |
 | 2025-06-16 | [2025年中山大学护理学院2025年全国优秀大学生夏令营报名通知](https://nursing.sysu.edu.cn/article/3162) |
 | 2025-06-16 | [2025年中山大学中山医学院2025年优秀大学生夏令营活动报名通知](https://zssom.sysu.edu.cn/article/11443) |
 | 2025-06-19 | [2025年中山大学公共卫生学院（深圳）2025年全国优秀大学生夏令营报名通知](https://phs.sysu.edu.cn/zh-hans/article/1183) |
 | 2025-06-22 | [2025年中山大学药学院（深圳）2025年优秀大学生夏令营通知](https://yxysz.sysu.edu.cn/zh-hans/article/1570) |
 | 2025-06-23 | [2025年中山大学医学院2025年优秀大学生夏令营报名通知](https://szmed.sysu.edu.cn/zh-hans/article/3377) |
 | 2025-06-30 | [2025年中山大学药学院2025年全国优秀大学生夏令营活动报名通知](https://sps.sysu.edu.cn/article/12264) |
+| ~~2025-06-15~~ | [2025年中山大学公共卫生学院2025年全国优秀大学生夏令营报名通知](https://sph.sysu.edu.cn/article/2851) |
 | ~~2025-06-09~~ | [2025年中山大学中山眼科中心2025年优秀大学生夏令营活动](https://mp.weixin.qq.com/s/8bh9krC8L_BRXPhBzHk1zg) |
 
 <div align="center">
@@ -177,13 +177,13 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-15 | [2025年北京协和医学院卫生健康管理政策学院全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/4ptIgBHaPxIzzbyT9_x3yw) |
-| 2025-06-15 | [2025年北京协和医学院北京医院国家老年医学中心全国优秀大学生夏令营报名通知](https://www.bjhmoh.cn/wap/content.php?id=29078&cat_id=65) |
-| 2025-06-15 | [2025年北京协和医学院医学生物学研究所 2025年第十二届优秀大学生暑期夏令营招生简章](https://www.imbcams.ac.cn/jyjx1/zsxx/content_8255) |
-| 2025-06-15 | [2025年北京协和医学院血液病医院第十五届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/p7GaHyyGt4r_khoMf84rSQ) |
 | 2025-06-18 | [2025年北京协和医学院基础学院暑期夏令营通知](https://mp.weixin.qq.com/s/dir8tD5OgHsu2Kbk6fDQyA) |
 | 2025-06-20 | [2025年北京协和医学院输血研究所2025年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/WHANGbAMn-luEcbCJhdIAQ) |
 | 2025-06-25 | [2025年北京协和医学院放射医学研究所2025年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/0jXH3nT9df8C__1sF1n80g) |
+| ~~2025-06-15~~ | [2025年北京协和医学院卫生健康管理政策学院全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/4ptIgBHaPxIzzbyT9_x3yw) |
+| ~~2025-06-15~~ | [2025年北京协和医学院北京医院国家老年医学中心全国优秀大学生夏令营报名通知](https://www.bjhmoh.cn/wap/content.php?id=29078&cat_id=65) |
+| ~~2025-06-15~~ | [2025年北京协和医学院医学生物学研究所 2025年第十二届优秀大学生暑期夏令营招生简章](https://www.imbcams.ac.cn/jyjx1/zsxx/content_8255) |
+| ~~2025-06-15~~ | [2025年北京协和医学院血液病医院第十五届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/p7GaHyyGt4r_khoMf84rSQ) |
 | ~~2025-06-12~~ | [2025年北京协和医学院医药生物技术研究所（药生所）将于2025年7月份举办全国优秀大学生暑期夏令营活动，本次活动旨在帮助大学生医药生物技术研究所2025年全国优秀大学生暑期招生夏令营报名通知](https://www.imb.com.cn/jyjx/zsxx/4610249e981f461d8e6cdff4dc805504.htm) |
 | ~~2025-06-10~~ | [2025年北京协和医学院病原生物学研究所2025年全国优秀大学生暑期夏令营活动通知](https://www.ipbcams.ac.cn/zxxx/2946.html) |
 | ~~2025-06-10~~ | [2025年北京协和医学院药物研究所全国优秀大学生暑期夏令营活动通知](https://www.imm.ac.cn/tz/tzgg/7d7a63b8188e4f709bdafa863cb03a87.htm) |
@@ -258,8 +258,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-15 | [2025年兰州大学第二医院（第二临床医学院）优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/ZEiyfR9gczLsnhKEAVpcsQ) |
+| 2025-06-25 | [2025年兰州大学护理学院2025年优秀大学生暑期夏令营活动通知](https://nursing.lzu.edu.cn/tongzhigonggao/2025/0614/312873.html) |
 | 2025-06-25 | [2025年兰州大学动物医学与生物安全学院2025年优秀大学生暑期夏令营活动通知](https://vet.lzu.edu.cn/xueshenggongzuo/xuegongdongtai/2025/0603/312119.html) |
+| ~~2025-06-15~~ | [2025年兰州大学第二医院（第二临床医学院）优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/ZEiyfR9gczLsnhKEAVpcsQ) |
 | ~~2025-05-26~~ | [2025年兰州大学草地农业科技学院第九届“丝绸之路经济带”全国大学生草业科学实践技能大赛暨大学生夏令营活动的通知](https://mp.weixin.qq.com/s/oqcg70N53IJz9hczaAlALw) |
 
 <div align="center">
@@ -294,8 +295,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-15 | [2025年华中农业大学动物科学技术学院动物医学院第八届夏令营招生简章](https://my.hzau.edu.cn/info/1065/18033.htm) |
 | 2025-06-16 | [2025年华中农业大学植物科学技术学院2025年全国优秀大学生夏令营招生公告](https://cpst.hzau.edu.cn/info/1059/21290.htm) |
+| ~~2025-06-15~~ | [2025年华中农业大学动物科学技术学院动物医学院第八届夏令营招生简章](https://my.hzau.edu.cn/info/1065/18033.htm) |
 
 <div align="center">
 <h3>暨南大学</h3>
@@ -352,7 +353,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-15 | [2025年广州医科大学呼吸疾病全国重点实验室2025年暑期大学生夏令营！](https://mp.weixin.qq.com/s/eEnST7GQ-gdoHhguwcg1ig) |
+| ~~2025-06-15~~ | [2025年广州医科大学呼吸疾病全国重点实验室2025年暑期大学生夏令营！](https://mp.weixin.qq.com/s/eEnST7GQ-gdoHhguwcg1ig) |
 
 <div align="center">
 <h3>海南大学</h3>
@@ -392,8 +393,6 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-06-15 | [2025年中国科学院天津工业生物技术研究所“新生物学与生物经济”2025年大学生夏令营招生简章](https://mp.weixin.qq.com/s/8QPr2qEnv4N0FhU4lb0iNg) |
-| 2025-06-15 | [2025年中国科学院大学杭州高等研究院分子医学院 2025年全国优秀大学生暑期夏令营报名通知](http://hias.ucas.ac.cn/fzyxy/info/1065/1782.htm) |
 | 2025-06-20 | [2025年中国科学院亚热带农业生态研究所“体验农业生态之旅”2025年暑期夏令营活动通知（第一轮）](https://isa.cas.cn/yjsb/kjrh/xly/202505/t20250521_7789049.html) |
 | 2025-06-20 | [2025年中国科学院广州生物医药与健康研究院第十九届“走进GIBH”大学生夏令营邀你启程](https://mp.weixin.qq.com/s/ZF8XVlvhSoekaA0qyc42KA) |
 | 2025-06-20 | [2025年中国科学院分子植物科学卓越创新中心“探索生命的多样性”暑期学校暨2026级推免生报名须知](http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202504/t20250408_7590567.html) |
@@ -408,6 +407,8 @@
 | 2025-06-30 | [2025年中国科学院昆明动物研究所2025年大学生夏令营报名公告](http://www.kiz.cas.cn/yjsjy/zsgz/sszs/202505/t20250523_7790629.html) |
 | 2025-06-30 | [2025年中国科学院遗传与发育生物学研究所农业资源研究中心“未来之星”大学生夏令营报名通知](https://mp.weixin.qq.com/s/hTcAO7hhLeRHGJnQaTP6sA) |
 | 2025-08-01 | [2025年中国科学院上海药物研究所“新药梦”优秀大学生夏令营营员招募通知](https://simm.cas.cn/web/yjsjy/zsgz/xdly/202504/t20250424_7611069.html) |
+| ~~2025-06-15~~ | [2025年中国科学院天津工业生物技术研究所“新生物学与生物经济”2025年大学生夏令营招生简章](https://mp.weixin.qq.com/s/8QPr2qEnv4N0FhU4lb0iNg) |
+| ~~2025-06-15~~ | [2025年中国科学院大学杭州高等研究院分子医学院 2025年全国优秀大学生暑期夏令营报名通知](http://hias.ucas.ac.cn/fzyxy/info/1065/1782.htm) |
 
 <div align="center">
 <h3>澳门大学</h3>
