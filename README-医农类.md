@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="99" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="98" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -92,6 +92,7 @@
 | 2025-07-03 | [2025年上海交通大学公共卫生学院2026年研究生招生全国优秀大学生夏令营报名通知](https://www.shsmu.edu.cn/sph/info/1016/3706.htm) |
 | 2025-07-03 | [2025年上海交通大学医学院松江研究院2025年全国优秀大学生夏令营报名启动通知](https://mp.weixin.qq.com/s/whLCypno3Am3WL_bVVYsmA) |
 | 2025-07-03 | [2025年上海交通大学农业与生物学院2026级“优才夏令营”实施方案](https://ga.sjtu.edu.cn/zsgl/xlygl/yxhdbfcxnr.aspx) |
+| 2025-07-06 | [2025年上海交通大学医学院附属瑞金医院2026年全国优秀大学生招生夏令营](https://www.rjh.com.cn/2018RJPortal/doc/2025/06/19/71142.shtml) |
 | 2025-07-06 | [2025年上海交通大学医学院医学技术学院2026年全国优秀大学生招生夏令营报名通知](https://www.shsmu.edu.cn/yxjsxy/info/1091/2937.htm) |
 | 2025-07-06 | [2025年上海交通大学医学院精神病与精神卫生学2026年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/zalRuYU9TpDM8EP6YISabw) |
 | 2025-07-16 | [2025年上海交通大学医学院附属第九人民医院精准医学研究院2026年全国优秀大学生暑期夏令营通知](http://www.shipm.cn/jyjz_web/html/DefaultSite/jyjz_kxyj_xshd/2025-06-12/Detail_1947.htm) |
@@ -341,6 +342,22 @@
 | ~~2025-06-15~~ | [2025年华中农业大学动物科学技术学院动物医学院第八届夏令营招生简章](https://my.hzau.edu.cn/info/1065/18033.htm) |
 
 <div align="center">
+<h3>南京医科大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-27 | [2025年南京医科大学护理学院2025年暑期开放日活动报名通知](https://hlxy.njmu.edu.cn/2025/0620/c11359a287573/page.htm) |
+
+<div align="center">
+<h3>南京农业大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-06-28 | [2025年南京农业大学动物科技学院2025年优秀大学生暑期夏令营的通知](https://dky.njau.edu.cn/info/1042/4541.htm) |
+
+<div align="center">
 <h3>暨南大学</h3>
 </div>
 
@@ -373,6 +390,7 @@
 |:------------:|:---------|
 | 2025-06-26 | [2025年西北农林科技大学园艺学院2025年优秀大学生夏令营活动工作方案](https://yyxy.nwsuaf.edu.cn/tzgg/cbe402a6ab764f8085db27f4aa6314d8.htm) |
 | 2025-06-27 | [2025年西北农林科技大学动物医学院2025年优秀大学生夏令营活动](https://dyxy.nwafu.edu.cn/tzgg/e8cfe628a9a84995bb2a0e08da644644.htm) |
+| 2025-07-06 | [2025年西北农林科技大学农学院2025年优秀大学生夏令营通知](https://nxy.nwsuaf.edu.cn/xytz/tzgg_xwzx/181af5bed6a54556a001cfaf898bb962.htm) |
 
 <div align="center">
 <h3>扬州大学</h3>

@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="99" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="98" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -346,6 +346,14 @@
 |:------------:|:---------|
 | 2025-06-26 | [2025年上海大学经济学院2026届暑期夏令营暨优秀本科生学术论坛](https://soe.shu.edu.cn/info/1192/42364.htm) |
 | ~~2025-06-07~~ | [2025年上海大学悉尼工商学院2025年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/NjvxfPAodhsAlzUAFUfbMg) |
+
+<div align="center">
+<h3>河海大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-07-02 | [2025年河海大学法学院2025年全国优秀大学生校园开放日及有关安排的通知](https://law.hhu.edu.cn/2025/0621/c6355a304705/page.htm) |
 
 <div align="center">
 <h3>深圳大学</h3>
