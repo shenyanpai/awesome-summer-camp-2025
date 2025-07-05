@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="86" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="85" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -237,6 +237,14 @@
 | ~~2025-06-30~~ | [2025年山东大学经济研究院关于举办“2025年全国优秀大学生 暑期夏令营”的通知](http://www.cer.sdu.edu.cn/info/1035/12291.htm) |
 
 <div align="center">
+<h3>西北工业大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-07-06 | [2025年西北工业大学管理学院2025年暑期校园开放日暨研究生招生宣传日活动方案](https://som.nwpu.edu.cn/info/1074/25136.htm) |
+
+<div align="center">
 <h3>厦门大学</h3>
 </div>
 
@@ -373,6 +381,14 @@
 | ~~2025-06-16~~ | [2025年华中农业大学经济管理学院2025年全国优秀大学生暑期夏令营活动的通知](https://mp.weixin.qq.com/s/DgoxeznFDenFEAShtvdncw) |
 
 <div align="center">
+<h3>郑州大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-07-12 | [2025年郑州大学管理学院2025年优秀大学生夏令营活动通知](https://www7.zzu.edu.cn/glxy/info/1049/6901.htm) |
+
+<div align="center">
 <h3>暨南大学</h3>
 </div>
 
@@ -417,6 +433,14 @@
 | ~~2025-07-02~~ | [2025年河海大学商学院2025年全国优秀大学生校园开放日及有关安排的通知](https://hhbs.hhu.edu.cn/2025/0624/c23086a304849/page.htm) |
 
 <div align="center">
+<h3>西南财经大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-08-31 | [2025年西南财经大学工商管理学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+
+<div align="center">
 <h3>中南财经政法大学</h3>
 </div>
 
@@ -431,8 +455,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-04 | [2025年深圳大学微众银行金融科技学院2026年“湾区（深圳）数字金融”暑期交流活动](https://mp.weixin.qq.com/s/n-Z8FntdE8Iuy1VtlP5P3w) |
 | 2025-07-06 | [2025年深圳大学管理学院暑期学校（2026）招生简章](https://mp.weixin.qq.com/s/YKtuU3w8Nm9nUmDpJKRs3Q) |
+| ~~2025-07-04~~ | [2025年深圳大学微众银行金融科技学院2026年“湾区（深圳）数字金融”暑期交流活动](https://mp.weixin.qq.com/s/n-Z8FntdE8Iuy1VtlP5P3w) |
 | ~~2025-07-01~~ | [2025年深圳大学中国经济特区研究中心2026年“经济学前沿理论与方法训练营” 暑期学校报名通知](https://mp.weixin.qq.com/s/Eox6YEWG0wA4wEx2tNG2-g) |
 
 <div align="center">
@@ -603,7 +627,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-04 | [2025年北京信息科技大学管理科学与工程学院AI赋能的管理、经济与传播2025夏令营通知](https://yanjiusheng.bistu.edu.cn/docs/2025-06/14dc3df8152646bf9f04bdce5ec108e7.pdf) |
+| ~~2025-07-04~~ | [2025年北京信息科技大学管理科学与工程学院AI赋能的管理、经济与传播2025夏令营通知](https://yanjiusheng.bistu.edu.cn/docs/2025-06/14dc3df8152646bf9f04bdce5ec108e7.pdf) |
 
 <div align="center">
 <h3>天津财经大学</h3>
@@ -627,7 +651,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-04 | [2025年重庆理工大学经济金融学院“相约山水重庆 聚首经金论道“经济金融学院2025年优秀本科生暑期夏令营”报名](https://mp.weixin.qq.com/s/fUlvtc-ncznIJQsgKjj_sQ) |
+| ~~2025-07-04~~ | [2025年重庆理工大学经济金融学院“相约山水重庆 聚首经金论道“经济金融学院2025年优秀本科生暑期夏令营”报名](https://mp.weixin.qq.com/s/fUlvtc-ncznIJQsgKjj_sQ) |
 
 <div align="center">
 <h3>北京第二外国语学院</h3>
