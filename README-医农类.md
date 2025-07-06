@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="85" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="84" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,9 +47,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-05 | [2025年北京大学人民医院2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/sBWLOWLPBZGOtrhE_6F2EQ) |
-| 2025-07-05 | [2025年北京大学人民医院关于举办“2025年全国优秀大学生夏令营”的通知](https://www.pkuph.cn/jyjx_jxxw_info/27965.html) |
 | 2025-07-07 | [2025年北京大学第六医院关于举办“2025年全国优秀大学生夏令营”的通知](https://pkuh6.cn/Html/News/Articles/6652.html?WebVisitShield=EPWcvX6ICx8Sd1PpZXNh) |
+| ~~2025-07-05~~ | [2025年北京大学人民医院2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/sBWLOWLPBZGOtrhE_6F2EQ) |
+| ~~2025-07-05~~ | [2025年北京大学人民医院关于举办“2025年全国优秀大学生夏令营”的通知](https://www.pkuph.cn/jyjx_jxxw_info/27965.html) |
 | ~~2025-07-02~~ | [2025年北京大学第一医院关于举办“2025年全国优秀大学生夏令营”的通知](https://www.pkufh.com/Html/News/Articles/62699.html) |
 | ~~2025-07-01~~ | [2025年北京大学第三临床医学院关于举办“2025年全国优秀大学生夏令营”的通知](https://mp.weixin.qq.com/s/cV20AI00w22enSs2h-qVrw) |
 | ~~2025-06-25~~ | [2025年北京大学肿瘤医院关于举办“2024年全国优秀大学生夏令营”的通知](https://mp.weixin.qq.com/s/AUoPITAAYYAm8-9KJNAOAg) |
@@ -543,6 +543,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-07-18 | [2025年华南农业大学农学院关于举办2025年优秀大学生夏令营的通知](https://nxy.scau.edu.cn/2025/0704/c14465a413336/page.htm) |
 | ~~2025-06-25~~ | [2025年华南农业大学兽医学院第十届优秀大学生夏令营的通知](https://mp.weixin.qq.com/s/pdh6p6nVtipk_-2NhdFERQ) |
 
 <div align="center">
@@ -551,6 +552,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-07-20 | [2025年上海中医药大学光华临床医学院暑期学校活动通知](https://www.ghhospital.com.cn/tzggMK/info_87.aspx?itemid=899) |
 | ~~2025-07-02~~ | [2025年上海中医药大学中药研究所2025年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/F2Qx6aVRXrJk0TihqiECnA) |
 | ~~2025-06-30~~ | [2025年上海中医药大学中西医结合学院全国优秀大学生暑期夏令营活动通知](https://aimshutcm.shutcm.edu.cn/2025/0625/c5913a168031/page.htm) |
 | ~~2025-06-30~~ | [2025年上海中医药大学中西医结合学院全国优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/TMp75UKyfhG1jNnIt0uHtg) |
@@ -570,6 +572,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-07-07 | [2025年温州医科大学药学院优秀大学生暑期夏令营活动通知](https://yxy.wmu.edu.cn/info/1146/14988.htm) |
+| 2025-07-12 | [2025年温州医科大学护理学院优秀大学生暑期夏令营活动通知](https://hlxy.wmu.edu.cn/info/1037/15057.htm) |
 | ~~2025-07-02~~ | [2025年温州医科大学精神医学学院2025年全国优秀大学生夏令营活动通知](https://jsyx.wmu.edu.cn/info/2045/18671.htm) |
 | ~~2025-06-30~~ | [2025年温州医科大学康复医学院关于举办“2025年优秀大学生夏令营”的通知](https://mp.weixin.qq.com/s/VcdUQi0z3jY9Ef_ZGHtvrw) |
 
@@ -619,7 +622,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-05 | [2025年山东农业大学农学院2025年全国优秀大学生夏令营活动通知](http://agronomy.sdau.edu.cn/2025/0624/c1315a257477/page.htm) |
+| ~~2025-07-05~~ | [2025年山东农业大学农学院2025年全国优秀大学生夏令营活动通知](http://agronomy.sdau.edu.cn/2025/0624/c1315a257477/page.htm) |
 | ~~2025-07-01~~ | [2025年山东农业大学动物科技学院2025年全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/tnncVnx4dU8LWEfmUfveBw) |
 
 <div align="center">
@@ -655,7 +658,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-05 | [2025年吉林农业大学中药材学院2025年大学生暑期夏令营开启报名](https://mp.weixin.qq.com/s/GHVI7VxNuBDhPAxGJgAjiw) |
+| ~~2025-07-05~~ | [2025年吉林农业大学中药材学院2025年大学生暑期夏令营开启报名](https://mp.weixin.qq.com/s/GHVI7VxNuBDhPAxGJgAjiw) |
 
 <div align="center">
 <h3>山东第一医科大学</h3>
@@ -663,14 +666,23 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-05 | [2025年山东第一医科大学医学科技创新中心2025年优秀大学生暑期学术夏令营招生简章](https://mp.weixin.qq.com/s/mHPJkJ6gPlv8ucYGksrIhw) |
-| 2025-07-05 | [2025年山东第一医科大学附属中心医院2025年研究生招生暑期夏令营活动通知](https://yz.sdfmu.edu.cn/info/1017/3275.htm) |
 | 2025-07-06 | [2025年山东第一医科大学放射学院2025年研究生招生暑期夏令营活动通知](https://yz.sdfmu.edu.cn/info/1017/3275.htm) |
 | 2025-07-12 | [2025年山东第一医科大学附属眼科研究所2025年研究生招生暑期夏令营活动通知](https://yz.sdfmu.edu.cn/info/1017/3275.htm) |
 | 2025-07-14 | [2025年山东第一医科大学脑科学与类脑研究院2025年研究生招生暑期夏令营活动通知](https://yz.sdfmu.edu.cn/info/1017/3275.htm) |
 | 2025-07-18 | [2025年山东第一医科大学附属肿瘤医院2025年研究生招生暑期夏令营活动通知](https://yz.sdfmu.edu.cn/info/1017/3275.htm) |
 | 2025-07-27 | [2025年山东第一医科大学第一附属医院2025年研究生招生暑期夏令营活动通知](https://yz.sdfmu.edu.cn/info/1017/3275.htm) |
 | 暂无 | [2025年山东第一医科大学生物医学科学学院2025年研究生招生暑期夏令营活动通知](https://yz.sdfmu.edu.cn/info/1017/3275.htm) |
+| ~~2025-07-05~~ | [2025年山东第一医科大学医学科技创新中心2025年优秀大学生暑期学术夏令营招生简章](https://mp.weixin.qq.com/s/mHPJkJ6gPlv8ucYGksrIhw) |
+| ~~2025-07-05~~ | [2025年山东第一医科大学附属中心医院2025年研究生招生暑期夏令营活动通知](https://yz.sdfmu.edu.cn/info/1017/3275.htm) |
+
+<div align="center">
+<h3>山东中医药大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-07-15 | [2025年山东中医药大学中医学院、中医药创新研究院2025年优秀大学生暑期学术夏令营活动通知](https://mp.weixin.qq.com/s/FQoqtw4wi_SaLHaku9am8A) |
+| 2025-07-18 | [2025年山东中医药大学眼科与视光医学院2025年优秀大学生暑期学术夏令营活动通知](https://mp.weixin.qq.com/s/KMtrw1UqERhBrwEKrm-F1w) |
 
 <div align="center">
 <h3>新乡医学院</h3>
@@ -678,7 +690,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-05 | [2025年河南医药大学健康中原研究院2025年大学生暑期夏令营活动招生简章](https://www.xxmu.edu.cn/jkzyyjy/info/1088/1668.htm) |
+| ~~2025-07-05~~ | [2025年河南医药大学健康中原研究院2025年大学生暑期夏令营活动招生简章](https://www.xxmu.edu.cn/jkzyyjy/info/1088/1668.htm) |
 
 <div align="center">
 <h3>中国科学院大学</h3>
@@ -720,6 +732,19 @@
 | ~~2025-04-17~~ | [2025年澳门大学健康科学学院2025年内地优秀大学生健康科学夏令营](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA) |
 
 <div align="center">
+<h3>中国农业科学院</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-07-10 | [2025年中国农业科学院茶叶研究所2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/PF9IuchJdFYBuvivezoB0A) |
+| 2025-07-10 | [2025年中国农业科学院上海兽医研究所2025年全国优秀大学生学术活动开放日通知](https://www.shvri.ac.cn/zhxw/zhxwtzgg/a99115b94111497eaf20f8b01f539cd5.htm) |
+| 2025-07-14 | [2025年中国农业科学院作物科学研究所2025年大学生暑期夏令营活动通知](http://icscaas.com.cn/xwdt/tzgg/359cd49b9d6e414980886417392343f6.htm) |
+| ~~2025-06-30~~ | [2025年中国农业科学院哈尔滨兽医研究所2025年全国优秀大学生学术活动开放日通知](https://中国农业科学院) |
+| ~~2025-06-30~~ | [2025年中国农业科学院哈尔滨兽医研究所全国优秀大学生暑期夏令营通知（第一轮）](https://hvri.caas.cn/xwzh/tzggtzgg/b6a6819789784a2abd6299848f0800be.htm) |
+| ~~2025-06-25~~ | [2025年中国农业科学院兰州兽医研究所2025年优秀大学生暑期夏令营招募通知](https://lvri.caas.cn/xxzx/tzgg/4a1b8ae8deb042dab4c4cd535633dbbd.htm) |
+
+<div align="center">
 <h3>中国中医科学院</h3>
 </div>
 
@@ -733,18 +758,6 @@
 | 2025-07-08 | [2025年中国中医科学院望京医院2025年“呦呦鹿鸣”暑期夏令营的通知](https://mp.weixin.qq.com/s/XFCZglIITnb1wSSmxOwhUA) |
 | 2025-07-09 | [2025年中国中医科学院广安门医院第五届“呦呦鹿鸣”全国优秀大学生夏令营开始报名](https://mp.weixin.qq.com/s/6XFfyx5u37epd_Mz-ZZ9Hg) |
 | 2025-07-11 | [2025年中国中医科学院中医临床基础医学研究所（中国中医药循证医学中心）关于举办2025年“呦呦鹿鸣”全国优秀大学生夏令营的通知](https://mp.weixin.qq.com/s/IIiHytC46nH2rignYeuAAw) |
-
-<div align="center">
-<h3>中国农业科学院</h3>
-</div>
-
-| 截止时间 | 通知 |
-|:------------:|:---------|
-| 2025-07-10 | [2025年中国农业科学院茶叶研究所2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/PF9IuchJdFYBuvivezoB0A) |
-| 2025-07-10 | [2025年中国农业科学院上海兽医研究所2025年全国优秀大学生学术活动开放日通知](https://www.shvri.ac.cn/zhxw/zhxwtzgg/a99115b94111497eaf20f8b01f539cd5.htm) |
-| ~~2025-06-30~~ | [2025年中国农业科学院哈尔滨兽医研究所2025年全国优秀大学生学术活动开放日通知](https://中国农业科学院) |
-| ~~2025-06-30~~ | [2025年中国农业科学院哈尔滨兽医研究所全国优秀大学生暑期夏令营通知（第一轮）](https://hvri.caas.cn/xwzh/tzggtzgg/b6a6819789784a2abd6299848f0800be.htm) |
-| ~~2025-06-25~~ | [2025年中国农业科学院兰州兽医研究所2025年优秀大学生暑期夏令营招募通知](https://lvri.caas.cn/xxzx/tzgg/4a1b8ae8deb042dab4c4cd535633dbbd.htm) |
 
 <div align="center">
 <h3>中国疾病预防控制中心</h3>
