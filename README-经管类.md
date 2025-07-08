@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="82" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="81" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -623,6 +623,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-07-09 | [2025年北京建筑大学城市经济与管理学院2025年全国优秀大学生开放日活动通知](https://jingguan.bucea.edu.cn/tzgg/d1aebe79ecc943858d01bd1af87f34d7.htm) |
 | 2025-07-09 | [2025年北京建筑大学城市经济与管理学院2025年全国优秀大学生夏令营活动通知](https://jingguan.bucea.edu.cn/tzgg/029067ac3ccb4f6786dd55bf3a9a4bf0.htm) |
 
 <div align="center">

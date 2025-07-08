@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="82" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="81" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -57,6 +57,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-08-10 | [2025年北京大学法学院关于举办“2025年全国优秀大学生夏令营”的通知](https://www.law.pku.edu.cn/sjb/xwzx/ggtz/zsjx/8834d492b1574b6b8bbdd1d2ab4d2181.htm) |
 | 暂无 | [2025年北京大学国际法学院全国优秀大学生夏令营预报名](https://stl.pku.edu.cn/cn/admissions/83/shp.html) |
 | ~~2025-06-23~~ | [2025年北京大学信息管理系关于举办“2025年优秀大学生夏令营”活动的通知](http://www.im.pku.edu.cn/zsxm/ssxm/390140.htm) |
 | ~~2025-06-23~~ | [2025年北京大学医学人文学院关于举办“2025年全国优秀大学生夏令营”的通知](https://shh.bjmu.edu.cn/tzgg2/92f833c4f592411da5a06a392aa7700b.htm) |
@@ -300,6 +301,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-07-15 | [2025年吉林大学外国语言文化学院2025年“学术活动开放日“通知](https://sflc.jlu.edu.cn/info/1096/9773.htm) |
 | 2025-08-26 | [2025年吉林大学公共外交学院、国家发展与安全研究院“2025年校园学术活动开放日”通知](https://sipa.jlu.edu.cn/info/1044/8482.htm) |
 | ~~2025-06-27~~ | [2025年吉林大学东北亚学院“2025年校园学术活动开放日”通知](https://nasa.jlu.edu.cn/info/1082/6209.htm) |
 | ~~2025-06-23~~ | [2025年吉林大学行政学院2026年招收优秀应届本科毕业生直接攻读博士学位研究生校内预选综合考核实施细则](https://adm.jlu.edu.cn/info/1109/29379.htm) |

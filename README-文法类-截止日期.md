@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="82" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="81" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -45,22 +45,24 @@
 |:------------:|:---------|:---------|
 | 2025-07-09 | 北京体育大学 | [2025年北京体育大学艺术学院2025年优秀大学生暑期夏令营实施方案](https://zs.bsu.edu.cn/docs/2025-07/506b2b6b4ab04298b13f612a79aff165.pdf) |
 | 2025-07-09 | 北京建筑大学 | [2025年北京建筑大学马克思主义学院 2025年全国优秀大学生夏令营活动方案](https://mayuan.bucea.edu.cn/tzgg2/defcdb98ff474f4792f713c0ecd677b6.htm) |
-| 2025-07-10 | 北京第二外国语学院 | [2025年北京第二外国语学院中东学院关于举办“2025年全国优秀大学生研学夏令营”的通知](https://yanzhao.bisu.edu.cn/content/WS6859111fcf1efc5625c71dc4.html) |
-| 2025-07-10 | 北京理工大学 | [2025年北京理工大学法学院2025年“智慧法治人才培养”暑期夏令营招生简章](https://law.bit.edu.cn/tzgg/36de6f657963471e98053b2e40f7ccb6.htm) |
-| 2025-07-10 | 北京交通大学 | [2025年北京交通大学马克思主义学院2025年“全国优秀大学生夏令营”活动](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fmkszyxy.bjtu.edu.cn%2Fdocs%2F2025-06%2Ff536710861e74057a4fd730cc7e8ec2b.doc&wdOrigin=BROWSELINK) |
-| 2025-07-10 | 国防科技大学 | [2025年国防科技大学外国语学院2025年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14511) |
-| 2025-07-10 | 河南大学 | [2025年河南大学法学院2026年优秀研究生生源夏令营招募通知](https://fxy.henu.edu.cn/info/1212/12248.htm) |
-| 2025-07-10 | 山西大学 | [2025年山西大学外国语学院关于举办2025年“优秀大学生暑期夏令营”活动的通知](https://mp.weixin.qq.com/s/nqTqKuC3Kx8FFct19usyhg) |
 | 2025-07-10 | 上海理工大学 | [2025年上海理工大学出版学院2025年全国出版学青年学者和优秀大学生学术夏令营招生通知](https://ccad.usst.edu.cn/2025/0620/c11900a343821/page.htm) |
+| 2025-07-10 | 北京第二外国语学院 | [2025年北京第二外国语学院中东学院关于举办“2025年全国优秀大学生研学夏令营”的通知](https://yanzhao.bisu.edu.cn/content/WS6859111fcf1efc5625c71dc4.html) |
+| 2025-07-10 | 河南大学 | [2025年河南大学法学院2026年优秀研究生生源夏令营招募通知](https://fxy.henu.edu.cn/info/1212/12248.htm) |
 | 2025-07-10 | 西安建筑科技大学 | [2025年西安建筑科技大学马克思主义学院关于举办2025年优秀大学生暑期夏令营的通知](https://mkszyxy.xauat.edu.cn/info/1063/5992.htm) |
+| 2025-07-10 | 北京理工大学 | [2025年北京理工大学法学院2025年“智慧法治人才培养”暑期夏令营招生简章](https://law.bit.edu.cn/tzgg/36de6f657963471e98053b2e40f7ccb6.htm) |
+| 2025-07-10 | 山西大学 | [2025年山西大学外国语学院关于举办2025年“优秀大学生暑期夏令营”活动的通知](https://mp.weixin.qq.com/s/nqTqKuC3Kx8FFct19usyhg) |
+| 2025-07-10 | 国防科技大学 | [2025年国防科技大学外国语学院2025年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14511) |
+| 2025-07-10 | 北京交通大学 | [2025年北京交通大学马克思主义学院2025年“全国优秀大学生夏令营”活动](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fmkszyxy.bjtu.edu.cn%2Fdocs%2F2025-06%2Ff536710861e74057a4fd730cc7e8ec2b.doc&wdOrigin=BROWSELINK) |
 | 2025-07-12 | 南开大学 | [2025年南开大学历史学院第九届全国优秀大学生夏令营](https://history.nankai.edu.cn/2025/0626/c16064a574504/page.htm) |
 | 2025-07-13 | 哈尔滨工程大学 | [2025年哈尔滨工程大学人文社会科学学院 2025年“全国优秀大学生夏令营”活动实施方案](https://shss.hrbeu.edu.cn/2025/0703/c9220a339525/page.htm) |
-| 2025-07-15 | 山东中医药大学 | [2025年山东中医药大学中医文献与文化研究院2025年优秀大学生暑期学术夏令营活动通知](https://mp.weixin.qq.com/s/qV3p5qyY-JCg2ptTK7OxKg) |
 | 2025-07-15 | 华东政法大学 | [2025年华东政法大学涉外法治研究院区域国别法治研究中心第一届“区域国别法治与全球治理”学术夏令营招生公告](https://mp.weixin.qq.com/s/r-sSnUR_i_mZLdH3wtdjLA) |
+| 2025-07-15 | 山东中医药大学 | [2025年山东中医药大学中医文献与文化研究院2025年优秀大学生暑期学术夏令营活动通知](https://mp.weixin.qq.com/s/qV3p5qyY-JCg2ptTK7OxKg) |
+| 2025-07-15 | 吉林大学 | [2025年吉林大学外国语言文化学院2025年“学术活动开放日“通知](https://sflc.jlu.edu.cn/info/1096/9773.htm) |
 | 2025-07-20 | 中国社会科学院大学 | [2025年中国社会科学院大学外国语学院2025年全国优秀大学生夏令营方案](https://sfl.ucass.edu.cn/info/1017/1813.htm) |
 | 2025-08-01 | 东南大学 | [2025年东南大学法学院2025年全国优秀大学生夏令营活动报名通知](https://law.seu.edu.cn/2025/0701/c9381a534732/page.htm) |
-| 2025-08-10 | 南京大学 | [2025年南京大学政府管理学院2025年全国优秀大学生开放日公告](https://public.nju.edu.cn/sy/tzgg/20250701/i325004.html) |
+| 2025-08-10 | 北京大学 | [2025年北京大学法学院关于举办“2025年全国优秀大学生夏令营”的通知](https://www.law.pku.edu.cn/sjb/xwzx/ggtz/zsjx/8834d492b1574b6b8bbdd1d2ab4d2181.htm) |
 | 2025-08-10 | 东南大学 | [2025年东南大学马克思主义学院2025年全国优秀大学生夏令营活动报名通知](https://marxism.seu.edu.cn/2025/0627/c23336a534559/page.htm) |
+| 2025-08-10 | 南京大学 | [2025年南京大学政府管理学院2025年全国优秀大学生开放日公告](https://public.nju.edu.cn/sy/tzgg/20250701/i325004.html) |
 | 2025-08-15 | 东南大学 | [2025年东南大学人文学院2025年全国优秀大学生夏令营活动报名通知](https://rwxy.seu.edu.cn/2025/0703/c12625a534903/pagem.htm) |
 | 2025-08-15 | 南京师范大学 | [2025年南京师范大学法学院2025年优秀本科生“学院开放日”活动公告](https://law.njnu.edu.cn/info/1032/6445.htm) |
 | 2025-08-19 | 东南大学 | [2025年东南大学外国语学院2025年全国优秀大学生夏令营活动报名通知](https://sfl.seu.edu.cn/2025/0703/c9828a534918/pagem.htm) |

@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="82" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="81" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -43,6 +43,7 @@
 
 | 截止时间 | 学校名称 | 通知 |
 |:------------:|:---------|:---------|
+| 2025-07-09 | 北京建筑大学 | [2025年北京建筑大学城市经济与管理学院2025年全国优秀大学生开放日活动通知](https://jingguan.bucea.edu.cn/tzgg/d1aebe79ecc943858d01bd1af87f34d7.htm) |
 | 2025-07-09 | 北京建筑大学 | [2025年北京建筑大学城市经济与管理学院2025年全国优秀大学生夏令营活动通知](https://jingguan.bucea.edu.cn/tzgg/029067ac3ccb4f6786dd55bf3a9a4bf0.htm) |
 | 2025-07-10 | 河海大学 | [2025年河海大学经济与金融学院2025年全国优秀大学生校园开放日及有关安排的通知](https://jjxy.hhu.edu.cn/2025/0625/c20380a304877/page.htm) |
 | 2025-07-11 | 大连理工大学 | [2025年大连理工大学经济管理学院2026年暑期优秀大学生研学营通知](https://mp.weixin.qq.com/s/D2rekVjCwkl0b1JPQgS8ZQ) |
