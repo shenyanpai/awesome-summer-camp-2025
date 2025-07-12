@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="79" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="78" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -279,7 +279,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-11 | [2025年大连理工大学经济管理学院2026年暑期优秀大学生研学营通知](https://sem.dlut.edu.cn/info/1006/21540.htm) |
+| ~~2025-07-11~~ | [2025年大连理工大学经济管理学院2026年暑期优秀大学生研学营通知](https://sem.dlut.edu.cn/info/1006/21540.htm) |
 
 <div align="center">
 <h3>华东师范大学</h3>
@@ -523,7 +523,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-11 | [2025年南京邮电大学经济学院关于举办2025年全国优秀大学生暑期夏令营的通知](https://jjxy.njupt.edu.cn/2025/0708/c6292a287094/page.htm) |
+| ~~2025-07-11~~ | [2025年南京邮电大学经济学院关于举办2025年全国优秀大学生暑期夏令营的通知](https://jjxy.njupt.edu.cn/2025/0708/c6292a287094/page.htm) |
 
 <div align="center">
 <h3>上海外国语大学</h3>
@@ -591,6 +591,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 暂无 | [2025年首都经济贸易大学城市经济与公共管理学院关于举办“2025年全国优秀大学生夏令营”活动的通知](https://mp.weixin.qq.com/s/UVqZEICVK5U-BJZW9gHQgQ) |
 | ~~2025-07-07~~ | [2025年首都经济贸易大学国际经济管理学院第九届优秀大学生夏令营](https://mp.weixin.qq.com/s/fo1dzaTWTGb2ogcHHXqhoQ) |
 
 <div align="center">

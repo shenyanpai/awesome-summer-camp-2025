@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="79" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="78" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,6 +47,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-07-24 | [2025年北京大学口腔医学院关于举办“2025年全国优秀大学生夏令营”的通知](https://ss.bjmu.edu.cn/Html/News/Articles/6401.html) |
 | ~~2025-07-07~~ | [2025年北京大学第六医院关于举办“2025年全国优秀大学生夏令营”的通知](https://pkuh6.cn/Html/News/Articles/6652.html?WebVisitShield=EPWcvX6ICx8Sd1PpZXNh) |
 | ~~2025-07-05~~ | [2025年北京大学人民医院2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/sBWLOWLPBZGOtrhE_6F2EQ) |
 | ~~2025-07-05~~ | [2025年北京大学人民医院关于举办“2025年全国优秀大学生夏令营”的通知](https://www.pkuph.cn/jyjx_jxxw_info/27965.html) |
@@ -87,6 +88,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-07-16 | [2025年上海交通大学医学院附属第九人民医院精准医学研究院2026年全国优秀大学生暑期夏令营通知](http://www.shipm.cn/jyjz_web/html/DefaultSite/jyjz_kxyj_xshd/2025-06-12/Detail_1947.htm) |
+| 2025-07-20 | [2025年上海交通大学口腔医学院2025年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/V4ZIXxGwFLUt-3nHFFYsgg) |
 | 2025-07-27 | [2025年上海交通大学医学院附属上海儿童医学中心2026年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/Pkt9WDBYSRpASFZNPsdXBg) |
 | 2025-08-07 | [2025年上海交通大学医学院附属同仁医院举办2025年研究生招生夏令营的通知](https://www.shtrhospital.com/graduate/info_189.aspx?itemid=4776) |
 | ~~2025-07-08~~ | [2025年上海交通大学医学院附属第一人民医院上海市第一人民医院2025年全国优秀大学生夏令营招募通知](https://firsthospital.m-edu.com/shsy/html/detailed2.html?Key=xXYzQhT6KEU%3D&type=1) |
@@ -177,6 +179,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-07-21 | [2025年中山大学附属第七医院2025年全国优秀大学生夏令营报名通知](https://www.sysush.com/content/1e33ca76-de82-4c6e-880b-97f1b1213f27) |
 | ~~2025-07-10~~ | [2025年中山大学附属第八医院2025年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/i1ak4yhRne4iihvhMP3KwQ) |
 | ~~2025-06-30~~ | [2025年中山大学药学院2025年全国优秀大学生夏令营活动报名通知](https://sps.sysu.edu.cn/article/12264) |
 | ~~2025-06-24~~ | [2025年中山大学生物医学工程学院 2025年优秀大学生夏令营报名通知](https://bme.sysu.edu.cn/noticezs/1419281.htm) |
@@ -264,7 +267,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-11 | [2025年山东大学妇儿与生殖健康研究院暨山东大学附属生殖医院第八届STAR全国优秀大学生夏令营第二轮通知](https://qlyxjxgl.sdu.edu.cn/info/2003/16107.htm) |
+| ~~2025-07-11~~ | [2025年山东大学妇儿与生殖健康研究院暨山东大学附属生殖医院第八届STAR全国优秀大学生夏令营第二轮通知](https://qlyxjxgl.sdu.edu.cn/info/2003/16107.htm) |
 | ~~2025-06-30~~ | [2025年山东大学护理与康复学院关于举办“2025年全国优秀大学生暑期夏令营”活动的通知](https://www.nursing.sdu.edu.cn/info/1064/5390.htm) |
 | ~~2025-06-30~~ | [2025年山东大学妇儿与生殖健康研究院暨山东大学附属生殖医院第八届STAR全国优秀大学生夏令营通知](https://qlyxjxgl.sdu.edu.cn/info/2003/16085.htm) |
 | ~~2025-06-30~~ | [2025年山东大学第二医院（第二临床学院）2025年全国优秀大学生夏令营活动通知](https://qlyxjxgl.sdu.edu.cn/info/2003/16081.htm) |
@@ -672,6 +675,7 @@
 |:------------:|:---------|
 | 2025-07-12 | [2025年安徽医科大学第二临床医学院（第二附属医院）2025年全国优秀大学生暑期夏令营招生通知](https://mp.weixin.qq.com/s/LxLfC6FqkvWCXGG4nb-Nog) |
 | 2025-07-12 | [2025年安徽医科大学公共卫生学院2025年全国优秀大学生暑期夏令营招生通知](https://mp.weixin.qq.com/s/1na4fQIcPsmlmbB-zCYOLw) |
+| 2025-07-31 | [2025年安徽医科大学口腔医学院2025年全国优秀大学生暑期夏令营招生通知](https://mp.weixin.qq.com/s/xZVeeGgmWyZcv5_lWvszpw) |
 | ~~2025-07-10~~ | [2025年安徽医科大学第一临床医学院（第一附属医院）2025年全国优秀大学生暑期夏令营招生通知](https://mp.weixin.qq.com/s/mW9bGPCOt0z1CMZeuEfwqA) |
 | ~~2025-07-08~~ | [2025年安徽医科大学精神卫生与心理科学学院心理与脑科学2025年全国优秀大学生暑期夏令营招生通知](https://mp.weixin.qq.com/s/reiJYA9gXRWjNPJ9C3ZIzw) |
 | ~~2025-07-06~~ | [2025年安徽医科大学基础医学院2025年全国优秀大学生暑期夏令营招生通知](https://mp.weixin.qq.com/s/ic0eG5iQB7NVKWZobYp6Rw) |
@@ -789,7 +793,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-11 | [2025年中国中医科学院中医临床基础医学研究所（中国中医药循证医学中心）关于举办2025年“呦呦鹿鸣”全国优秀大学生夏令营的通知](https://mp.weixin.qq.com/s/IIiHytC46nH2rignYeuAAw) |
+| ~~2025-07-11~~ | [2025年中国中医科学院中医临床基础医学研究所（中国中医药循证医学中心）关于举办2025年“呦呦鹿鸣”全国优秀大学生夏令营的通知](https://mp.weixin.qq.com/s/IIiHytC46nH2rignYeuAAw) |
 | ~~2025-07-09~~ | [2025年中国中医科学院广安门医院第五届“呦呦鹿鸣”全国优秀大学生夏令营开始报名](https://mp.weixin.qq.com/s/6XFfyx5u37epd_Mz-ZZ9Hg) |
 | ~~2025-07-08~~ | [2025年中国中医科学院望京医院2025年“呦呦鹿鸣”暑期夏令营的通知](https://mp.weixin.qq.com/s/XFCZglIITnb1wSSmxOwhUA) |
 | ~~2025-07-07~~ | [2025年中国中医科学院中医药健康产业研究所2025年“呦呦鹿鸣”全国优秀大学生夏令营开始招募](https://mp.weixin.qq.com/s/3aeag6ownqMO3zLI4EH84Q) |
