@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="78" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="76" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -410,7 +410,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-12 | [2025年郑州大学管理学院2025年优秀大学生夏令营活动通知](https://www7.zzu.edu.cn/glxy/info/1049/6901.htm) |
+| ~~2025-07-12~~ | [2025年郑州大学管理学院2025年优秀大学生夏令营活动通知](https://www7.zzu.edu.cn/glxy/info/1049/6901.htm) |
 
 <div align="center">
 <h3>暨南大学</h3>
@@ -497,8 +497,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-13 | [2025年东华大学旭日工商管理学院2025年MPAcc/MEM/MF/MIB/全国优秀大学生夏令营活动通知](https://mba.dhu.edu.cn/index.php/index/show?id=3226&catname=recruit) |
-| 2025-07-13 | [2025年东华大学旭日工商管理学院2025年全国优秀大学生夏令营活动通知（专硕）](https://glxy.dhu.edu.cn/2025/0627/c20141a363302/page.htm) |
+| ~~2025-07-13~~ | [2025年东华大学旭日工商管理学院2025年MPAcc/MEM/MF/MIB/全国优秀大学生夏令营活动通知](https://mba.dhu.edu.cn/index.php/index/show?id=3226&catname=recruit) |
+| ~~2025-07-13~~ | [2025年东华大学旭日工商管理学院2025年全国优秀大学生夏令营活动通知（专硕）](https://glxy.dhu.edu.cn/2025/0627/c20141a363302/page.htm) |
 | ~~2025-07-07~~ | [2025年东华大学旭日工商管理学院2025年全国优秀大学生夏令营活动通知（学硕）](https://glxy.dhu.edu.cn/2025/0626/c20141a363275/page.htm) |
 
 <div align="center">
@@ -616,7 +616,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-13 | [2025年成都理工大学管理科学学院2025年优秀大学生暑期夏令营招生通知](https://cim.cdut.edu.cn/info/1098/5668.htm) |
+| ~~2025-07-13~~ | [2025年成都理工大学管理科学学院2025年优秀大学生暑期夏令营招生通知](https://cim.cdut.edu.cn/info/1098/5668.htm) |
 
 <div align="center">
 <h3>上海体育大学</h3>

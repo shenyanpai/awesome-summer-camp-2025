@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="78" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="76" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -266,7 +266,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-12 | [2025年南开大学历史学院第九届全国优秀大学生夏令营](https://history.nankai.edu.cn/2025/0626/c16064a574504/page.htm) |
+| ~~2025-07-12~~ | [2025年南开大学历史学院第九届全国优秀大学生夏令营](https://history.nankai.edu.cn/2025/0626/c16064a574504/page.htm) |
 
 <div align="center">
 <h3>山东大学</h3>
@@ -403,7 +403,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-13 | [2025年哈尔滨工程大学人文社会科学学院 2025年“全国优秀大学生夏令营”活动实施方案](https://shss.hrbeu.edu.cn/2025/0703/c9220a339525/page.htm) |
+| ~~2025-07-13~~ | [2025年哈尔滨工程大学人文社会科学学院 2025年“全国优秀大学生夏令营”活动实施方案](https://shss.hrbeu.edu.cn/2025/0703/c9220a339525/page.htm) |
 
 <div align="center">
 <h3>东北师范大学</h3>
@@ -707,6 +707,15 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | ~~2025-06-20~~ | [2025年江西财经大学公共管理学院2025年优秀大学生夏令营简章](https://ggxy.jxufe.edu.cn/news-show-2071.html) |
+
+<div align="center">
+<h3>北京语言大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-07-16 | [2025年北京语言大学外国语言文化学院外国语言文学类2025年“全国优秀大学生暑期夏令营”活动通知](https://mp.weixin.qq.com/s/_pYcfMgmiV8pwj6ZRigXLQ) |
+| 2025-07-25 | [2025年北京语言大学外国语言文化学院区域国别学大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/KPCFUPxUtuGLq9_092snsA) |
 
 <div align="center">
 <h3>华东政法大学</h3>
