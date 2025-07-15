@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="76" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="75" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -358,7 +358,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-14 | [2025年南京理工大学外国语学院2025年校园开放日活动公告](https://mp.weixin.qq.com/s/puvCoLthqX4-ouhPZVYi-g) |
+| ~~2025-07-14~~ | [2025年南京理工大学外国语学院2025年校园开放日活动公告](https://mp.weixin.qq.com/s/puvCoLthqX4-ouhPZVYi-g) |
 | ~~2025-07-06~~ | [2025年南京理工大学知识产权学院2025年未来知识产权领军者暑期交流活动公告](https://zscq.njust.edu.cn/61/86/c2203a352646/page.htm) |
 
 <div align="center">
@@ -681,7 +681,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-14 | [2025年大连海事大学法学院2025年优秀大学生校园学术开放日活动招募通知](https://law.dlmu.edu.cn/info/1164/58551.htm) |
+| ~~2025-07-14~~ | [2025年大连海事大学法学院2025年优秀大学生校园学术开放日活动招募通知](https://law.dlmu.edu.cn/info/1164/58551.htm) |
 
 <div align="center">
 <h3>西安建筑科技大学</h3>
@@ -796,7 +796,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| ~~2025-07-01~~ | [2025年三峡大学马克思主义学院 关于举办2025年优秀大学生暑期学术夏令营的通知](https://sxdxmkszyxy.ctgu.edu.cn/info/1521/23041.htm) |
+| ~~2025-07-01~~ | [2025年三峡大学马克思主义学院关于举办2025年优秀大学生暑期学术夏令营的通知](https://sxdxmkszyxy.ctgu.edu.cn/info/1521/23041.htm) |
 
 <div align="center">
 <h3>湖南科技大学</h3>
