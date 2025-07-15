@@ -13,6 +13,13 @@
 </p>
 </div>
 
+<div align="center">
+<p align="center">
+<b style="font-size: 1.2em; color: #026eea;">🌐 保研通知网：<a href="https://www.baoyantongzhi.com" target="_blank" style="color: #026eea;">https://www.baoyantongzhi.com</a></b><br>
+<span style="background-color: #026eea; color: white; font-size: 0.9em; font-weight: bold; font-style: italic; padding: 4px 8px; border-radius: 4px; margin-top: 5px; display: inline-block;">最实用、最全面、最活跃的保研信息同步服务平台</span>
+</p>
+</div>
+
 # 2025年度医农类保研夏令营通知合集-按截止日期排序
 
 本页面收集整理2025年度各高校医农类专业保研夏令营通知信息，按截止日期排序。

@@ -13,6 +13,13 @@
 </p>
 </div>
 
+<div align="center">
+<p align="center">
+<b style="font-size: 1.2em; color: #026eea;">🌐 保研通知网：<a href="https://www.baoyantongzhi.com" target="_blank" style="color: #026eea;">https://www.baoyantongzhi.com</a></b><br>
+<span style="background-color: #026eea; color: white; font-size: 0.9em; font-weight: bold; font-style: italic; padding: 4px 8px; border-radius: 4px; margin-top: 5px; display: inline-block;">最实用、最全面、最活跃的保研信息同步服务平台</span>
+</p>
+</div>
+
 # 2025年度保研夏令营通知合集
 
 本项目收集整理2025年度各高校保研夏令营通知信息，旨在为准备保研的同学提供及时、准确的信息参考，主要涵盖理工、经管、文法和医农。
