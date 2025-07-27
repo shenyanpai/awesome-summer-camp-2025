@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="65" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="63" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -650,7 +650,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-25 | [2025年广州医科大学附属妇女儿童医疗中心暑期研学体验营开始报名](https://mp.weixin.qq.com/s/WwbZ8E-XPTdfnSQzSvvrGg) |
+| ~~2025-07-25~~ | [2025年广州医科大学附属妇女儿童医疗中心暑期研学体验营开始报名](https://mp.weixin.qq.com/s/WwbZ8E-XPTdfnSQzSvvrGg) |
 | ~~2025-06-15~~ | [2025年广州医科大学呼吸疾病全国重点实验室2025年暑期大学生夏令营！](https://mp.weixin.qq.com/s/eEnST7GQ-gdoHhguwcg1ig) |
 
 <div align="center">

@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="65" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="63" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -75,7 +75,7 @@
 | 2025-07-27 | 南京医科大学 | [2025年南京医科大学姑苏学院2025年暑期开放日活动公告](https://gsxy.njmu.edu.cn/15909/list.htm) |
 | 2025-07-27 | 温州医科大学 | [2025年温州医科大学第二临床医学院2025年全国优秀大学生暑期夏令营活动通知](https://www.wzhealth.com/news/show-19203.html) |
 | 2025-07-27 | 山东第一医科大学 | [2025年山东第一医科大学第一附属医院2025年研究生招生暑期夏令营活动通知](https://yz.sdfmu.edu.cn/info/1017/3275.htm) |
-| 2025-07-25 | 广州医科大学 | [2025年广州医科大学附属妇女儿童医疗中心暑期研学体验营开始报名](https://mp.weixin.qq.com/s/WwbZ8E-XPTdfnSQzSvvrGg) |
+| ~~2025-07-25~~ | 广州医科大学 | [2025年广州医科大学附属妇女儿童医疗中心暑期研学体验营开始报名](https://mp.weixin.qq.com/s/WwbZ8E-XPTdfnSQzSvvrGg) |
 | ~~2025-07-24~~ | 北京大学 | [2025年北京大学口腔医学院关于举办“2025年全国优秀大学生夏令营”的通知](https://ss.bjmu.edu.cn/Html/News/Articles/6401.html) |
 | ~~2025-07-22~~ | 中国农业科学院 | [2025年中国农业科学院郑州果树研究所2025年大学生暑期夏令营活动通知](https://zfri.caas.cn/xwzx/tzgg/8a133398565240b9a7b4373a6f35438d.htm) |
 | ~~2025-07-21~~ | 中山大学 | [2025年中山大学附属第七医院2025年全国优秀大学生夏令营报名通知](https://www.sysush.com/content/1e33ca76-de82-4c6e-880b-97f1b1213f27) |
