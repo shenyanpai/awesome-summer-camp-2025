@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="60" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="58" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -64,7 +64,7 @@
 | 2025-08-08 | 南京大学 | [2025年南京大学工程管理学院关于举办2025年全国优秀大学生开放日的通知](https://sme.nju.edu.cn/bb/c0/c2040a768960/page.htm) |
 | 2025-08-08 | 东南大学 | [2025年东南大学经济管理学院2025年全国优秀大学生夏令营活动报名通知](https://em.seu.edu.cn/2025/0630/c57190a534638/page.htm) |
 | 2025-08-05 | 河南大学 | [2025年河南大学经济学院2025年优秀大学生夏令营招募通知](https://jjxy.henu.edu.cn/info/1041/41471.htm) |
-| 2025-07-31 | 山东大学 | [2025年山东大学经济学院2025年全国优秀大学生开放式暑期学术夏令营](https://www.econ.sdu.edu.cn/info/1139/12902.htm) |
+| ~~2025-07-31~~ | 山东大学 | [2025年山东大学经济学院2025年全国优秀大学生开放式暑期学术夏令营](https://www.econ.sdu.edu.cn/info/1139/12902.htm) |
 | ~~2025-07-23~~ | 南京邮电大学 | [2025年南京邮电大学管理学院2025年优秀大学生暑期夏令营通知](https://bc.njupt.edu.cn/2025/0719/c9063a287376/page.htm) |
 | ~~2025-07-20~~ | 南京理工大学 | [2025年南京理工大学经济管理学院2025年“经管学科开放日”活动公告](https://mp.weixin.qq.com/s/emTr1FFA1JbKfRQGReiekQ) |
 | ~~2025-07-20~~ | 香港中文大学（深圳） | [2025年香港中文大学（深圳）数据科学学院授课型硕士金融工程硕士项目2026年提前录取夏令营报名](https://mp.weixin.qq.com/s/pSced7OgxdjvlhrKpSfHdA) |

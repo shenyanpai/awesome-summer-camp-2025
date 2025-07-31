@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="60" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="58" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -247,7 +247,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-31 | [2025年山东大学经济学院2025年全国优秀大学生开放式暑期学术夏令营](https://www.econ.sdu.edu.cn/info/1139/12902.htm) |
+| ~~2025-07-31~~ | [2025年山东大学经济学院2025年全国优秀大学生开放式暑期学术夏令营](https://www.econ.sdu.edu.cn/info/1139/12902.htm) |
 | ~~2025-06-30~~ | [2025年山东大学经济研究院关于举办“2025年全国优秀大学生 暑期夏令营”的通知](http://www.cer.sdu.edu.cn/info/1035/12291.htm) |
 | ~~2025-06-30~~ | [2025年山东大学金融研究院2025年全国优秀大学生夏令营活动通知](https://mathfinance.sdu.edu.cn/info/1250/7630.htm) |
 
