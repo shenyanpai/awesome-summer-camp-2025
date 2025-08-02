@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="58" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="56" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -198,7 +198,7 @@
 | 2025-08-19 | [2025年东南大学外国语学院2025年全国优秀大学生夏令营活动报名通知](https://sfl.seu.edu.cn/2025/0703/c9828a534918/pagem.htm) |
 | 2025-08-15 | [2025年东南大学人文学院2025年全国优秀大学生夏令营活动报名通知](https://rwxy.seu.edu.cn/2025/0703/c12625a534903/pagem.htm) |
 | 2025-08-10 | [2025年东南大学马克思主义学院2025年全国优秀大学生夏令营活动报名通知](https://marxism.seu.edu.cn/2025/0627/c23336a534559/page.htm) |
-| 2025-08-01 | [2025年东南大学法学院2025年全国优秀大学生夏令营活动报名通知](https://law.seu.edu.cn/2025/0701/c9381a534732/page.htm) |
+| ~~2025-08-01~~ | [2025年东南大学法学院2025年全国优秀大学生夏令营活动报名通知](https://law.seu.edu.cn/2025/0701/c9381a534732/page.htm) |
 
 <div align="center">
 <h3>北京理工大学</h3>

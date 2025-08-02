@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="58" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="56" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -69,7 +69,7 @@
 | 2025-08-10 | 南京大学 | [2025年南京大学政府管理学院2025年全国优秀大学生开放日公告](https://public.nju.edu.cn/sy/tzgg/20250701/i325004.html) |
 | 2025-08-10 | 东南大学 | [2025年东南大学马克思主义学院2025年全国优秀大学生夏令营活动报名通知](https://marxism.seu.edu.cn/2025/0627/c23336a534559/page.htm) |
 | 2025-08-10 | 河南医药大学 | [2025年河南医药大学心理学院2025年优秀大学生暑期夏令营活动招生简章](https://www.xxmu.edu.cn/psy/info/1064/3259.htm) |
-| 2025-08-01 | 东南大学 | [2025年东南大学法学院2025年全国优秀大学生夏令营活动报名通知](https://law.seu.edu.cn/2025/0701/c9381a534732/page.htm) |
+| ~~2025-08-01~~ | 东南大学 | [2025年东南大学法学院2025年全国优秀大学生夏令营活动报名通知](https://law.seu.edu.cn/2025/0701/c9381a534732/page.htm) |
 | ~~2025-07-31~~ | 北京理工大学 | [2025年北京理工大学国际组织创新学院2025年全国优秀大学生暑期夏令营招生简章](https://sgg.bit.edu.cn/tzgg/9d795b7999b7446da4244636ef12855d.htm) |
 | ~~2025-07-31~~ | 上海大学 | [2025年上海大学历史学系全国优秀大学生夏令营暨第九届本科生论坛活动报名通知](https://mp.weixin.qq.com/s/0YYSujnjKkdldFc0ywBPCw) |
 | ~~2025-07-30~~ | 河南大学 | [2025年河南大学历史文化学院2026年优秀大学生夏令营招募通知](https://lsxy.henu.edu.cn/info/1151/20924.htm) |
