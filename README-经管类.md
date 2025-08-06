@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="56" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="53" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -582,7 +582,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-08-05 | [2025年河南大学经济学院2025年优秀大学生夏令营招募通知](https://jjxy.henu.edu.cn/info/1041/41471.htm) |
+| ~~2025-08-05~~ | [2025年河南大学经济学院2025年优秀大学生夏令营招募通知](https://jjxy.henu.edu.cn/info/1041/41471.htm) |
 | ~~2025-07-05~~ | [2025年河南大学商学院2025年优秀大学生夏令营活动方案](https://sba.henu.edu.cn/info/1357/20235.htm) |
 
 <div align="center">
