@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="44" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="42" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -574,7 +574,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-08-15 | [2025年广州大学管理学院全国优秀大学生暑期夏令营招生正式开启](https://mp.weixin.qq.com/s/D-0H9U7TeqB_YaYkrYwBRw) |
+| ~~2025-08-15~~ | [2025年广州大学管理学院全国优秀大学生暑期夏令营招生正式开启](https://mp.weixin.qq.com/s/D-0H9U7TeqB_YaYkrYwBRw) |
 
 <div align="center">
 <h3>河南大学</h3>
