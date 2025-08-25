@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="37" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="34" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -489,7 +489,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-08-23 | [2025年中南财经政法大学工商管理学院第八届优秀本科生研招校园开放日活动简章](https://gsxy.zuel.edu.cn/2025/0716/c4131a401771/pagem.htm) |
+| ~~2025-08-23~~ | [2025年中南财经政法大学工商管理学院第八届优秀本科生研招校园开放日活动简章](https://gsxy.zuel.edu.cn/2025/0716/c4131a401771/pagem.htm) |
 | ~~2025-08-18~~ | [2025年中南财经政法大学经济学院关于举办2025年度“优秀本科生研招校园开放日研学活动”的通知](https://jjxy.zuel.edu.cn/2025/0717/c2744a401793/page.htm) |
 | ~~2025-08-10~~ | [2025年中南财经政法大学会计学院“会人会语”优秀本科生研招校园开放日研学活动的通知](https://mp.weixin.qq.com/s/4q9dFGzN_jVONhNCwWhHZw) |
 | ~~2025-07-03~~ | [2025年中南财经政法大学金融学院关于举办2025年度“优秀本科生研招校园开放日研学活动”的通知](https://finance.zuel.edu.cn/2025/0626/c1150a397107/page.htm) |

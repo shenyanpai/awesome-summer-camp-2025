@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="37" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="34" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -56,7 +56,7 @@
 | 暂无 | 中国科学院大学 | [2025年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营学科宣讲会](https://mp.weixin.qq.com/s/12LEpNgY-Uy-W80JENeD7Q) |
 | 2025-09-15 | 伊利诺伊大学厄巴纳-香槟分校 | [2025年美国伊利诺伊大学香槟分校商学院（UIUC）刘云川教授中美管理类“全球竞争力”GCPHD联合科研团队招生](https://nan) |
 | 2025-08-31 | 西南财经大学 | [2025年西南财经大学工商管理学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
-| 2025-08-23 | 中南财经政法大学 | [2025年中南财经政法大学工商管理学院第八届优秀本科生研招校园开放日活动简章](https://gsxy.zuel.edu.cn/2025/0716/c4131a401771/pagem.htm) |
+| ~~2025-08-23~~ | 中南财经政法大学 | [2025年中南财经政法大学工商管理学院第八届优秀本科生研招校园开放日活动简章](https://gsxy.zuel.edu.cn/2025/0716/c4131a401771/pagem.htm) |
 | ~~2025-08-18~~ | 北京大学 | [2025年北京大学光华管理学院2025年金融、会计（专业学位）夏令营通知](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ) |
 | ~~2025-08-18~~ | 中南财经政法大学 | [2025年中南财经政法大学经济学院关于举办2025年度“优秀本科生研招校园开放日研学活动”的通知](https://jjxy.zuel.edu.cn/2025/0717/c2744a401793/page.htm) |
 | ~~2025-08-17~~ | 长安大学 | [2025年长安大学经济与管理学院2025年线上学术开放周通知](http://jgxy.chd.edu.cn/neiye_show.aspx?id=5225) |
