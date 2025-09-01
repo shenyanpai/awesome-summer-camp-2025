@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="28" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="20" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -481,7 +481,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-08-31 | [2025年西南财经大学工商管理学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| ~~2025-08-31~~ | [2025年西南财经大学工商管理学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
 
 <div align="center">
 <h3>中南财经政法大学</h3>
