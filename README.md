@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="6" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="5" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -3365,7 +3365,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-09-15 | [2025年美国伊利诺伊大学香槟分校商学院（UIUC）刘云川教授中美管理类“全球竞争力”GCPHD联合科研团队招生](https://nan) |
+| ~~2025-09-15~~ | [2025年美国伊利诺伊大学香槟分校商学院（UIUC）刘云川教授中美管理类“全球竞争力”GCPHD联合科研团队招生](https://nan) |
 
 ## 📝 数据来源
 
